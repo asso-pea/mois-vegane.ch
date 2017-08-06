@@ -1,0 +1,33 @@
+{
+  "name": "mois-vegane",
+  "version": "1.0.0",
+  "author": "Liip AG",
+  "license": "private",
+  "private": true,
+  "scripts": {
+    "start": "gulp",
+    "build": "gulp build --production"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.12.7",
+    "bs-pretty-message": "^1.0.8",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-if": "^2.0.1",
+    "gulp-imagemin": "^3.0.1",
+    "gulp-load-plugins": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.4.0",
+    "webpack": "^2.2.1",
+    "babel-core": "^6.11.4",
+    "babel-loader": "^6.2.4",
+    "babel-preset-env": "^1.1.8",
+    "gulp-util": "^3.0.7",
+    "strip-ansi": "^3.0.1",
+    "yargs": "^6.6.0"
+  },
+  "browserslist": [
+    "Last 2 versions",
+    "IE 11"
+  ]
+}
