@@ -4,14 +4,14 @@ const argv = require('yargs').argv;
 module.exports = {
   optimize: argv.production,
   src: {
-    sass: 'static/sass/**/*.scss',
-    images: 'static/images/**/*.{gif,jpg,jpeg,png,svg}',
-    javascripts: 'static/javascripts/**/*.js',
+    sass: 'assets/sass/**/*.scss',
+    images: 'assets/images/**/*.{gif,jpg,jpeg,png,svg}',
+    javascripts: 'assets/javascripts/**/*.js',
     templates: '**/*.html',
   },
   dest: {
-    css: 'static/stylesheets',
-    images: 'static/images',
+    css: 'assets/static/stylesheets',
+    images: 'assets/static/images',
   },
   browserSync: {
     proxy: 'mois-vegane.lo',

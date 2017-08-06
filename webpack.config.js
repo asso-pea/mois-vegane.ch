@@ -6,14 +6,14 @@ const config  = require('./gulp.config.js');
 const webpackConfig = {
   resolve: {
     modules: [
-      path.resolve(__dirname, 'static/javascripts'),
+      path.resolve(__dirname, 'assets/javascripts'),
       'node_modules'
     ],
     extensions: ['.js']
   },
-  entry: './static/javascripts/index.js',
+  entry: './assets/javascripts/index.js',
   output: {
-    path: path.resolve(__dirname, 'static/javascripts'),
+    path: path.resolve(__dirname, 'assets/static/javascripts'),
     filename: 'bundle.js',
   },
   module: {
