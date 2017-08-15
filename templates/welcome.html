@@ -1,0 +1,15 @@
+{% extends "layout.html" %}
+{%- block title %}{{ this.title }}{% endblock %}
+{%- block body %}
+  <main class="welcome">
+    <section class="welcome__intro">
+      {%- block intro %}{{ this.intro }}{% endblock %}
+    </section>
+    <section class="welcome__cities">
+      <h2 class="">Choisis ta ville {% block city_selector %}{{ this.city_selector }}{% endblock %}</h2>
+      {%- for child in site.get('/lieux').children.order_by('sort_key') %}
+      <a class="welcome__city" href="{{ child._path | url }}">{{ child.title }}</a>
+      {%- endfor %}
+    </section>
+</main>
+{%- endblock %}

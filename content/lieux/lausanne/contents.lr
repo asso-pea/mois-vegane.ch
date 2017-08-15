@@ -1,0 +1,14 @@
+_model: city
+---
+sort_key: 1
+---
+title: Lausanne
+---
+events:
+
+#### event ####
+date: 2017-11-01
+----
+title: Soirée de ouverture
+----
+description:

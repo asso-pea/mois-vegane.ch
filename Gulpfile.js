@@ -89,5 +89,5 @@ gulp.task('images', () => {
     .pipe(gulp.dest(config.dest.images));
 });
 
-gulp.task('build', ['webpack', 'sass']);
+gulp.task('build', ['webpack', 'sass', 'images']);
 gulp.task('default', ['watch']);

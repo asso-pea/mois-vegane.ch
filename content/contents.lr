@@ -1,6 +1,11 @@
-title: Welcome to Mois Végane!
+_model: welcome
 ---
-body:
+title: Welcome
+---
+city_selector: Choisis ta ville
+---
+intro:
 
-This is a basic demo website that shows how to use Lektor for a basic
-website with some pages.
+Pourquoi végane ?
+
+C’est juste que « go vegan », c’est plus facile à dire que « go fais de ton mieux pour réduire ton impact négatif sur les êtres sensibles au quotidien en analysant chacune de tes décisions au regard de cette forme d’oppression de la même manière que tu le fais pour les autres formes d’oppressions et n’oublie pas de te supplémenter en B12 », et en plus ça tient dans un #hashtag.
