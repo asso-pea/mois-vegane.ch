@@ -1,1 +1,8 @@
-@import "kanbasu";
+@import 'settings/fonts';
+@import 'settings/variables';
+@import 'kanbasu/src/assets/scss/kanbasu';
+@import 'tools/wrapper';
+@import 'base/elements';
+@import 'components/header';
+@import 'components/welcome';
+@import 'components/footer';

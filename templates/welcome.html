@@ -2,11 +2,12 @@
 {%- block title %}{{ this.title }}{% endblock %}
 {%- block body %}
   <main class="welcome">
+    <div class="welcome__banner"></div>
     <section class="welcome__intro">
-      {%- block intro %}{{ this.intro }}{% endblock %}
+      {{ this.intro }}
     </section>
     <section class="welcome__cities">
-      <h2 class="">{% block city_selector %}{{ this.city_selector }}{% endblock %}</h2>
+      <h2><svg class="welcome__cities-title" width="100%" height="2em"><text x="50%" y="50%">{{ this.city_selector }}</text></svg></h2>
       {%- for child in site.get('/lieux').children.order_by('sort_key') %}
       <a class="welcome__city" href="{{ child._path | url }}">{{ child.title }}</a>
       {%- endfor %}

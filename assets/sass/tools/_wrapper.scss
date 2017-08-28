@@ -1,0 +1,7 @@
+%wrapper-text {
+  @include media('sm') {
+    width: $screen-xs-max;
+  }
+  margin: 0 auto;
+  padding: 0 $spacing-unit-default;
+}
