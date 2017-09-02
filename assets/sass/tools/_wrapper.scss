@@ -5,3 +5,14 @@
   margin: 0 auto;
   padding: 0 $spacing-unit-default;
 }
+
+$events-width: 520px + (2 * $spacing-unit-default);
+
+%wrapper-events {
+  margin: 0 auto;
+  padding: 0 $spacing-unit-default;
+
+  @media screen and (min-width: ($events-width / 16px * 1em)) {
+    width: ($events-width / 16px * 1em);
+  }
+}
