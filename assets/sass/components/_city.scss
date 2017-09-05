@@ -1,27 +1,9 @@
-.city__cities {
-  margin: 2em 0 3em;
-  font-size: .7em;
-  font-weight: bold;
-  text-align: center;
-  text-transform: uppercase;
-}
-
-.city__link {
-  display: inline-block;
-  margin: 1em 3em 0;
-}
-
-.city__link:hover,
-.city__link--active {
-  border-bottom: 2px solid;
-}
-
-.city__link--active {
+.city .subpages__link--active {
   color: $alt-color;
 }
 
 .city__events {
-  @extend %wrapper-events;
+  @extend %wrapper;
   margin-bottom: 2em;
   color: $alt-color;
 }

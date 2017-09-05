@@ -1,10 +1,10 @@
-{% extends "layout.html" %}
+{% extends "page.html" %}
 {%- block title %}{{ this.title }}{% endblock %}
 {%- block body %}
   <main class="city city--{{ this._slug }}">
-    <section class="city__cities">
+    <section class="subpages">
       {%- for child in site.get('/lieux').children.order_by('sort_key') %}
-      <a class="city__link {% if this.is_child_of(child) %}city__link--active{% endif %}" href="{{ child._path | url }}">{{ child.title }}</a>
+      <a class="subpages__link {% if this.is_child_of(child) %}subpages__link--active{% endif %}" href="{{ child._path | url }}">{{ child.title }}</a>
       {%- endfor %}
     </section>
     <section class="city__events">

@@ -2,11 +2,13 @@
 {%- block title %}{{ this.title }}{% endblock %}
 {%- block body %}
   <main class="page page--{{ this._slug }}">
+    {%- if this.parent._path != '/' %}
     <section class="subpages">
       {%- for child in this.parent.children.order_by('sort_key') %}
-      <a class="subpage__link {% if this.is_child_of(child) %}subpage__link--active{% endif %}" href="{{ child._path | url }}">{{ child.title }}</a>
+      <a class="subpages__link {% if this.is_child_of(child) %}subpages__link--active{% endif %}" href="{{ child._path | url }}">{{ child.title }}</a>
       {%- endfor %}
     </section>
+    {% endif %}
     {{ this.body }}
   </main>
 {%- endblock %}

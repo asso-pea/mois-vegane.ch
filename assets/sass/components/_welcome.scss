@@ -11,19 +11,23 @@
 }
 
 .welcome__intro {
-  @extend %wrapper-text;
+  @extend %wrapper-welcome;
   font-weight: bold;
 }
 
 .welcome__cities {
-  @extend %wrapper-text;
+  @extend %wrapper-welcome;
   padding-top: 1em;
   padding-bottom: 2.6em;
 }
 
 .welcome__cities-title {
+  @include media('sm') {
+    font-size: 1em;
+  }
   margin: 0;
   transform-origin: 50% 50%;
+  font-size: .8em;
   font-weight: bold;
   text-transform: uppercase;
   fill: none;

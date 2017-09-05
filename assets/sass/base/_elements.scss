@@ -3,12 +3,22 @@ html {
 }
 
 body {
+  @include media('sm') {
+    font-size: inherit;
+  }
   position: relative;
   min-height: 100%;
   padding-bottom: 7em;
   color: $brand-color;
+  font-size: 1.4em;
 }
 
 a {
   text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+  margin-right: auto;
+  margin-left: auto;
 }
