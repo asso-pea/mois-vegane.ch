@@ -2,3 +2,26 @@
   @extend %wrapper;
   margin-bottom: 2em;
 }
+
+.page h3 {
+  font-size: 1.1em;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.page ul {
+  font-size: .8em;
+  font-weight: bold;
+}
+
+.page p {
+  font-size: .8em;
+}
+
+.page strong a {
+  text-decoration: underline;
+}
+
+.page strong a::before {
+  content: '> ';
+}
