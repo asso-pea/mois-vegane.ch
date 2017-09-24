@@ -22,19 +22,10 @@
 }
 
 .welcome__cities-title {
+  @extend %wide-title;
   @include media('sm') {
     font-size: 1em;
   }
-  margin: 0;
-  transform-origin: 50% 50%;
-  font-size: .8em;
-  font-weight: bold;
-  text-transform: uppercase;
-  fill: none;
-  stroke: $brand-color;
-  stroke-width: 1.5px; // ?!
-  alignment-baseline: middle;
-  text-anchor: middle;
 }
 
 .welcome__city {
