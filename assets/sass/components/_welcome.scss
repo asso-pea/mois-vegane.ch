@@ -11,12 +11,12 @@
 }
 
 .welcome__intro {
-  @extend %wrapper-welcome;
+  @extend %wrapper;
   font-weight: bold;
 }
 
 .welcome__cities {
-  @extend %wrapper-welcome;
+  @extend %wrapper;
   padding-top: 1em;
   padding-bottom: 2.6em;
 }

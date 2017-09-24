@@ -1,18 +1,7 @@
-%wrapper-welcome {
+%wrapper {
   @include media('sm') {
     width: $screen-xs-max;
   }
   margin: 0 auto;
   padding: 0 $spacing-unit-default;
-}
-
-$wrapper-width: 520px + (2 * $spacing-unit-default);
-
-%wrapper {
-  margin: 0 auto;
-  padding: 0 $spacing-unit-default;
-
-  @media screen and (min-width: ($wrapper-width / 16px * 1em)) {
-    width: ($wrapper-width / 16px * 1em);
-  }
 }
