@@ -3,7 +3,9 @@
 {%- block title %}{{ this.title }}{% endblock %}
 {%- block body %}
   <main class="subscription">
-    <form class="form" id="subscriptionForm" action="{{ this.action_url }}">
+    <p class="subscription__merci js-merci">Merci et à bientôt ♥</p>
+    <form class="form" id="subscriptionForm" action="{{ this.action_url }}" method="post">
+      <input type="hidden" name="redirect_to" value="{{ this.url_to(this._path, external=true) }}?merci">
       {{ field('firstname', 'Prénom') }}
       {{ field('lastname', 'Nom') }}
       {{ field('email', 'E-mail') }}
@@ -16,4 +18,10 @@
     </form>
     {{ submit(value=this.send, onclick="subscriptionForm.submit()") }}
   </main>
+
+  <script>
+    if (/(\?|&)merci(=|$)/.test(window.location.search)) {
+      document.querySelector('.js-merci').style = 'display:block'
+    }
+  </script>
 {%- endblock %}
