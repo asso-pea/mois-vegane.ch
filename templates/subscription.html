@@ -11,9 +11,9 @@
       {{ field('email', 'E-mail') }}
       {{ field('address', 'Adresse') }}
       {{ field('postalcode', 'NPA') }}
-      {%- set city_names = site.get('/lieux').children.order_by('sort_key') | map(attribute='title') | list() %}
-      {%- set default_city = city_names | first() %}
-      {{ field('city', 'Ville', value=city_names, type='radio', checked=default_city) }}
+      {%- set canton_names = site.get('/lieux').children.order_by('sort_key') | map(attribute='title') | list() %}
+      {%- set default_canton = canton_names | first() %}
+      {{ field('canton', 'Canton', value=canton_names, type='radio', checked=default_canton) }}
       {{ field('coach', 'Coach', value=['Oui', 'Non'], type='radio', checked='Oui') }}
     </form>
     {{ submit(value=this.send, onclick="subscriptionForm.submit()") }}
