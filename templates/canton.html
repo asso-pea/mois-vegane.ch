@@ -1,13 +1,13 @@
 {% extends "page.html" %}
 {%- block title %}{{ this.title }}{% endblock %}
 {%- block body %}
-  <main class="city city--{{ this._slug }}">
+  <main class="canton canton--{{ this._slug }}">
     <section class="subpages">
       {%- for child in site.get('/lieux').children.order_by('sort_key') %}
       <a class="subpages__link {% if this.is_child_of(child) %}subpages__link--active{% endif %}" href="{{ child._path | url }}">{{ child.title }}</a>
       {%- endfor %}
     </section>
-    <section class="city__events">
+    <section class="canton__events">
       {%- for event in this.events.blocks %}
       <article class="event">
         <time class="event__day" datetime="{{ event.date | dateformat('yyyy-MM-dd') }}">
@@ -20,6 +20,12 @@
           <h4 class="event__title">{{ event.title }}</h4>
           {%- if event.description %}
           <div class="event__description">{{ event.description }}</div>
+          <div class="event__time-location">
+            {% if event.start %}{{ event.start | datetimeformat("HH'h'mm") }}{% if event.end %} – {{ event.end | datetimeformat("HH'h'mm") }}{% endif %}<br>{% endif %}
+            {%- if event.map_url != "" %}<a class="event__map-url" href="{{ event.map_url }}" target="_blank">{% endif %}
+              {{ event.location | join('<br>') | safe }}
+            {%- if event.map_url != "" %}</a>{% endif %}
+          </div>
           {%- endif %}
         </div>
       </article>

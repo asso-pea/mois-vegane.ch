@@ -1,7 +1,181 @@
-_model: city
+_model: canton
 ---
 sort_key: 2
 ---
 title: Genève
 ---
 events:
+
+#### event ####
+date: 2017-11-01
+----
+title: Soirée d’ouverture
+----
+description:
+Pour inaugurer ce Mois Végane, découvrez le programme, posez des questions, exprimez vos doutes, trouvez du soutien! Faites connaissance avec les organisateurs-trices et les autres participant-e-s autour d'un délicieux apéritif.
+----
+start: 2017-11-01 19:30
+----
+end:
+----
+location:
+Espace Dialogai
+Rue de la Navigation 11, 1201 Genève
+----
+map_url: https://goo.gl/maps/2MHUsK19ETG2
+#### event ####
+date: 2017-11-03
+----
+title: Projection de "La boucherie éthique"
+----
+description:
+De la viande éthique, ce serait donc possible? Un documentaire étonnant qui soulève bien des interrogations. Projection suivie d'un débat et d'un apéritif.
+----
+start: 2017-11-03 20:00
+----
+end:
+----
+location:
+Clos Voltaire
+Rue de Lyon 49, 1203 Genève
+----
+map_url: https://goo.gl/maps/nqattQa7bBG2
+#### event ####
+date: 2017-11-05
+----
+title: Brunch végane
+----
+description:
+Un brunch végane cuisiné avec délicatesse par Beyond Eat et organisé par l'association Urban Vegan Genève. Plus d'infos sur [urbanvge.ch/vrunchs](http://urbanvge.ch/vrunchs/)<br>
+Prix : 35.- hors boissons
+----
+start: 2017-11-05 12:00
+----
+end: 2017-11-05 15:00
+----
+location:
+Espace Dialogai
+Rue de la Navigation 11, 1201 Genève
+----
+map_url: https://goo.gl/maps/2MHUsK19ETG2
+#### event ####
+date: 2017-11-10
+----
+title: Conférence nutrition
+----
+description:
+Apprenez à réussir une transition alimentaire saine et à répondre en tous points aux besoins physiologiques du corps humain par une alimentation végétale, avec Dre Laurence Froidevaux.
+----
+start: 2017-11-10 19:30
+----
+end:
+----
+location:
+Clos Voltaire
+Rue de Lyon 49, 1203 Genève
+----
+map_url: https://goo.gl/maps/nqattQa7bBG2
+#### event ####
+date: 2017-11-14
+----
+title: Table ouverte au Café du Grütli
+----
+description:
+Un repas 100% végétal concocté par le savoureux Café du Grütli! Organisé par l'association Urban Vegan Genève. Plus d'infos sur [urbanvge.ch/vrunchs](http://urbanvge.ch/vrunchs/)<br>
+Prix : 38.- hors boissons
+----
+start: 2017-11-14 19:30
+----
+end:
+----
+location:
+Café du Grütli
+Rue du Général-Dufour 16, 1204 Genève
+----
+map_url: https://goo.gl/maps/hfmPGurAemG2
+#### event ####
+date: 2017-11-17
+----
+title: Conférence argumentation
+----
+description:
+Lions, gazelles et cri de la carotte? Un atelier pour répondre efficacement à ces objections et tenir un débat en faveur du véganisme éthique. Animé par Fabien Truffer.
+----
+start: 2017-11-17 19:30
+----
+end:
+----
+location:
+Clos Voltaire
+Rue de Lyon 49, 1203 Genève
+----
+map_url: https://goo.gl/maps/nqattQa7bBG2
+#### event ####
+date: 2017-11-19
+----
+title: Brunch canadien végane
+----
+description:
+Brunch végane qui relie arts visuels, musique et mets délicats, une collaboration entre la Maison de quartier des Pâquis et l'association Urban Vegan Genève. Apportez vos plats véganes et profitez d'un dimanche convivial! Plus d'infos sur [urbanvge.ch/vrunchs](http://urbanvge.ch/vrunchs/)
+----
+start: 2017-11-19 11:30
+----
+end: 2017-11-19 17:00
+----
+location:
+Maison de quartier des Pâquis
+Rue de Berne 50, 1201 Genève
+----
+map_url: https://goo.gl/maps/1DU8cRJ51K32
+#### event ####
+date: 2017-11-21
+----
+title: Visite de Swissoja
+----
+description:
+Poussez les portes de l'entreprise Swissoja qui, dans son laboratoire genevois, élabore des produits à base de soja bio, sans OGM et de provenance locale. Résultat : toute une gamme de produits entièrement végétaux qui conquièrent les papilles et le coeur. Dégustation offerte. Limité à 10 places.
+----
+start: 2017-11-21 09:00
+----
+end:
+----
+location:
+Swissoja
+Route des Acacias 43, 1227 Les Acacias
+----
+map_url: https://goo.gl/maps/oMoT7CZhKCG2
+#### event ####
+date: 2017-11-24
+----
+title: Rencontre avec Cemil de "Cemil choses à te dire"
+----
+description:
+Apportez vos plats véganes et profitez d'un dimanche convivial! Plus d'infos sur [urbanvge.ch/vrunchs](http://urbanvge.ch/vrunchs/)
+----
+start: 2017-11-24 19:30
+----
+end:
+----
+location:
+Clos Voltaire
+Rue de Lyon 49, 1203 Genève
+----
+map_url: https://goo.gl/maps/nqattQa7bBG2
+#### event ####
+date: 2017-11-30
+----
+title: Table ouverte au restaurant Mu-Food
+----
+description:
+Venez partager votre expérience, exprimer les questionnements qu'il vous reste et découvrir un restaurant genevois entièrement végane qui ravit les palais les plus exigeants. Menu à venir.<br>
+Prix : 38.-
+----
+start: 2017-11-30 19:30
+----
+end:
+----
+location:
+Mu-Food
+Rue de Lausanne 59, 1202 Genève
+----
+map_url: https://goo.gl/maps/2kt2M5R21kG2

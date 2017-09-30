@@ -15,20 +15,20 @@
   font-weight: bold;
 }
 
-.welcome__cities {
+.welcome__cantons {
   @extend %wrapper;
   padding-top: 1em;
   padding-bottom: 2.6em;
 }
 
-.welcome__cities-title {
+.welcome__cantons-title {
   @extend %wide-title;
   @include media('sm') {
     font-size: 1em;
   }
 }
 
-.welcome__city {
+.welcome__canton {
   display: table;
   margin: 0 auto;
   padding-top: 10px;
@@ -38,6 +38,6 @@
   text-transform: uppercase;
 }
 
-.welcome__city:hover {
+.welcome__canton:hover {
   border-bottom: 2px solid;
 }

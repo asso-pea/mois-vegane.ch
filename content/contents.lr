@@ -2,7 +2,7 @@ _model: welcome
 ---
 title: Welcome
 ---
-city_selector: Choisis ta ville
+canton_selector: Choisis ton canton
 ---
 intro:
 

@@ -1,0 +1,140 @@
+_model: canton
+---
+sort_key: 5
+---
+title: Neuchâtel
+---
+events:
+
+#### event ####
+date: 2017-11-01
+----
+title: Soirée d’ouverture + Apéro dinatoire
+----
+description:
+Rencontre et accueil des participant-e-s au mois végane,mot de bienvenue, apéritif végétalien et exposition "Qui sont les Poissons ?"
+----
+start: 2017-11-01 18:30
+----
+end:
+----
+location:
+La Coquille
+Rue du 1er-Mars 14, 2300 La Chaux-de-Fonds
+----
+map_url: https://goo.gl/maps/92o85K7MiEN2
+#### event ####
+date: 2017-11-11
+----
+title: Spectacle de Marionnettes
+----
+description:
+A travers un spectacle de marionnettes, familiariser les enfants à l'éthique animale
+----
+start: 2017-11-11 13:30
+----
+end: 2017-11-11 18:30
+----
+location:
+La Coquille
+Rue du 1er-Mars 14, 2300 La Chaux-de-Fonds
+----
+map_url: https://goo.gl/maps/92o85K7MiEN2
+#### event ####
+date: 2017-11-11
+----
+title: Cours de pâtisserie
+----
+description:
+"Cakes et autres gourmandises sucrées, venez apprendre à vous faire plaisir sans cruauté !" avec Cloé Dutoit, [blogueuse culinaire](https://greeneatch.wordpress.com)
+----
+start: 2017-11-11 13:30
+----
+end: 2017-11-11 18:30
+----
+location:
+La Coquille
+Rue du 1er-Mars 14, 2300 La Chaux-de-Fonds
+----
+map_url: https://goo.gl/maps/92o85K7MiEN2
+#### event ####
+date: 2017-11-17
+----
+title: Conférence nutrition avec Laurence Froidevaux
+----
+description:
+"Manger végane (ou comment écouter sa conscience et rester en pleine forme)" avec Laurence Froidevaux
+----
+start: 2017-11-17 19:00
+----
+end:
+----
+location:
+Avenue de la Gare 3, 2ème étage, 2000 Neuchâtel
+----
+map_url: https://goo.gl/maps/8ibzGhLW7w92
+#### event ####
+date: 2017-11-18
+----
+title: Shopping-tour matin
+----
+description:
+Petit tour des produits véganes disponible dans nos régions. RDV : 9h00 Café Spectacollo, Neuchâtel gare. 13h30, gare de la Chaux-de-Fonds
+----
+start: 2017-11-18 09:00
+----
+end:
+----
+location:
+Café Spectacollo
+Pl. de la Gare 1, 2002 Neuchâtel
+----
+map_url: https://goo.gl/maps/LshHY6EYB4m
+#### event ####
+date: 2017-11-18
+----
+title: Shopping-tour après-midi
+----
+description:
+Petit tour des produits véganes disponible dans nos régions.
+----
+start: 2017-11-18 13:30
+----
+end:
+----
+location:
+Place de la Gare, 2300 La Chaux-de-Fonds
+----
+map_url: https://goo.gl/maps/3j8yiabCyK22
+#### event ####
+date: 2017-11-23
+----
+title: Conférence "les arguments pour le véganisme"
+----
+description:
+Lions, gazelles et cri de la carotte? Un atelier pour répondre ef cacement à ces objections et tenir un débat en faveur du véganisme éthique. Animé par Fabien Truffer.
+----
+start: 2017-11-23 19:30
+----
+end:
+----
+location:
+Avenue de la Gare 3, 2ème étage, 2000 Neuchâtel
+----
+map_url: https://goo.gl/maps/8ibzGhLW7w92
+#### event ####
+date: 2017-11-30
+----
+title: Soirée de Cloture + Film "La Boucherie Ethique"
+----
+description:
+Soirée de Cloture, apéro dinatoire et projection du film "La Boucherie Ethique" pour pousser plus loin la question du véganisme
+----
+start: 2017-11-30 18:30
+----
+end: 2017-11-30 21:15
+----
+location:
+Avenue de la Gare 3, 2ème étage, 2000 Neuchâtel
+----
+map_url: https://goo.gl/maps/8ibzGhLW7w92

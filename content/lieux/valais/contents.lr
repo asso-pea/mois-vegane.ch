@@ -1,0 +1,214 @@
+_model: canton
+---
+sort_key: 4
+---
+title: Valais
+---
+events:
+
+#### event ####
+date: 2017-11-01
+----
+title: Soirée d’ouverture + Apéro
+----
+description:
+Rencontre et accueil des participant-e-s au Mois végane,mot de bienvenue, apéritif végétalien et bonne humeur
+----
+start: 2017-11-01 18:00
+----
+end: 2017-11-01 20:00
+----
+location:
+Centre RLC (Totem)
+Rue de Loèche 23, 1950 Sion
+----
+map_url: https://goo.gl/maps/wu9wfQans2t
+#### event ####
+date: 2017-11-04
+----
+title: Mam & Co : Apéritif dinatoire et atelier lait végétaux
+----
+description:
+Venez déguster des tapas et autres petits mets végétaux tout en participant à un atelier d'initiation aux laits végétaux avec Mam&Co
+----
+start: 2017-11-04 17:30
+----
+end: 2017-11-04 19:00
+----
+location:
+Chez Mamie
+Rue de Venise 8, 1870 Monthey
+----
+map_url: https://goo.gl/maps/EyrQBnBdr7Q2
+#### event ####
+date: 2017-11-06
+----
+title: Table ouverte
+----
+description:
+Venez partager votre expérience, discuter et découvrir l'univers de Chez Chander<br>
+Prix : 35.-
+----
+start: 2017-11-01 19:00
+----
+end:
+----
+location:
+Chez Chander
+Rue de Lausanne 52, 1950 Sion
+----
+map_url: https://goo.gl/maps/99Lp67jKH2F2
+#### event ####
+date: 2017-11-08
+----
+title: Cuisine philo
+----
+description:
+Atelier d'initiation à l'alimentation végétalienne: « Un repas de fête sans foie gras, quelle joie ! »
+----
+start: 2017-11-08 18:30
+----
+end:
+----
+location:
+Centre Loisirs et Culture
+Rue des Vorziers 2, 1920 Martigny
+----
+map_url: https://goo.gl/maps/tPbBVe8iQJA2
+#### event ####
+date: 2017-11-15
+----
+title: Apéro + Ouverture de l'exposition «qui sont les poissons ?»
+----
+description:
+Qui sont les poissons? Venez le découvrir autour d'un verre grace a une exposition qui leur est consacrée.
+----
+start: 2017-11-15 18:00
+----
+end:
+----
+location:
+Centre Loisirs et Culture
+Rue des Vorziers 2, 1920 Martigny
+----
+map_url: https://goo.gl/maps/tPbBVe8iQJA2
+#### event ####
+date: 2017-11-15
+----
+title: Film « Sea the Truth »
+----
+description:
+« Sea the Truth » nous plonge dans le débat entre les autorités qui souhaitent mettre en place des projets de pêche durable et les scientifiques qui sont convaincus que chaque nouvelle prise est une prise de trop.
+----
+start: 2017-11-15 18:30
+----
+end:
+----
+location:
+Centre Loisirs et Culture
+Rue des Vorziers 2, 1920 Martigny
+----
+map_url: https://goo.gl/maps/tPbBVe8iQJA2
+#### event ####
+date: 2017-11-17
+----
+title: Film « La Boucherie Ethique »
+----
+description:
+Projection du film « La Boucherie Ethique » et débat sur le sujet
+----
+start: 2017-11-17 19:30
+----
+end:
+----
+location:
+Soluna
+Avenue Plantaud 48, 1870 Monthey
+----
+map_url: https://goo.gl/maps/MHC9qCtNcUu
+#### event ####
+date: 2017-11-18
+----
+title: Atelier decouverte de produits végétaux
+----
+description:
+Petit tour des produits véganes à disposition à Nouvelle Terre, venez décourvrir certains produits, et leurs intérêts nutritifs
+----
+start: 2017-11-18 16:00
+----
+end: 2017-11-18 17:00
+----
+location:
+Nouvelle Terre
+Rue du Grand-Verger 12, 1920 Martigny
+----
+map_url: https://goo.gl/maps/QauwkNMgK4G2
+#### event ####
+date: 2017-11-18
+----
+title: Film « Santé dans l'assiette » (2011)
+----
+description:
+Que peut apporter une alimentation 100% végétale? C'est ce que les docteurs Colin Campbell (nutritionniste) et Caldwell Esselstyn (chirurgien) examinent dans ce documentaire.
+----
+start: 2017-11-18 17:00
+----
+end: 2017-11-18 19:00
+----
+location:
+Nouvelle Terre
+Rue du Grand-Verger 12, 1920 Martigny
+----
+map_url: https://goo.gl/maps/QauwkNMgK4G2
+#### event ####
+date: 2017-11-22
+----
+title: Présentation nutrition par Nadège Fontaine
+----
+description:
+Tout ce qu’il faut savoir pour se lancer dans la nutrition végane par Nadége Fontaine, thérapeute et nutritionniste
+----
+start: 2017-11-22 19:00
+----
+end:
+----
+location:
+Centre Loisirs et Culture
+Rue des Vorziers 2, 1920 Martigny
+----
+map_url: https://goo.gl/maps/tPbBVe8iQJA2
+#### event ####
+date: 2017-11-25
+----
+title: Cuisine philo
+----
+description:
+Atelier d'initiation à l'alimentation végétalienne: « Et les oeufs? Tu les remplaces par quoi? Et pourquoi? »
+----
+start: 2017-11-25 14:00
+----
+end: 2017-11-25 18:00
+----
+location:
+Centre RLC (Totem)
+Rue de Loèche 23, 1950 Sion
+----
+map_url: https://goo.gl/maps/wu9wfQans2t
+#### event ####
+date: 2017-11-30
+----
+title: Table ouverte
+----
+description:
+Retrouvons-nous au restaurant de la Croix Blanche pour savourer un menu végétal concocté spécialement pour l'occasion.<br>
+Prix : 35.-
+----
+start: 2017-11-30 19:00
+----
+end:
+----
+location:
+Croix Blanche
+Rue de l'Eglise 28, 1955
+----
+map_url: https://goo.gl/maps/rXtrjFGcgoq

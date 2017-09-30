@@ -1,3 +1,4 @@
 [project]
 name = Mois Végane
-url = https://mois-vegane.ch
+;url = https://mois-vegane.ch
+url = http://localhost:5000

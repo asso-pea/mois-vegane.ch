@@ -1,7 +1,7 @@
 .event {
   display: table;
   width: 100%;
-  padding: .8em 0 .3em;
+  padding: .8em;
   border-bottom: 1px solid;
 }
 
@@ -19,11 +19,30 @@
 
 .event__weekday,
 .event__title {
-  margin-top: 0;
+  margin: 0;
   font-weight: bold;
   text-transform: uppercase;
 }
 
 .event__weekday {
   margin-top: .5em;
+}
+
+.event__description a {
+  color: inherit;
+  text-decoration: underline;
+}
+
+.event__description,
+.event__time-location {
+  font-size: .9em;
+}
+
+.event__map-url {
+  color: inherit;
+
+  &::after {
+    font-weight: 600;
+    content: ' >';
+  }
 }
