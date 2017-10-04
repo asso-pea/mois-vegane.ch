@@ -2,9 +2,13 @@
 {%- block title %}{{ this.title }}{% endblock %}
 {%- block body %}
   <main class="welcome">
-    <div class="welcome__banner"></div>
+    <div class="welcome__banner">
+      <img class="welcome__banner-img" src="{{ '/static/images/header.svg' | asseturl }}">
+    </div>
     <section class="welcome__intro">
       {{ this.intro }}
+      <h2><svg class="welcome__why-vegan-title" width="100%" height="2em"><text x="50%" y="50%">{{ this.why_vegan_title }}</text></svg></h2>
+      {{ this.why_vegan_text }}
     </section>
     <section class="welcome__cantons">
       <h2><svg class="welcome__cantons-title" width="100%" height="2em"><text x="50%" y="50%">{{ this.canton_selector }}</text></svg></h2>

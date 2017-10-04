@@ -2,10 +2,12 @@ _model: welcome
 ---
 title: Welcome
 ---
-canton_selector: Choisis ton canton
----
 intro:
-
-Pourquoi végane ?
-
+Durant tout le mois de novembre, le Mois végane vous propose des activités en lien avec le véganisme.
+---
+why_vegan_title: Pourquoi végane ?
+---
+why_vegan_text:
 C’est juste que « go vegan », c’est plus facile à dire que « go fais de ton mieux pour réduire ton impact négatif sur les êtres sensibles au quotidien en analysant chacune de tes décisions au regard de cette forme d’oppression de la même manière que tu le fais pour les autres formes d’oppressions et n’oublie pas de te supplémenter en B12 », et en plus ça tient dans un #hashtag.
+---
+canton_selector: Choisis ton canton
