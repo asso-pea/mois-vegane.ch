@@ -25,3 +25,8 @@
 .page strong a::before {
   content: '> ';
 }
+
+.page .half-image {
+  display: inline-block;
+  width: 50%;
+}
