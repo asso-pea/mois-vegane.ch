@@ -4,13 +4,13 @@ html {
 
 body {
   @include media('sm') {
-    font-size: inherit;
+    font-size: 17px;
   }
   position: relative;
   min-height: 100%;
   padding-bottom: 7em;
   color: $brand-color;
-  font-size: 1.4em;
+  font-size: 18px;
 }
 
 a {
