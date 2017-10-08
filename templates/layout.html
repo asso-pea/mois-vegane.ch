@@ -1,28 +1,33 @@
-<!doctype html>
-<meta charset="utf-8">
-<link rel="stylesheet" href="{{ '/static/stylesheets/main.css'|url }}">
-<title>{% block title %}Welcome{% endblock %} — Mois Végane</title>
+{%- set root = site.get('/') -%}
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=640, maximum-scale=1.0, user-scalable=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <link rel="apple-touch-icon" sizes="192x192" href="{{ '/static/images/favicon.png' | asseturl }}">
+  <link rel="shortcut icon" type="image/png" sizes="192x192" href="{{ '/static/images/favicon.png' | asseturl }}">
+  <link rel="stylesheet" href="{{ '/static/stylesheets/main.css' | asseturl }}">
+  <title>{% block title %}{% endblock %} — Mois Végane</title>
+</head>
 <body>
-  <header>
-    <h1>Mois Végane</h1>
+  <header class="header header--{{ this._slug | default('home', true) }}">
+    <h1><a class="header__logo" href="{{ '/' | url }}">Mois Végane</a></h1>
     <nav>
-      <ul class="nav navbar-nav">
-        <li{% if this._path == '/' %} class="active"{% endif
-          %}><a href="{{ '/'|url }}">Welcome</a></li>
-        {% for href, title in [
-          ['/projects', 'Projects'],
-          ['/about', 'About']
-        ] %}
-          <li{% if this.is_child_of(href) %} class="active"{% endif
-            %}><a href="{{ href|url }}">{{ title }}</a></li>
-        {% endfor %}
+      <ul class="header__nav">
+        {%- for child in root.children.order_by('sort_key') %}
+        <li class="header__item">
+          {%- set page = child.children.order_by('sort_key').first() if child.children else child %}
+          <a class="header__link {% if this.is_child_of(child) %}header__link--active{% endif %}" href="{{ page._path | url }}">{{ child.title }}</a>
+        </li>
+        {%- endfor %}
       </ul>
     </nav>
   </header>
-  <div class="page">
-    {% block body %}{% endblock %}
-  </div>
-  <footer>
-    &copy; Copyright 2017 by PEA.
+  {%- block body %}{% endblock %}
+  <footer class="footer">
+    <p class="footer__copyright">&copy; Copyright 2017 · <a href="https://www.asso-pea.ch">PEA</a></p>
+    <a class="footer__fb" href="https://www.facebook.com/pages/PEA-Pour-lEgalit%C3%A9-Animale/631735796921099" target="_blank"></a>
   </footer>
 </body>
+</html>

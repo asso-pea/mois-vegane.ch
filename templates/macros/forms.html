@@ -1,0 +1,42 @@
+{# in case it's a radio, you can use `checked="XYZ"` to check the element with value "XYZ" #}
+{%- macro field(name, label, value='', type='text') -%}
+  <label class="form__field form__field--{{ type }}" for="{{ name }}">
+    <span class="form__name">{{ label }}</span>
+    {%- if type == 'radio' %}
+    {{ radio(name, values=value, checked=kwargs['checked']) }}
+    {%- elif type == 'submit' %}
+    {{ submit(value) }}
+    {%- else %}
+    {{ input(name, value, type) }}
+    {%- endif %}
+  </label>
+{%- endmacro -%}
+
+{%- macro input(name, value='', type='text', id=None) -%}
+  <input class="form__input form__input--{{ type }}" id="{{ id or name }}" type="{{ type }}" value="{{ value | escape }}" name="{{ name }}" {% for key in kwargs -%}
+    {{ key }}{% if kwargs[key] %}="{{ kwargs[key] }}"{% endif %}
+  {%- endfor -%}
+  >
+{%- endmacro -%}
+
+{%- macro radio(name, values=[], checked=None) -%}
+  <div class="form__values form__values--radio">
+  {%- for value in values %}
+    {%- set id = name ~ loop.index %}
+    {%- if checked == value %}
+    {{ input(name, value, type='radio', id=id, checked=None) }}
+    {%- else %}
+    {{ input(name, value, type='radio', id=id) }}
+    {%- endif %}
+    <label class="form__value" for="{{ id }}">{{ value | escape }}</label>
+  {%- endfor %}
+  </div>
+{%- endmacro -%}
+
+{%- macro submit(value, onclick="") -%}
+  <button class="form__field form__field--submit" onclick="{{ onclick }}">
+    <svg class="form__input--submit" width="100%" height="2em">
+      <text x="50%" y="50%">{{ value }}</text>
+    </svg>
+  </button>
+{%- endmacro -%}

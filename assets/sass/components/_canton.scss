@@ -1,0 +1,8 @@
+.canton .subpages__link--active {
+  color: $alt-color;
+}
+
+.canton__events {
+  @extend %wrapper;
+  margin-bottom: 2em;
+}

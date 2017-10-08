@@ -21,6 +21,7 @@ module.exports = {
   },
   sass: {
     outputStyle: 'compressed',
+    includePaths: ['node_modules'],
   },
   autoprefixer: {
     cascade: false,

@@ -1,0 +1,295 @@
+_model: canton
+---
+sort_key: 1
+---
+title: Vaud
+---
+events:
+
+#### event ####
+date: 2017-11-01
+----
+title: Soirée d'ouverture
+----
+description:
+C'est parti ! Un mois d'activités autour du véganisme et de la question animale. Ne ratez pas la soirée d'ouverture afin de vous lancer dans le challenge, découvrir le programme et faire connaissance avec les organisateurs.trices et les autres participants.tes.<br>
+Nous nous réjouissons de votre présence !
+----
+start: 2017-11-01 18:30
+----
+end: 2017-11-01 21:00
+----
+location:
+Section des Diablerets du Club Alpin Suisse CAS
+Rue Beau-Séjour 24, 1002 Lausanne
+----
+map_url: https://goo.gl/maps/7JdXptua3t52
+#### event ####
+date: 2017-11-03
+----
+title: Conférence : Nutrition
+----
+description:
+Vous vous lancez le défi du mois végane et ça commence dans votre assiette.<br>
+Mais comment ne pas perdre toutes ses dents, avoir la peau grise et se traîner sans énergie péniblement jusqu'au 30 novembre ?<br>
+L'alimentation végétalienne est entourée de légendes, nous vous invitons à les démystifier avec Dr Laurence Froidevaux.<br>
+La conférence commence à 18h30 mais vous pouvez venir dès 18h00.
+----
+start: 2017-11-01 18:00
+----
+end: 2017-11-01 21:00
+----
+location:
+Espace Dickens
+Avenue Dickens 4, 1006 Lausanne
+----
+map_url: https://goo.gl/maps/xQr7RYz1Fxz
+#### event ####
+date: 2017-11-04
+----
+title: Shopping Tour
+----
+description:
+Munissez-vous de vos plus beaux cabas et de vos baskets !<br>
+Nous vous emmenons dans une sympathique balade urbaine vous dévoilant tous les lieux où faire vos courses durant le mois végane.<br>
+N'hésitez pas à prendre congé de nous si la promenade vous est trop longue mais pour celles et ceux qui iront jusqu'où bout à notre dernier arrêt nous prévoyons une burger party au Veganopolis Café !
+----
+start: 2017-11-04 13:00
+----
+end:
+----
+location:
+Rdv Gare de Lausanne
+Hall côté Subway
+----
+map_url: https://goo.gl/maps/3LmMqxU4yVA2
+#### event ####
+date: 2017-11-05
+----
+title: Atelier : Cuisine
+----
+description:
+Vous avez mangé des pâtes sauce tomate depuis le début du mois végane parce que vous êtes paumé, n'avez pas Internet ou flemmard ?<br>
+Ce sont toutes de bonnes raisons. Mais pour éviter la lassitude à vos papilles venez participer à un atelier de cuisiner pour mettre en pratique ce que vous avez appris lors de la conférence de nutrition, ou apprendre sur le tas les mains à la pâte !<br>
+Ce sera l'occasion de partager un repas dimanche soir de ce que vous aurez préparer tous/toutes ensemble l'après-midi.
+----
+start: 2017-11-05 14:00
+----
+end:
+----
+location:
+Ancien Espace Mozaïk
+Rue des Côtes-de-Montbenon 15, 1003 Lausanne
+----
+map_url: https://goo.gl/maps/LdZ3BJckbbH2
+#### event ####
+date: 2017-11-07
+----
+title: Projection & debate : "Spécisme"
+----
+description: Qu'est-ce que le "spécisme" ? C'est la question que s'est posée un jeune étudiant qui tentera d'y répondre dans ce film avec de nombreux intervenants pour nous éclairer et une pointe d'humour. Suivi d'une discussion concernant le mouvement anti-spéciste et des questions-réponses.<br>
+Accueil 17h30
+----
+start: 2017-11-07 18:30
+----
+end:
+----
+location:
+Espace Dickens
+Avenue Dickens 4, 1006 Lausanne
+----
+map_url: https://goo.gl/maps/xQr7RYz1Fxz
+#### event ####
+date: 2017-11-11
+----
+title: Shopping Tour
+----
+description:
+Vous avez raté le premier shopping tour ou n'avez fait que la moitié ?<br>
+Pas de souci car on remet ça samedi ! Même balade.
+----
+start: 2017-11-11 13:00
+----
+end:
+----
+location:
+Rdv Gare de Lausanne
+Hall côté Subway
+----
+map_url: https://goo.gl/maps/3LmMqxU4yVA2
+#### event ####
+date: 2017-11-12
+----
+title: Atelier : Pâtisserie
+----
+description:
+"Des pâtisseries sans aucun produit animaux ? C'est possible. C'est même très possible et très très bons !<br>
+Venez partager une après-midi salivante avec Andonia et ses magnifiques pâtisseries sans oeufs, sans lait, crème ou beurre, et découvrez les ingrédients végétaux insoupçonnés que tout le monde a dans sa cuisine pour reproduire de tels délices !
+----
+start: 2017-11-12 13:30
+----
+end:
+----
+location:
+Editions Age d'Homme
+Avenue du Théâtre 2-4, 1005 Lausanne
+----
+map_url: https://goo.gl/maps/hSrQBiffa262
+#### event ####
+date: 2017-11-14
+----
+title: Projection : "La Boucherie Etique"
+----
+description:
+Peut-on vraiment manger de la viande éthique ? Il semblerait bien que oui pour Daniel qui nous présente LA solution à travers ce film. Une aventure déroutante, drôle et inattendue !<br>
+Un film qui fait réfléchir, extrêmement bien réalisé par le collectif engagé "Les parasites".<br>
+Accueil 17h30
+----
+start: 2017-11-14 18:30
+----
+end:
+----
+location:
+La Proue
+Escaliers du Marché 17, 1003 Lausanne
+----
+map_url: https://goo.gl/maps/hJMuHacuGgx
+#### event ####
+date: 2017-11-15
+----
+title: Sortie Conviviale
+----
+description:
+Donner un espace aux participants/tes de sympathiser, s'interroger et de bien manger.<br>
+Faire un point sur le mois et le challenge. Leurs avis, retours, suggestions, etc.
+----
+start: 2017-11-15 18:30
+----
+end:
+----
+location: A définir
+----
+map_url:
+#### event ####
+date: 2017-11-18
+----
+title: Atelier : DIY produits du quotidien
+----
+description:
+Apprendre à faire ses produits véganes soi-même : c'est  sans cruauté, simple, économique, sain et très amusant !<br>
+Du déodorant sans aluminium inratable à un prix défiant toute concurrence, du mascara et de l'eyeliner express qui nourrissent vos cils, des huiles et des gommages pour prendre soin de soi, de la crème solaire, même une crème de rasage si intéressé.e.s  ainsi que des produits tout simples pour nettoyer sa maison !<br>
+Luttez contre le spécisme et le consummérisme et repartez avec les produits que vous aurez confectionnés.
+----
+start: 2017-11-18 13:00
+----
+end: 2017-11-18 18:00
+----
+location:
+CPO - centre pluriculturel et social d'Ouchy
+Salle de rencontre 1 (tout proche du métro Délices)
+Beau-Rivage 2, 1006 Lausanne
+----
+map_url: https://goo.gl/maps/RQVXMYrJ22R2
+#### event ####
+date: 2017-11-19
+----
+title: Atelier : Cuisine - Apéro dînatoire
+----
+description:
+Recevoir à la dernière minute et improviser une soirée végane toute simple qui marquera les esprits ?<br>
+C'est très simple avec : Romain de "Terre Mère" !
+----
+start: 2017-11-19 13:30
+----
+end:
+----
+location: A définir
+----
+map_url:
+#### event ####
+date: 2017-11-21
+----
+title: Conférence : Argumentatif pour le véganisme
+----
+description:
+Vous vous êtes lancés corps et âme dans le mois végane et depuis le début du mois vous assurez à ce challenge. Mais vos amis et votre famille ne comprennent pas bien votre décision, autant le dire ils commencent vraiment à vous courir sur le haricot avec leurs arguments relous ?<br>
+Nous avons la solution. Assistez à la conférence "Argumentatif pour le véganisme" afin d'avoir toutes les clefs pour leur répondre. Et pourquoi ne pas les invitez aussi à écouter et poser leurs questions directement ?<br>
+Accueil 17h30
+----
+start: 2017-11-21 18:30
+----
+end:
+----
+location:
+La Proue
+Escaliers du Marché 17, 1003 Lausanne
+----
+map_url: https://goo.gl/maps/hJMuHacuGgx
+#### event ####
+date: 2017-11-25
+----
+title: Manifestation : Journée Mondiale contre le foie gras
+----
+description:
+Pour la journée mondiale contre le foie gras, PEA vous convie à une manifestation au vue des fêtes  afin de protester contre la production et la vente de foie gras. Soyons nombreux.ses à revendiquer la fin de la cruauté et demandons à la Migros de montrer l'exemple en banissant le foie gras de son assortiment.
+----
+start: 2017-11-25 13:30
+----
+end:
+----
+location: Devant la Migros métropole 2000
+----
+map_url: https://goo.gl/maps/Fm2zR1zdzKT2
+#### event ####
+date: 2017-11-26
+----
+title: Vrunch
+----
+description:
+L'équipe Véganovorus vous prépare, comme chaque dernier dimanche du mois, un brunch végane.
+----
+start: 2017-11-26 11:30
+----
+end:
+----
+location:
+Editions Age d'Homme
+Avenue du Théâtre 2-4, 1005 Lausanne
+----
+map_url: https://goo.gl/maps/hSrQBiffa262
+#### event ####
+date: 2017-11-28
+----
+title: Conférence : Changement sociétal en faveur des animaux
+----
+description:
+Maintenant que vous avez appris plein de choses sur les animaux et le spécisme, vous avez peut-être un peu la rage... Alors on vous propose d'analyser avec Anou' comment aller au-delà du véganisme individuel afin de s'engager vers un mouvement politique pour un véritable changement de société.<br>
+Accueil 17h30
+----
+start: 2017-11-28 18:30
+----
+end:
+----
+location:
+La Proue
+Escaliers du Marché 17, 1003 Lausanne
+----
+map_url: https://goo.gl/maps/hJMuHacuGgx
+#### event ####
+date: 2017-11-30
+----
+title: Soirée de clôture : fondue végétale
+----
+description:
+Pour finir en beauté ce mois végane romand, nous invitons les participant.e.s à une dernière rencontre autour d'une fondue végétale préparée par le Veganopolis Café ! De l'espace pour une petite soirée, une occasion de se raconter les anecdotes croustillantes du mois et de clôturer le challenge.<br>
+Prix : 12.-
+----
+start: 2017-11-30 18:30
+----
+end:
+----
+location:
+Espace Saint-Martin
+Rue Saint-Martin 18, 1003 Lausanne
+----
+map_url: https://goo.gl/maps/L7C17WH44t32

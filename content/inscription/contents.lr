@@ -1,0 +1,9 @@
+_model: subscription
+---
+title: Inscription
+---
+sort_key: 4
+---
+send: Envoyer
+---
+action_url: https://getsimpleform.com/messages?form_api_token=7b145ff1b3980f7ef41b6d67c75724c9

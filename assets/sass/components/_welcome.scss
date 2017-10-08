@@ -1,0 +1,47 @@
+.welcome {
+  text-align: center;
+}
+
+.welcome__banner {
+  max-height: 360px;
+  margin-bottom: 70px;
+  background: $brand-color;
+}
+
+.welcome__banner-img {
+  max-height: 360px;
+  padding: 0;
+}
+
+.welcome__intro {
+  @extend %wrapper;
+  font-weight: bold;
+}
+
+.welcome__why-vegan-title,
+.welcome__cantons-title {
+  @extend %wide-title;
+  @include media('sm') {
+    font-size: 1em;
+  }
+}
+
+.welcome__cantons {
+  @extend %wrapper;
+  padding-top: 1em;
+  padding-bottom: 2.6em;
+}
+
+.welcome__canton {
+  display: table;
+  margin: 0 auto;
+  padding-top: 10px;
+  border-bottom: 2px solid transparent;
+  font-size: .7em;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.welcome__canton:hover {
+  border-bottom: 2px solid;
+}

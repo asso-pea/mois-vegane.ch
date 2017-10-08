@@ -1,0 +1,8 @@
+%wrapper {
+  @include media('md') {
+    width: $screen-sm-max;
+    font-size: .8em;
+  }
+  margin: 0 auto;
+  padding: 0 $spacing-unit-default;
+}

@@ -1,6 +1,14 @@
 {% extends "layout.html" %}
-{% block title %}{{ this.title }}{% endblock %}
-{% block body %}
-  <h2>{{ this.title }}</h2>
-  {{ this.body }}
-{% endblock %}
+{%- block title %}{{ this.title }}{% endblock %}
+{%- block body %}
+  <main class="page page--{{ this._slug }}">
+    {%- if this.parent._path != '/' %}
+    <section class="subpages">
+      {%- for child in this.parent.children.order_by('sort_key') %}
+      <a class="subpages__link {% if this.is_child_of(child) %}subpages__link--active{% endif %}" href="{{ child._path | url }}">{{ child.title }}</a>
+      {%- endfor %}
+    </section>
+    {% endif %}
+    {{ this.body }}
+  </main>
+{%- endblock %}

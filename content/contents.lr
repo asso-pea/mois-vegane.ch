@@ -1,6 +1,13 @@
-title: Welcome to Mois Végane!
+_model: welcome
 ---
-body:
-
-This is a basic demo website that shows how to use Lektor for a basic
-website with some pages.
+title: Welcome
+---
+intro:
+Durant tout le mois de novembre, l’association PEA vous invite à essayer d’adopter un mode de vie sans produits d’origine animale, que ce soit dans l’alimentation, dans l’habillement, les cosmétiques ou les loisirs. Nous vous avons concocté un tas d’événements sympas durant tout le mois: soirées, conférences, projections, ateliers, cours de cuisine, shopping tour, etc.
+---
+why_vegan_title: Pourquoi ?
+---
+why_vegan_text:
+C’est juste que «go vegan», c’est plus facile à dire que «go fais de ton mieux pour réduire ton impact négatif sur les êtres sensibles au quotidien en analysant chacune de tes décisions au regard de cette forme d’oppression de la même manière que tu le fais pour les autres formes d’oppression». Et en plus ça tient dans un hashtag. Pour rappel, 64 milliards d’animaux terrestres et 1000 milliards d’animaux marins sont tués chaque année pour notre consommation.
+---
+canton_selector: Choisis ton canton

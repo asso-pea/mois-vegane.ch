@@ -1,0 +1,44 @@
+.page {
+  @extend %wrapper;
+  margin-bottom: 2em;
+}
+
+.page h3 {
+  font-size: 1.4em;
+  font-weight: bold;
+}
+
+.page hr {
+  border: 0;
+  border-bottom: 1px solid $brand-color;
+}
+
+.page ul {
+  font-size: .9em;
+  font-weight: bold;
+}
+
+.page strong a {
+  text-decoration: underline;
+}
+
+.page strong a::before {
+  content: '> ';
+}
+
+.page img {
+  padding-right: 0;
+  padding-left: 0;
+}
+
+.page .half-image {
+  display: inline-block;
+  width: 50%;
+  padding-right: .5em;
+  vertical-align: top;
+
+  + .half-image {
+    padding-right: 0;
+    padding-left: .5em;
+  }
+}

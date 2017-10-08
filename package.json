@@ -1,8 +1,15 @@
 {
   "name": "mois-vegane",
   "version": "1.0.0",
-  "author": "Liip AG",
-  "license": "private",
+  "author": {
+    "name": "Association PEA - Pour l’Égalité Animale",
+    "url": "https://www.asso-pea.ch/"
+  },
+  "contributors": [
+    "Sylvain Fankhauser",
+    "Renato Martins"
+  ],
+  "license": "UNLICENSED",
   "private": true,
   "scripts": {
     "start": "gulp",

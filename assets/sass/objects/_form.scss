@@ -1,0 +1,79 @@
+.form {
+  display: table;
+  width: 100%;
+  margin: 2em 0;
+}
+
+.form__field {
+  display: table-row;
+  width: 100%;
+}
+
+.form__name,
+.form__input {
+  display: table-cell;
+  font-size: .85em;
+}
+
+.form__name {
+  padding-top: 2em;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.form__input {
+  &[type='text'] {
+    border: 0;
+    border-bottom: 1px solid $brand-color;
+    border-radius: 0;
+    font-size: .666em;
+    font-weight: bold;
+
+    &:focus {
+      border-color: $alt-color;
+      color: $alt-color;
+    }
+  }
+
+  &[type='radio'] {
+    display: none;
+  }
+}
+
+.form__values--radio {
+  display: table;
+}
+
+.form__values--radio .form__value {
+  position: relative;
+  padding-bottom: .5em;
+  padding-left: 1.5em;
+  font-size: .666em;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.form__input--radio {
+  &:checked + .form__value {
+    color: $alt-color;
+  }
+
+  &:checked + .form__value::before {
+    display: inline-block;
+    position: absolute;
+    left: 0;
+    content: '·';
+  }
+}
+
+.form__field--submit {
+  border: 0;
+  outline: 0;
+  background: none;
+  font-size: 2.2em;
+  -webkit-appearance: none;
+}
+
+.form__input--submit {
+  @extend %wide-title;
+}
