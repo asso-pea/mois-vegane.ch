@@ -6,6 +6,9 @@ cache:
   directories:
     - $HOME/.cache/pip
     - $HOME/.cache/lektor/builds
+addons:
+  ssh_known_hosts:
+    - asso-pea.ch:2202
 deploy:
   provider: script
   script: "lektor deploy production"
