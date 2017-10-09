@@ -3,4 +3,4 @@ name = Mois Végane
 url = https://mois-vegane.ch
 
 [servers.production]
-target = rsync://travisci@mois-vegane.ch:2202/var/www/httpdocs
+target = rsync://travisci@asso-pea.ch:2202/var/www/httpdocs
