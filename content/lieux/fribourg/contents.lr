@@ -7,122 +7,84 @@ title: Fribourg
 events:
 
 #### event ####
-date: 2017-11-01
+start: 2017-11-01 19:00
+----
+end: 
 ----
 title: Soirée d’ouverture
 ----
-description:
-Rencontre et accueil des participant-e-s au mois végane,mot de bienvenue, apéritif végétalien et bonne humeur
-----
-start: 2017-11-01 19:00
-----
-end:
+description: Rencontre et accueil des participant-e-s au mois végane,mot de bienvenue, apéritif végétalien et bonne humeur
 ----
 location:
+
 Happy Books
 Rue Hans-Geiler 2, 1700 Fribourg
 ----
 map_url: https://goo.gl/maps/8S84wNuvJht
 #### event ####
-date: 2017-11-04
-----
-title: Shopping Tour
-----
-description:
-Shopping Tour en ville, rendez-vous au Happy Books. Possibilité d'y manger à midi. Munissez-vous de vos plus beaux cabas et de vos baskets !<br>
-Nous vous emmenons dans une sympathique balade urbaine vous dévoilant tous les lieux où faire vos courses durant le mois végane.
-----
 start: 2017-11-04 13:00
 ----
 end: 2017-11-04 16:00
 ----
+title: Shopping Tour
+----
+description:
+
+Shopping Tour en ville, rendez-vous au Happy Books. Possibilité d'y manger à midi. Munissez-vous de vos plus beaux cabas et de vos baskets !<br>
+Nous vous emmenons dans une sympathique balade urbaine vous dévoilant tous les lieux où faire vos courses durant le mois végane.
+----
 location:
+
 Dans les magasins de Fribourg
 Rdv Happy Books
 Rue Hans-Geiler 2, 1700 Fribourg
 ----
 map_url: https://goo.gl/maps/8S84wNuvJht
 #### event ####
-date: 2017-11-11
-----
-title: Tattoo flash day
-----
-description:
-Envie d’un tatouage végane ? Choisi un flash dessiné par Welie (Mandalas, géométrie sacrée, dotwork) et fais-toi tatouer sur place. Tous les bénéfices de cette journée seront reversés à l'association PEA !
-----
 start: 2017-11-11 10:30
 ----
 end: 2017-11-11 16:00
 ----
+title: Tattoo flash day
+----
+description: Envie d’un tatouage végane ? Choisi un flash dessiné par Welie (Mandalas, géométrie sacrée, dotwork) et fais-toi tatouer sur place. Tous les bénéfices de cette journée seront reversés à l'association PEA !
+----
 location:
+
 Welie Piercing & Tattoo
 Boulevard de Pérolles 7, Fribourg
 ----
 map_url: https://goo.gl/maps/o3fzHCqaZ4o
 #### event ####
-date: 2017-11-14
-----
-title: Présentation alimentation par une nutritionniste
-----
-description:
-Tout ce qu’il faut savoir pour se lancer dans l'alimentattion végane par une nutritionniste.<br>
-45m présentation + 15m questions - réponse
-----
 start: 2017-11-14 19:00
 ----
 end: 2017-11-14 20:00
 ----
+title: Présentation alimentation par une nutritionniste
+----
+description:
+
+Tout ce qu’il faut savoir pour se lancer dans l'alimentattion végane par une nutritionniste.<br>
+45m présentation + 15m questions - réponse
+----
 location:
+
 Université de Fribourg
 Avenue de l'Europe 20, 1700 Fribourg
 ----
 map_url: https://goo.gl/maps/n2eADX8wQAE2
 #### event ####
-date: 2017-11-21
+start: 2017-11-21 19:00
+----
+end: 
 ----
 title: Conférence sur le thème du spécisme
 ----
-description:
-Conférence sur le thème du spécisme de Maude Ouellette-Dube, assistante diplômée en éthique et philosophie politique à l'Université de Fribourg.
-----
-start: 2017-11-21 19:00
-----
-end:
+description: Conférence sur le thème du spécisme de Maude Ouellette-Dube, assistante diplômée en éthique et philosophie politique à l'Université de Fribourg.
 ----
 location:
+
 Université de Fribourg
 Avenue de l'Europe 20, 1700 Fribourg
 ----
 map_url: https://goo.gl/maps/n2eADX8wQAE2
-#### event ####
-date: 2017-11-25
-----
-title: Apéritif et concert
-----
-description:
-Apéritif au Belvédère et concert (groupes trouvés, reggae, techno et métal)
-----
-start:
-----
-end:
-----
-location: A définir
-----
-map_url:
-#### event ####
-date: 2017-11-30
-----
-title: Table ouverte
-----
-description:
-Soirée de cloture, repas vegan **sur inscription** dans un restaurant de Fribourg
-----
-start:
-----
-end:
-----
-location:
-Pizzeria Molino
-Rue de Lausanne 93, 1700 Fribourg
-----
-map_url: https://goo.gl/maps/M3fpST7r4YM2

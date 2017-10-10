@@ -10,12 +10,12 @@
     <section class="canton__events">
       {%- for event in this.events.blocks %}
       <article class="event">
-        <time class="event__day" datetime="{{ event.date | dateformat('yyyy-MM-dd') }}">
-          {{- event.date | dateformat('d') -}}
+        <time class="event__day" datetime="{{ event.start | dateformat('yyyy-MM-dd') }}">
+          {{- event.start | dateformat('d') -}}
         </time>
         <div class="event__weekday-title">
           <div class="event__weekday">
-            {{- event.date | dateformat('EEEE', locale='fr') -}}
+            {{- event.start | dateformat('EEEE', locale='fr') -}}
           </div>
           <h4 class="event__title">{{ event.title }}</h4>
           {%- if event.description %}
