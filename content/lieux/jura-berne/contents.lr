@@ -2,7 +2,7 @@ _model: canton
 ---
 sort_key: 6
 ---
-title: Jura/Berne
+title: Jura / Berne
 ---
 events:
 
@@ -11,51 +11,63 @@ date: 2017-11-01
 ----
 title: Apéro de bienvenue
 ----
-description:
-Apéro de bienvenue, découverte de PEA et du Mois Végane.
+description: Apéro de bienvenue, découverte de PEA et du Mois végane.
 ----
-start: 2017-11-01 16:00
+start: 2017-11-01 18:00
 ----
-end: 2017-11-01 18:30
+end: 2017-11-01 19:00
 ----
 location:
-Pierre Percée
-Rue du Général Comman 42, 2950 Courgenay
+
+Végé'table
+Le Borbet 60, Courgenay
 ----
-map_url: https://goo.gl/maps/J1wwyc9t4gq
+map_url: https://goo.gl/maps/FBdyZHZCvL22
 #### event ####
 date: 2017-11-01
 ----
 title: Repas convivial
 ----
 description:
-Repas bio, local et végétalien (entrée, plat, dessert). Durabilité, qualité et plaisir gastronomique sont au rendez-vous.<br>
-Prix : 47.-
+
+Repas bio, local et végétalien (entrée, plat, dessert). Durabilité, qualité et plaisir gastronomique sont au
+rendez-vous.
+
+Prix 46.-
+
+**Inscription pour le repas jusqu'au 20 octobre à
+[manuelle.beuchat@asso-pea.ch](mailto:manuelle.beuchat@asso-pea.ch).**
 ----
 start: 2017-11-01 19:00
 ----
-end: 2017-11-01 21:00
+end: 
 ----
 location:
+
 Végé'table
-Le Borbet 60, 2950 Courgenay
+Le Borbet 60, Courgenay
 ----
 map_url: https://goo.gl/maps/FBdyZHZCvL22
 #### event ####
 date: 2017-11-07
 ----
-title: Projection du film « Gorge coeur ventre »
+title: Projection du film « Gorge Coeur Ventre »
 ----
 description:
-Projection du film « Gorge coeur ventre » de Maud Alpi (2016). Les bêtes arrivent la nuit. Elles sentent. Elles résistent. Avant l’aube, un jeune homme les conduit à la mort. Son chien découvre un monde effrayant qui semble ne jamais devoir s’arrêter. "Un film fantastique et poétique sur les rapports entre les animaux et les hommes." (RFI) Projection suivie d'un débat.
+
+Projection du film « Gorge cœur ventre » de Maud Alpi (2016). Les bêtes arrivent la nuit. Elles sentent. Elles
+résistent. Avant l’aube, un jeune homme les conduit à la mort. Son chien découvre un monde effrayant qui semble ne
+jamais devoir s’arrêter. « Un film fantastique et poétique sur les rapports entre les animaux et les hommes. » (RFI)
+Projection suivie d’un débat.
 ----
 start: 2017-11-07 20:00
 ----
 end: 2017-11-07 22:00
 ----
 location:
+
 Kanuclub
-Neuenburgstrasse, 2505 Bienne
+Neuenburgstrasse, Bienne
 ----
 map_url: https://goo.gl/maps/kRYrjArM33G2
 #### event ####
@@ -63,83 +75,89 @@ date: 2017-11-11
 ----
 title: Stand d’information sur le spécisme et dégustations
 ----
-description:
-Stand d’informations sur le spécisme et dégustations de pâtisseries végétaliennes et de laits végétaux.
+description: Stand d’informations sur le spécisme et dégustations de pâtisseries végétaliennes et de laits végétaux.
 ----
 start: 2017-11-11 07:30
 ----
 end: 2017-11-11 12:15
 ----
 location:
+
 Marché de Delémont
-Place Roland-Béguelin, 2800 Delémont
+Place Roland-Béguelin, Delémont
 ----
 map_url: https://goo.gl/maps/raFX2k7LUrq
 #### event ####
 date: 2017-11-14
 ----
-title: Atelier d’argumentation sur le spécisme et le véganisme
+title: Atelier d’argumentation sur le véganisme
 ----
 description:
-Atelier d'argumentation pour apprendre à défendre votre point de vue et vos convictions antispécistes.
+
+Lions, gazelles et cri de la carotte ? Un atelier pour répondre efficacement à ces objections et tenir un débat en
+faveur du véganisme éthique. Animé par Martin Gunn.
 ----
 start: 2017-11-14 20:00
 ----
 end: 2017-11-14 22:00
 ----
 location:
+
 Kanuclub
-Neuenburgstrasse, 2505 Bienne
+Neuenburgstrasse, Bienne
 ----
 map_url: https://goo.gl/maps/kRYrjArM33G2
 #### event ####
 date: 2017-11-25
 ----
-title: Tournée des magasins d’alimentation
+title: Shopping tour
 ----
-description:
-Rdv à 9h sur la place Centrale de Bienne pour faire la tournée des magasins d’alimentation proposant des alternatives végétales.
+description: Rdv à 9h sur la place Centrale de Bienne pour faire la tournée des magasins d’alimentation proposant des alternatives végétales.
 ----
 start: 2017-11-25 09:00
 ----
 end: 2017-11-25 12:00
 ----
-location:
-Place Centrale, 2502 Bienne
+location: Place Centrale, Bienne
 ----
 map_url: https://goo.gl/maps/BYkwy1PWXfA2
 #### event ####
 date: 2017-11-26
 ----
-title: Projection « Derrière les portes »
+title: Projection « Derrière les Portes »
 ----
-description:
-Projection du film documentaire « Derrière les portes » de Kate Amiguet (2010), informant des conditions d'élevage et d'abattage en Suisse, suivie d’un débat.
+description: Projection du film documentaire « Derrière les portes » de Kate Amiguet (2010), informant des conditions d’élevage et d’abattage en Suisse. Suivi d’un débat.
 ----
 start: 2017-11-26 17:00
 ----
 end: 2017-11-26 20:00
 ----
 location:
+
 Aula du Collège de Delémont
-Avenue de la Gare 7, 2800 Delémont
+Av. de la Gare 7,  Delémont
 ----
 map_url: https://goo.gl/maps/1R3BQCcn3g62
 #### event ####
 date: 2017-11-30
 ----
-title: Table ouverte
+title: Repas de clôture (sur inscription)
 ----
 description:
-Retrouvons-nous au restaurant le St-Gervais pour savourer un menu 100 % végétal concocté spécialement pour l'occasion.<br>
-Prix : 50.-
+
+Retrouvons-nous au restaurant St. Gervais pour savourer un menu 100 % végétal concocté spécialement pour l’occasion.
+
+Prix 50.-
+
+**Inscription pour le repas jusqu'au 20 novembre à [manuelle.beuchat@asso-pea.ch](mailto:manuelle.beuchat@asso-pea.ch).**
 ----
 start: 2017-11-30 19:00
 ----
 end: 2017-11-30 21:00
 ----
 location:
-Le St-Gervais
-Rue du Bas 21, 2502 Bienne
+
+Restaurant Le St-Gervais
+Rue Basse 21, Bienne
 ----
 map_url: https://goo.gl/maps/XRzKeBvybmP2
