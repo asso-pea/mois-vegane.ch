@@ -3,14 +3,15 @@ html {
 }
 
 body {
-  @include media('sm') {
-    font-size: 17px;
-  }
   position: relative;
   min-height: 100%;
   padding-bottom: 7em;
   color: $brand-color;
-  font-size: 18px;
+  font-size: 14px;
+
+  @include media('sm') {
+    font-size: 16px;
+  }
 }
 
 a {

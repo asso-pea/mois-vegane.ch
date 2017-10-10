@@ -12,7 +12,6 @@
 .form__name,
 .form__input {
   display: table-cell;
-  font-size: .85em;
 }
 
 .form__name {
@@ -26,8 +25,6 @@
     border: 0;
     border-bottom: 1px solid $brand-color;
     border-radius: 0;
-    font-size: .666em;
-    font-weight: bold;
 
     &:focus {
       border-color: $alt-color;
@@ -37,6 +34,11 @@
 
   &[type='radio'] {
     display: none;
+  }
+
+  &[type='text'] {
+    padding-left: 0;
+    padding-right: 0;
   }
 }
 
@@ -48,7 +50,6 @@
   position: relative;
   padding-bottom: .5em;
   padding-left: 1.5em;
-  font-size: .666em;
   font-weight: bold;
   text-transform: uppercase;
 }

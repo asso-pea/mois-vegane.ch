@@ -23,6 +23,7 @@
   @extend %list-inline--large;
   margin-top: $spacing-unit-large;
   margin-bottom: $spacing-unit-small;
+  line-height: 2.2em;
 }
 
 .header__item {
@@ -31,7 +32,6 @@
 }
 
 .header__link {
-  font-size: .6em;
   font-weight: bold;
   text-transform: uppercase;
 }

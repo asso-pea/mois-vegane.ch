@@ -15,7 +15,6 @@
 
 .welcome__intro {
   @extend %wrapper;
-  font-weight: bold;
 }
 
 .welcome__why-vegan-title,
@@ -37,7 +36,6 @@
   margin: 0 auto;
   padding-top: 10px;
   border-bottom: 2px solid transparent;
-  font-size: .7em;
   font-weight: bold;
   text-transform: uppercase;
 }
