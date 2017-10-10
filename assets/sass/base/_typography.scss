@@ -1,10 +1,6 @@
-.stroke, %stroke {
+h2, .stroke {
   -webkit-text-fill-color: white;
   -webkit-text-stroke: 1px;
-}
-
-h2 {
-  @extend %stroke;
   font-weight: bold;
   font-weight: 36px;
   text-transform: uppercase;
