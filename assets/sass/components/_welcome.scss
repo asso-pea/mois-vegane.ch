@@ -17,14 +17,6 @@
   @extend %wrapper;
 }
 
-.welcome__why-vegan-title,
-.welcome__cantons-title {
-  @extend %wide-title;
-  @include media('sm') {
-    font-size: 1em;
-  }
-}
-
 .welcome__cantons {
   @extend %wrapper;
   padding-top: 1em;
