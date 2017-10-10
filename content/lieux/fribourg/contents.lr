@@ -13,12 +13,12 @@ end:
 ----
 title: Soirée d’ouverture
 ----
-description: Rencontre et accueil des participant-e-s au mois végane,mot de bienvenue, apéritif végétalien et bonne humeur
+description: Rencontre et accueil des participant-e-s au Mois végane, mot de bienvenue, apéritif végétalien et bonne humeur !
 ----
 location:
 
 Happy Books
-Rue Hans-Geiler 2, 1700 Fribourg
+Rue Hans-Geiler 2, Fribourg
 ----
 map_url: https://goo.gl/maps/8S84wNuvJht
 #### event ####
@@ -26,20 +26,31 @@ start: 2017-11-04 13:00
 ----
 end: 2017-11-04 16:00
 ----
-title: Shopping Tour
+title: Shopping tour
 ----
-description:
-
-Shopping Tour en ville, rendez-vous au Happy Books. Possibilité d'y manger à midi. Munissez-vous de vos plus beaux cabas et de vos baskets !<br>
-Nous vous emmenons dans une sympathique balade urbaine vous dévoilant tous les lieux où faire vos courses durant le mois végane.
+description: Départ de chez Happy Books (possibilité d’y manger à midi). Nous vous emmenons dans une sympathique balade urbaine vous dévoilant tous les lieux où faire vos courses durant le Mois végane.
 ----
 location:
 
-Dans les magasins de Fribourg
-Rdv Happy Books
-Rue Hans-Geiler 2, 1700 Fribourg
+Happy Books
+Rue Hans-Geiler 2, Fribourg
 ----
 map_url: https://goo.gl/maps/8S84wNuvJht
+#### event ####
+start: 2017-11-07 19:00
+----
+end: 
+----
+title: Projection « Live and Let Live »
+----
+description: Projection du film documentaire, « Live and Let Live » de Marc Pierschel (2013). Ce film examine notre relation avec les animaux, l’histoire du véganisme et les raisons éthiques, environnementales et sanitaires qui poussent les gens à aller au végétalisme. « Live and Let Live » raconte les histoires de six personnes qui ont décidé d’arrêter de consommer des produits animaux pour différentes raisons et qui montrent l’impact de cette décision sur leur vie. Suivi d’un débat.
+----
+location:
+
+Université Miséricorde (salle 2122AB - 40 MIS)
+Avenue de l’Europe 20, Fribourg
+----
+map_url: https://goo.gl/maps/Ptu579knT2E2
 #### event ####
 start: 2017-11-11 10:30
 ----
@@ -47,32 +58,35 @@ end: 2017-11-11 16:00
 ----
 title: Tattoo flash day
 ----
-description: Envie d’un tatouage végane ? Choisi un flash dessiné par Welie (Mandalas, géométrie sacrée, dotwork) et fais-toi tatouer sur place. Tous les bénéfices de cette journée seront reversés à l'association PEA !
+description:
+
+Envie d’un tatouage avec des encres véganes ? Choisissez des flashs dessinés par Welie (mandalas, géométrie sacrée, dotwork), Sven Waeber
+(polynésien, ethnique), Morgan Lucas (old school) et Loic (réaliste).
+
+[piercing-fribourg.ch](http://piercing-fribourg.ch/)
 ----
 location:
 
 Welie Piercing & Tattoo
+Galeries du Rex
 Boulevard de Pérolles 7, Fribourg
 ----
 map_url: https://goo.gl/maps/o3fzHCqaZ4o
 #### event ####
 start: 2017-11-14 19:00
 ----
-end: 2017-11-14 20:00
+end: 2017-11-14 21:00
 ----
-title: Présentation alimentation par une nutritionniste
+title: Conférence nutrition
 ----
-description:
-
-Tout ce qu’il faut savoir pour se lancer dans l'alimentattion végane par une nutritionniste.<br>
-45m présentation + 15m questions - réponse
+description: Tout ce qu’il faut savoir pour se lancer dans l’alimentation végane par Margje Verschuren, diététicienne et nutritionniste.
 ----
 location:
 
-Université de Fribourg
-Avenue de l'Europe 20, 1700 Fribourg
+Happy Books
+Rue Hans-Geiler 2, Fribourg
 ----
-map_url: https://goo.gl/maps/n2eADX8wQAE2
+map_url: https://goo.gl/maps/8S84wNuvJht
 #### event ####
 start: 2017-11-21 19:00
 ----
@@ -80,11 +94,49 @@ end:
 ----
 title: Conférence sur le thème du spécisme
 ----
-description: Conférence sur le thème du spécisme de Maude Ouellette-Dube, assistante diplômée en éthique et philosophie politique à l'Université de Fribourg.
+description: Conférence sur le thème du spécisme par Maude Ouellette-Dubé, assistante diplômée en éthique et philosophie politique à l’Université de Fribourg.
 ----
 location:
 
-Université de Fribourg
-Avenue de l'Europe 20, 1700 Fribourg
+Happy Books
+Rue Hans-Geiler 2, Fribourg
 ----
-map_url: https://goo.gl/maps/n2eADX8wQAE2
+map_url: https://goo.gl/maps/8S84wNuvJht
+#### event ####
+start: 2017-11-25 21:30
+----
+end: 
+----
+title: Soirée concerts à Fri-Son
+----
+description:
+
+PEA s’associe à Fri-Son pour cette soirée 100 % Métal, dont la plupart des groupes soutiennent la cause animale : Oldsun, Attack Vertical, Vale Tudo. Prix CHF 15.-.
+
+Plus d'infos sur [fri-son.ch.](http://fri-son.ch/fr)
+----
+location:
+
+Fri-Son
+Rte de la Fonderie 13, Fribourg
+----
+map_url: https://goo.gl/maps/qVcUJxozYsA2
+#### event ####
+start: 2017-11-30 19:00
+----
+end: 
+----
+title: Repas de clôture
+----
+description:
+
+Pour cette dernière soirée, venez déguster une pizza végane à la pizzeria du Molino et passer un moment convivial ! Prix CHF 30.- (pizza et dessert).
+
+**Inscription jusqu'au 20 novembre à [fribourg@asso-pea.ch.](mailto:fribourg@asso-pea.ch)**
+----
+location:
+
+Pizzeria Molino
+Rue de Lausanne 93, Fribourg
+----
+map_url: https://goo.gl/maps/R9WojkLtpVB2
