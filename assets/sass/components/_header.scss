@@ -21,15 +21,9 @@
 
 .header__nav {
   @extend %list-inline;
-  @extend %list-inline--large;
   margin-top: $spacing-unit-large;
   margin-bottom: $spacing-unit-small;
   line-height: 2.2em;
-}
-
-.header__item {
-  padding-right: 25px;
-  padding-left: 25px;
 }
 
 .header__link {

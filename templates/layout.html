@@ -8,7 +8,7 @@
   <link rel="apple-touch-icon" sizes="192x192" href="{{ '/static/images/favicon.png' | asseturl }}">
   <link rel="shortcut icon" type="image/png" sizes="192x192" href="{{ '/static/images/favicon.png' | asseturl }}">
   <link rel="stylesheet" href="{{ '/static/stylesheets/main.css' | asseturl }}">
-  <title>{% block title %}{% endblock %} — Mois Végane</title>
+  <title>{% block title %}{% endblock %} — Le Mois végane romand</title>
 </head>
 <body>
   <header class="header header--{{ this._slug | default('home', true) }}">
@@ -26,8 +26,25 @@
   </header>
   {%- block body %}{% endblock %}
   <footer class="footer">
-    <p class="footer__copyright">&copy; Copyright 2017 · <a href="https://www.asso-pea.ch">PEA</a></p>
-    <a class="footer__fb" href="https://www.facebook.com/moisvegane/" target="_blank"></a>
+    <div class="brand-band text-center pdgv">
+      <p class="footer__copyright">Le Mois végane est une initiative de l'association <a href="https://www.asso-pea.ch"
+        target="_blank">PEA - Pour l'Égalité Animale</a></p>
+      <a href="https://www.facebook.com/moisvegane/" target="_blank">
+        <img src="{{ 'images/facebook.svg' | asseturl }}" width="50" height="50">
+      </a>
+    </div>
+    <div class="wrapper flex flex--center">
+      <h5>Le Mois végane est soutenu par</h5>
+      <div class="text-xs">
+        {% for sponsor in bag('sponsors').sponsors %}
+          <div class="flex__item mrgh-- mrgv--">
+            <a href="{{ sponsor.url }}" target="_blank">
+              <img src="{{ ('images/sponsor/' + sponsor.image) | asseturl }}" alt="{{ sponsor.name }}">
+            </a>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
   </footer>
 </body>
 </html>
