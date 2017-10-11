@@ -9,6 +9,7 @@
 }
 
 .header__logo {
+  @extend %silent;
   display: block;
   width: 150px;
   height: 90px;
@@ -32,6 +33,7 @@
 }
 
 .header__link {
+  @extend %silent;
   font-weight: bold;
   text-transform: uppercase;
 }

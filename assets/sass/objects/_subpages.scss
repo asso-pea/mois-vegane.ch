@@ -7,6 +7,7 @@
 }
 
 .subpages__link {
+  @extend %silent;
   display: inline-block;
   margin: 1em 3em 0;
 }
