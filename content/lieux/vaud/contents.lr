@@ -7,13 +7,13 @@ title: Vaud
 events:
 
 #### event ####
-title: Soirée d'ouverture
-----
-description: Lancement du challenge, découverte du programme, rencontre des organisateurs-trices et des autres participant-e-s.
-----
 start: 2017-11-01 18:00
 ----
 end: 2017-11-01 21:00
+----
+title: Soirée d'ouverture
+----
+description: Lancement du challenge, découverte du programme, rencontre des organisateurs-trices et des autres participant-e-s.
 ----
 location:
 
@@ -22,16 +22,16 @@ Rue Beau-Séjour 24, Lausanne
 ----
 map_url: https://goo.gl/maps/7JdXptua3t52
 #### event ####
+start: 2017-11-03 18:00
+----
+end: 2017-11-03 21:00
+----
 title: Conférence sur la nutrition
 ----
 description:
 
 Vous vous lancez le défi du Mois végane et ça commence dans votre
 assiette. L’alimentation végétalienne est entourée de légendes, nous vous invitons à les démystifier avec la Dre Laurence Froidevaux.
-----
-start: 2017-11-01 18:00
-----
-end: 2017-11-01 21:00
 ----
 location:
 
@@ -40,18 +40,22 @@ Avenue Dickens 4, Lausanne
 ----
 map_url: https://goo.gl/maps/xQr7RYz1Fxz
 #### event ####
-title: Shopping tour
-----
-description: Une sympathique balade urbaine à la découverte des lieux où faire vos courses durant le Mois végane. Avec un arrêt final en forme de burger-party au Veganopolis Café !
-----
 start: 2017-11-04 13:00
 ----
 end: 
+----
+title: Shopping tour
+----
+description: Une sympathique balade urbaine à la découverte des lieux où faire vos courses durant le Mois végane. Avec un arrêt final en forme de burger-party au Veganopolis Café !
 ----
 location: Gare de Lausanne, hall côté « Subway »
 ----
 map_url: https://goo.gl/maps/3LmMqxU4yVA2
 #### event ####
+start: 2017-11-05 14:00
+----
+end: 
+----
 title: Atelier cuisine (sur inscription)
 ----
 description:
@@ -60,24 +64,20 @@ Pour éviter la lassitude à vos papilles, venez cuisiner avec Romain et Gilles 
 
 **Inscription (25 places disponibles) à [alizee.veron@asso-pea.ch](mailto:alizee.veron@asso-pea.ch).**
 ----
-start: 2017-11-05 14:00
-----
-end: 
-----
 location: Rue des Côtes-de-Montbenon 15, Lausanne
 ----
 map_url: https://goo.gl/maps/LdZ3BJckbbH2
 #### event ####
+start: 2017-11-07 18:30
+----
+end: 2017-11-07 22:00
+----
 title: Projection « Spécisme, le film » & discussion
 ----
 description:
 
 Qu’est-ce que le « spécisme » ? C’est la question que s’est posée
 un jeune étudiant qui tentera d’y répondre dans ce film avec de nombreux intervenant-e-s pour nous éclairer et une pointe d’humour. Suivi d’une discussion concernant le mouvement antispéciste.
-----
-start: 2017-11-07 18:30
-----
-end: 2017-11-07 22:00
 ----
 location:
 
@@ -86,28 +86,28 @@ Avenue Dickens 4, Lausanne
 ----
 map_url: https://goo.gl/maps/xQr7RYz1Fxz
 #### event ####
-title: Shopping Tour
-----
-description: Une sympathique balade urbaine à la découverte des lieux où faire vos courses durant le Mois végane. Avec un arrêt final en forme de burger-party au Veganopolis Café !
-----
 start: 2017-11-11 13:00
 ----
 end: 
+----
+title: Shopping Tour
+----
+description: Une sympathique balade urbaine à la découverte des lieux où faire vos courses durant le Mois végane. Avec un arrêt final en forme de burger-party au Veganopolis Café !
 ----
 location: Gare de Lausanne, hall côté « Subway »
 ----
 map_url: https://goo.gl/maps/3LmMqxU4yVA2
 #### event ####
+start: 2017-11-12 13:30
+----
+end: 
+----
 title: Atelier pâtisserie
 ----
 description:
 
 Des pâtisseries sans aucun produit d’origine animale ? C’est possible !
 Venez partager une après-midi salivante avec Andonia et ses magnifiques créations sans œufs, sans lait, crème ni beurre. Prix libre.
-----
-start: 2017-11-12 13:30
-----
-end: 
 ----
 location:
 
@@ -116,13 +116,13 @@ Avenue du Théâtre 2-4, Lausanne
 ----
 map_url: https://goo.gl/maps/hSrQBiffa262
 #### event ####
-title: Projection « La Boucherie Éthique »
-----
-description: Peut-on vraiment manger de la viande éthique ? Il semblerait bien que oui pour Daniel qui nous présente LA solution à travers ce film. Une aventure déroutante, drôle, inattendue et qui fait réfléchir ! Suivi d’un débat.
-----
 start: 2017-11-14 18:00
 ----
 end: 2017-11-14 22:00
+----
+title: Projection « La Boucherie Éthique »
+----
+description: Peut-on vraiment manger de la viande éthique ? Il semblerait bien que oui pour Daniel qui nous présente LA solution à travers ce film. Une aventure déroutante, drôle, inattendue et qui fait réfléchir ! Suivi d’un débat.
 ----
 location:
 
@@ -131,13 +131,13 @@ Escaliers du Marché 17, Lausanne
 ----
 map_url: https://goo.gl/maps/hJMuHacuGgx
 #### event ####
-title: Atelier cosmétiques
-----
-description: Apprendre à faire ses produits véganes soi-même : c’est sans cruauté, simple, économique, sain et très amusant ! Prix libre (recommandé CHF 10.-).
-----
 start: 2017-11-18 13:00
 ----
 end: 2017-11-18 18:00
+----
+title: Atelier cosmétiques
+----
+description: Apprendre à faire ses produits véganes soi-même : c’est sans cruauté, simple, économique, sain et très amusant ! Prix libre (recommandé CHF 10.-).
 ----
 location:
 
@@ -147,16 +147,16 @@ Beau-Rivage 2, Lausanne
 ----
 map_url: https://goo.gl/maps/RQVXMYrJ22R2
 #### event ####
+start: 2017-11-19 13:30
+----
+end: 
+----
 title: Atelier : cuisine
 ----
 description:
 
 Recevoir à la dernière minute et improviser une soirée végane toute
 simple qui marquera les esprits ? C’est très simple avec Romain de « Terre Mère » ! Prix libre.
-----
-start: 2017-11-19 13:30
-----
-end: 
 ----
 location:
 
@@ -165,13 +165,13 @@ Rue Sant-Martin 18, Lausanne
 ----
 map_url: https://goo.gl/maps/kx65ebqQDE22
 #### event ####
-title: Conférence « Pour l'abolition du véganisme »
-----
-description: Lions, gazelles et cri de la carotte ? Un atelier pour répondre efficacement à ces objections et tenir un débat en faveur du véganisme éthique. Animé par Fabien Truffer.
-----
 start: 2017-11-21 18:00
 ----
 end: 2017-11-21 22:00
+----
+title: Conférence « Pour l'abolition du véganisme »
+----
+description: Lions, gazelles et cri de la carotte ? Un atelier pour répondre efficacement à ces objections et tenir un débat en faveur du véganisme éthique. Animé par Fabien Truffer.
 ----
 location:
 
@@ -180,25 +180,25 @@ Escaliers du Marché 17, Lausanne
 ----
 map_url: https://goo.gl/maps/hJMuHacuGgx
 #### event ####
-title: Manifestation : journée mondiale contre le foie gras
-----
-description: Pour la journée mondiale contre le foie gras, PEA vous convie à une manifestation au vue des fêtes afin de protester contre la production et la vente de foie gras. Soyons nombreux-ses à revendiquer la fin de la cruauté et demandons à la Migros de montrer l'exemple en bannissant le foie gras de son assortiment.
-----
 start: 2017-11-25 13:30
 ----
 end: 
+----
+title: Manifestation : journée mondiale contre le foie gras
+----
+description: Pour la journée mondiale contre le foie gras, PEA vous convie à une manifestation au vue des fêtes afin de protester contre la production et la vente de foie gras. Soyons nombreux-ses à revendiquer la fin de la cruauté et demandons à la Migros de montrer l'exemple en bannissant le foie gras de son assortiment.
 ----
 location: Devant la Migros métropole 2000
 ----
 map_url: https://goo.gl/maps/Fm2zR1zdzKT2
 #### event ####
-title: Vrunch
-----
-description: L'équipe Véganovorus vous prépare, comme chaque dernier dimanche du mois, un brunch végane.
-----
 start: 2017-11-26 11:30
 ----
 end: 
+----
+title: Vrunch
+----
+description: L'équipe Véganovorus vous prépare, comme chaque dernier dimanche du mois, un brunch végane.
 ----
 location:
 
@@ -207,16 +207,16 @@ Avenue du Théâtre 2-4, 1005 Lausanne
 ----
 map_url: https://goo.gl/maps/hSrQBiffa262
 #### event ####
+start: 2017-11-28 18:00
+----
+end: 
+----
 title: Conférence « Pour l'abolition du véganisme »
 ----
 description:
 
 Non on ne se fout pas de vous, il s’agit bien d’une conférence « pour
 l'abolition du veganisme ». Le véganisme, ses limites et ses « little dirty secrets ». Ce mode de vie changera-t-il le monde ? Nous parlerons également de différentes stratégies de terrain de la lutte antispéciste.
-----
-start: 2017-11-28 18:00
-----
-end: 
 ----
 location:
 
@@ -225,16 +225,16 @@ Escaliers du Marché 17, Lausanne
 ----
 map_url: https://goo.gl/maps/hJMuHacuGgx
 #### event ####
+start: 2017-11-30 18:30
+----
+end: 
+----
 title: Soirée de clôture : fondue végétale
 ----
 description:
 
 Finissons en beauté ce Mois végane en partageant une énorme fondue
 végétale, préparée avec amour par le Veganopolis Café !
-----
-start: 2017-11-30 18:30
-----
-end: 
 ----
 location:
 
