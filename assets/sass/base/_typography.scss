@@ -1,9 +1,16 @@
+h2, h3, h4, h5 {
+  font-weight: bold;
+}
+
 h2, .stroke {
   -webkit-text-fill-color: white;
   -webkit-text-stroke: 1px;
-  font-weight: bold;
   font-weight: 36px;
   text-transform: uppercase;
+}
+
+h3 {
+  font-size: 1.4em;
 }
 
 .silent, %silent {
