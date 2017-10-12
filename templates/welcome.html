@@ -1,20 +1,38 @@
 {% extends "layout.html" %}
 {%- block title %}{{ this.title }}{% endblock %}
+
+{%- block pre_body %}
+  <div class="banner">
+    <img class="banner__img" src="{{ '/static/images/header.svg' | asseturl }}">
+  </div>
+{%- endblock %}
+
 {%- block body %}
-  <main class="welcome">
-    <div class="welcome__banner">
-      <img class="welcome__banner-img" src="{{ '/static/images/header.svg' | asseturl }}">
-    </div>
-    <section class="welcome__intro">
+  <main class="text-center">
+    <section>
       {{ this.intro }}
       <h2>{{ this.why_vegan_title }}</h2>
       {{ this.why_vegan_text }}
     </section>
-    <section class="welcome__cantons">
-      <h2 class="mrgt-">{{ this.canton_selector }}</h2>
-      {%- for child in site.get('/lieux').children.order_by('sort_key') %}
-      <a class="welcome__canton" href="{{ child._path | url }}">{{ child.title }}</a>
-      {%- endfor %}
+    <section>
+      <h2>{{ this.canton_selector }}</h2>
+      <ul class="list-center text-bold">
+        {%- for child in site.get('/lieux').children.order_by('sort_key') %}
+        <li><a class="fat-underline" href="{{ child._path | url }}">{{ child.title }}</a></li>
+        {%- endfor %}
+      </ul>
     </section>
+    <section class="mrgt+ mrgb">
+      <h5>Avec le soutien de</h5>
+      <div class="flex flex--center text-xs">
+        {% for sponsor in bag('sponsors').sponsors %}
+          <div class="flex__item mrgh-- mrgv--">
+            <a href="{{ sponsor.url }}" target="_blank">
+              <img src="{{ ('images/sponsor/' + sponsor.image) | asseturl }}" alt="{{ sponsor.name }}">
+            </a>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
 </main>
 {%- endblock %}

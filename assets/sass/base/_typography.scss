@@ -14,12 +14,14 @@ h2, .stroke {
   }
 }
 
-a {
+a, a:hover, a:focus {
   text-decoration: underline;
-  text-decoration-style: dashed;
 }
 
-a:hover, a:focus {
-  text-decoration: underline;
-  text-decoration-style: solid;
+a.fat-underline {
+  text-decoration: none;
+
+  &:hover {
+    border-bottom: 2px solid;
+  }
 }

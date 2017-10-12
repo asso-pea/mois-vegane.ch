@@ -34,26 +34,18 @@
     </div>
   </header>
 
-  {%- block body %}{% endblock %}
+  {%- block pre_body %}{% endblock %}
+  <div class="wrapper">
+    {%- block body %}{% endblock %}
+  </div>
+
   <footer class="footer">
     <div class="brand-band text-center pdgv">
-      <p class="footer__copyright">Le Mois végane est une initiative de l'association <a href="https://www.asso-pea.ch"
-        target="_blank">PEA - Pour l'Égalité Animale</a></p>
       <a href="https://www.facebook.com/moisvegane/" target="_blank">
-        <img src="{{ 'images/facebook.svg' | asseturl }}" width="50" height="50">
+        <img class="inline-block" src="{{ 'images/facebook.svg' | asseturl }}" width="50" height="50">
       </a>
-    </div>
-    <div class="wrapper flex flex--center">
-      <h5>Le Mois végane est soutenu par</h5>
-      <div class="text-xs">
-        {% for sponsor in bag('sponsors').sponsors %}
-          <div class="flex__item mrgh-- mrgv--">
-            <a href="{{ sponsor.url }}" target="_blank">
-              <img src="{{ ('images/sponsor/' + sponsor.image) | asseturl }}" alt="{{ sponsor.name }}">
-            </a>
-          </div>
-        {% endfor %}
-      </div>
+      <p class="footer__copyright">Le Mois végane romand est une initiative de l'association <a href="https://www.asso-pea.ch"
+        target="_blank">PEA - Pour l'Égalité Animale</a></p>
     </div>
   </footer>
   <script type="text/javascript" src="{{ 'static/javascripts/bundle.js' | asseturl }}"></script>
