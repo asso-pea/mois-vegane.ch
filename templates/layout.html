@@ -13,9 +13,10 @@
   <meta name="twitter:site" content="@peaasso" />
   <meta property="og:url" content="https://mois-vegane.ch{{ this.url_path }}" />
   <meta property="og:title" content="{{ this.og_title|default('Participez au Mois végane romand 2017!') }}" />
-  <meta property="og:description" content="{{ this.og_description|default('Le Mois végane est l\'occasion de découvrir les différentes facettes du véganisme pendant tout le mois de novembre') }}" />
+  <meta property="og:description" content="{{ this.og_description|default('Le Mois végane est l\'occasion de découvrir les différentes facettes du véganisme pendant tout le mois de novembre.') }}" />
   <meta property="og:image" content="https://mois-vegane.ch/static/images/cover/{{ this.og_image|default('default') }}.png" />
-  <meta name="description" content="Découvrez durant le mois de novembre des événements dans toute la Suisse romande à l'occasion du Mois végane 2017" />
+  <meta property="og:type" content="website" />
+  <meta name="description" content="Découvrez durant le mois de novembre des événements dans toute la Suisse romande à l'occasion du Mois végane 2017." />
   <meta name="keywords" content="mois végane, véganisme, végane, antispécisme, spécisme, lausanne, genève, valais, fribourg, neuchâtel" />
 
   <title>{% block title %}{% endblock %} — Le Mois végane romand</title>
@@ -49,7 +50,7 @@
     {%- block body %}{% endblock %}
   </div>
 
-  <footer class="footer">
+  <footer class="footer mrgt">
     <div class="brand-band text-center pdgv">
       <a href="https://www.facebook.com/moisvegane/" target="_blank">
         <img class="inline-block" src="{{ 'images/facebook.svg' | asseturl }}" width="50" height="50">
