@@ -16,8 +16,9 @@
   </div>
 {%- endmacro -%}
 
-{%- macro input(name, value='', type='text', id=None) -%}
-  <input class="form__input form__input--{{ type }}" id="{{ id or name }}" type="{{ type }}" value="{{ value | escape }}" name="{{ name }}" {% for key in kwargs -%}
+{%- macro input(name, value='', type='text', id=None, required=True) -%}
+  <input class="form__input form__input--{{ type }}" id="{{ id or name }}" type="{{ type }}"
+    value="{{ value | escape }}" name="{{ name }}" {% if required %}required{% endif %} {% for key in kwargs -%}
     {{ key }}{% if kwargs[key] %}="{{ kwargs[key] }}"{% endif %}
   {%- endfor -%}
   >

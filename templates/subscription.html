@@ -10,17 +10,18 @@
       {{ field('firstname', 'Prénom') }}
       {{ field('lastname', 'Nom') }}
       {{ field('email', 'E-mail', type='email') }}
-      {{ field('address', 'Adresse') }}
-      {{ field('postalcode', 'NPA') }}
       {%- set canton_names = site.get('/lieux').children.order_by('sort_key') | map(attribute='title') | list() %}
       {%- set default_canton = canton_names | first() %}
       {{ field('canton', 'Canton', value=canton_names, type='radio', checked=default_canton) }}
       {{ field('coach', 'Coach', value=['Oui', 'Non'], type='radio', checked='Oui') }}
+
+      <div class="text-center">
+        <button class="form__field form__field--submit stroke">
+          {{ this.send }}
+        </button>
+      </div>
     </form>
 
-    <div class="text-center">
-      {{ submit(value=this.send, onclick="subscriptionForm.submit()") }}
-    </div>
   </main>
 
   <script>
