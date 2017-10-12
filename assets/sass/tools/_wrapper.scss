@@ -1,5 +1,9 @@
 %wrapper, .wrapper {
   max-width: $screen-sm-max;
   margin: 0 auto;
-  padding: 0 $spacing-unit-default;
+  padding: 0 $spacing-unit-tiny;
+
+  @include media('sm') {
+    padding: 0 $spacing-unit-default;
+  }
 }

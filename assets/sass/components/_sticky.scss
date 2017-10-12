@@ -1,0 +1,24 @@
+.sticky .sticky__only {
+  // We can use display: none with transitions, so let's hack around
+  height: 0;
+  width: 0;
+  transform: translateY(100%);
+}
+
+.sticky__only {
+  transition: all .5s;
+}
+
+.sticky--active .sticky__only {
+  height: auto;
+  width: auto;
+  transform: translateY(0%);
+}
+
+.sticky--active .sticky__item {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 3;
+  background-color: white;
+}

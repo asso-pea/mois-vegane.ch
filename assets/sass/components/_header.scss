@@ -1,6 +1,5 @@
 .header {
   padding-top: 50px;
-  border-bottom: 1px solid $brand-color;
   text-align: center;
 }
 
@@ -21,9 +20,11 @@
 
 .header__nav {
   @extend %list-inline;
-  margin-top: $spacing-unit-large;
-  margin-bottom: $spacing-unit-small;
+  overflow: hidden;
+  padding: $spacing-unit-small 0;
+  border-bottom: 1px solid $brand-color;
   line-height: 2.2em;
+  font-size: 0.8em;
 }
 
 .header__link {

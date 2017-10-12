@@ -12,18 +12,28 @@
 </head>
 <body>
   <header class="header header--{{ this._slug | default('home', true) }}">
-    <h1><a class="header__logo" href="{{ '/' | url }}">Mois Végane</a></h1>
-    <nav>
-      <ul class="header__nav">
-        {%- for child in root.children.order_by('sort_key') %}
-        <li class="header__item">
-          {%- set page = child.children.order_by('sort_key').first() if child.children else child %}
-          <a class="header__link {% if this.is_child_of(child) %}header__link--active{% endif %}" href="{{ page._path | url }}">{{ child.title }}</a>
-        </li>
-        {%- endfor %}
-      </ul>
-    </nav>
+    <h1><a class="header__logo" href="{{ '/' | url }}">Mois végane</a></h1>
+    <div class="sticky">
+      <nav class="sticky__item header__nav">
+        <div class="wrapper">
+          <div class="sticky__only vertical-align inline-block">
+            <a href="{{ '/' | url }}">
+              <img src="{{ '/static/images/logo-small.svg' | asseturl }}" height="100%">
+            </a>
+          </div>
+          <ul class="list-inline inline-block">
+            {%- for child in root.children.order_by('sort_key') %}
+            <li>
+              {%- set page = child.children.order_by('sort_key').first() if child.children else child %}
+              <a class="header__link {% if this.is_child_of(child) %}header__link--active{% endif %}" href="{{ page._path | url }}">{{ child.title }}</a>
+            </li>
+            {%- endfor %}
+          </ul>
+          </div>
+      </nav>
+    </div>
   </header>
+
   {%- block body %}{% endblock %}
   <footer class="footer">
     <div class="brand-band text-center pdgv">
@@ -46,5 +56,6 @@
       </div>
     </div>
   </footer>
+  <script type="text/javascript" src="{{ 'static/javascripts/bundle.js' | asseturl }}"></script>
 </body>
 </html>
