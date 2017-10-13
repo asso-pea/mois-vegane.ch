@@ -36,12 +36,3 @@
   color: inherit;
   text-decoration: underline;
 }
-
-.event__map-url {
-  color: inherit;
-
-  &::after {
-    font-weight: 600;
-    content: ' >';
-  }
-}

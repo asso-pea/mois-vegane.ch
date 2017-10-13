@@ -38,3 +38,10 @@ a.active {
   color: $alt-color;
   text-decoration: underline;
 }
+
+a.external {
+  &::after {
+    font-weight: 600;
+    content: ' >';
+  }
+}
