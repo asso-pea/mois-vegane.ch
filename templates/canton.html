@@ -3,6 +3,11 @@
 {%- block body %}
   <main class="canton canton--{{ this._slug }}">
     {% include "_subpages.html" %}
+    {% if this.map_title and this.map_url %}
+      <p class="text-center">
+        <a target="_blank" class="external" href="{{ this.map_url }}">{{ this.map_title }}</a>
+      </p>
+    {% endif %}
     <section class="canton__events">
       {%- for event in this.events.blocks %}
       <article class="event pdgv">
