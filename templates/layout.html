@@ -32,31 +32,35 @@
               <img src="{{ '/static/images/logo-small.svg' | asseturl }}" height="100%">
             </a>
           </div>
-          <ul class="list-inline inline-block">
-            {%- for child in root.children.order_by('sort_key') %}
-            <li>
-              {%- set page = child.children.order_by('sort_key').first() if child.children else child %}
-              <a class="header__link {% if this.is_child_of(child) %}header__link--active{% endif %}" href="{{ page._path | url }}">{{ child.title }}</a>
-            </li>
-            {%- endfor %}
-          </ul>
+          <div class="inline-block">
+            <ul class="list-inline list-inline--nav">
+              {%- for child in root.children.order_by('sort_key') %}
+              <li>
+                {%- set page = child.children.order_by('sort_key').first() if child.children else child %}
+                <a class="header__link {% if this.is_child_of(child) %}active{% endif %}" href="{{ page._path | url }}">{{ child.title }}</a>
+              </li>
+              {%- endfor %}
+            </ul>
           </div>
+        </div>
       </nav>
     </div>
   </header>
 
   {%- block pre_body %}{% endblock %}
-  <div class="wrapper">
+  <div class="wrapper {% block pre_body_wrapper_classes %}mrgt+{%endblock %}">
     {%- block body %}{% endblock %}
   </div>
 
   <footer class="footer mrgt">
     <div class="brand-band text-center pdgv">
-      <a href="https://www.facebook.com/moisvegane/" target="_blank">
-        <img class="inline-block" src="{{ 'images/facebook.svg' | asseturl }}" width="50" height="50">
-      </a>
-      <p class="footer__copyright">Le Mois végane romand est une initiative de l'association <a href="https://www.asso-pea.ch"
-        target="_blank">PEA - Pour l'Égalité Animale</a></p>
+      <div class="wrapper">
+        <a href="https://www.facebook.com/moisvegane/" target="_blank">
+          <img class="inline-block" src="{{ 'images/facebook.svg' | asseturl }}" width="50" height="50">
+        </a>
+        <p class="footer__copyright">Le Mois végane romand est une initiative de l'association <a href="https://www.asso-pea.ch"
+          target="_blank">PEA - Pour l'Égalité Animale</a></p>
+      </div>
     </div>
   </footer>
   <script type="text/javascript" src="{{ 'static/javascripts/bundle.js' | asseturl }}"></script>

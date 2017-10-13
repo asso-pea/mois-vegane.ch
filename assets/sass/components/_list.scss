@@ -1,6 +1,30 @@
+.list-center {
+  padding-left: 0;
+}
+
 .list-center li {
   list-style-type: none;
   line-height: 2.5em;
   text-align: center;
   text-transform: uppercase;
+}
+
+.list-inline--nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
+  font-weight: bold;
+  font-size: .8em;
+  text-align: center;
+  text-transform: uppercase;
+
+  a {
+    padding: $spacing-unit-default 0;
+    text-decoration: none;
+  }
+
+  a:hover, a.active {
+    text-decoration: underline;
+  }
 }

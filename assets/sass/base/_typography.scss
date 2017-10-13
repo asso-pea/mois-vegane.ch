@@ -32,3 +32,8 @@ a.fat-underline {
     border-bottom: 2px solid;
   }
 }
+
+a.active {
+  color: $alt-color;
+  text-decoration: underline;
+}

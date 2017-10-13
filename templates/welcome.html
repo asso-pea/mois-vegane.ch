@@ -1,6 +1,8 @@
 {% extends "layout.html" %}
 {%- block title %}{{ this.title }}{% endblock %}
 
+{% block pre_body_wrapper_classes %}{% endblock %}
+
 {%- block pre_body %}
   <div class="banner">
     <img class="banner__img" src="{{ '/static/images/header.svg' | asseturl }}">
@@ -23,7 +25,7 @@
       </ul>
     </section>
     <section class="mrgt+">
-      <h5>Avec le soutien de</h5>
+      <h2>Avec le soutien de</h2>
       <div class="flex flex--center text-xs">
         {% for sponsor in bag('sponsors').sponsors %}
           <div class="flex__item mrgh-- mrgv--">

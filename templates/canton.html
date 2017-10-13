@@ -2,14 +2,10 @@
 {%- block title %}{{ this.title }}{% endblock %}
 {%- block body %}
   <main class="canton canton--{{ this._slug }}">
-    <section class="subpages">
-      {%- for child in site.get('/lieux').children.order_by('sort_key') %}
-      <a class="subpages__link {% if this.is_child_of(child) %}subpages__link--active{% endif %}" href="{{ child._path | url }}">{{ child.title }}</a>
-      {%- endfor %}
-    </section>
+    {% include "_subpages.html" %}
     <section class="canton__events">
       {%- for event in this.events.blocks %}
-      <article class="event">
+      <article class="event pdgv">
         <time class="event__day" datetime="{{ event.start | dateformat('yyyy-MM-dd') }}">
           {{- event.start | dateformat('d') -}}
         </time>

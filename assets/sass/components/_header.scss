@@ -1,5 +1,5 @@
 .header {
-  padding-top: 50px;
+  margin-top: 50px;
   text-align: center;
 }
 
@@ -21,24 +21,11 @@
 .header__nav {
   @extend %list-inline;
   overflow: hidden;
-  padding: $spacing-unit-small 0;
   border-bottom: 1px solid $brand-color;
-  line-height: 2.2em;
-  font-size: 0.8em;
-  max-height: 70px;
+  line-height: 4em;
 }
 
 .header__link {
   @extend %silent;
   font-weight: bold;
-  text-transform: uppercase;
-}
-
-.header__link:hover,
-.header__link--active {
-  border-bottom: 2px solid;
-}
-
-.header__link--active {
-  color: $alt-color;
 }

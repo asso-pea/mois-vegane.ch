@@ -1,0 +1,8 @@
+<ul class="list-inline list-inline--nav mrgb pdgl0">
+  {%- for child in this.parent.children.order_by('sort_key') %}
+    <li class="pdg-">
+      <a class="silent {% if this.is_child_of(child) %}active{% endif %}"
+        href="{{ child._path | url }}">{{ child.title }}</a>
+    </li>
+  {%- endfor %}
+</ul>
