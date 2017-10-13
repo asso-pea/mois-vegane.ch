@@ -7,13 +7,13 @@ title: Valais
 events:
 
 #### event ####
-title: Soirée d’ouverture
-----
-description: Rencontre et accueil des participant-e-s au Mois végane, mot de bienvenue, apéritif végétalien et bonne humeur.
-----
 start: 2017-11-01 18:00
 ----
 end: 2017-11-01 20:00
+----
+title: Soirée d’ouverture
+----
+description: Rencontre et accueil des participant-e-s au Mois végane, mot de bienvenue, apéritif végétalien et bonne humeur.
 ----
 location:
 
@@ -22,6 +22,10 @@ Rue de Loèche 23, Sion
 ----
 map_url: https://goo.gl/maps/wu9wfQans2t
 #### event ####
+start: 2017-11-06 19:00
+----
+end: 
+----
 title: Table ouverte (sur inscription)
 ----
 description:
@@ -30,10 +34,6 @@ Venez partager votre expérience, discuter et découvrir l’univers du restaura
 
 **Inscription auprès de [fabien.brunacci@asso-pea.ch](mailto:fabien.brunacci@asso-pea.ch).**
 ----
-start: 2017-11-01 19:00
-----
-end: 
-----
 location:
 
 Chez Chander
@@ -41,13 +41,17 @@ Rue de Lausanne 52, Sion
 ----
 map_url: https://goo.gl/maps/99Lp67jKH2F2
 #### event ####
-title: Cuisine philo
-----
-description: Atelier d'initiation à l'alimentation végétalienne: « Un repas de fête sans foie gras, quelle joie ! »
-----
 start: 2017-11-08 18:30
 ----
 end: 
+----
+title: Cuisine philo (sur inscription)
+----
+description:
+
+Atelier d'initiation à l'alimentation végétalienne: « Un repas de fête sans foie gras, quelle joie ! »
+
+**Inscription auprès de [fabien.brunacci@asso-pea.ch](mailto:fabien.brunacci@asso-pea.ch).**
 ----
 location:
 
@@ -56,6 +60,10 @@ Rue des Vorziers 2, Martigny
 ----
 map_url: https://goo.gl/maps/tPbBVe8iQJA2
 #### event ####
+start: 2017-11-11 17:30
+----
+end: 2017-11-11 19:00
+----
 title: Mam & Co : Apéritif dînatoire et atelier « laits » végétaux (sur inscription)
 ----
 description:
@@ -64,10 +72,6 @@ Venez déguster des tapas et autres petits mets végétaux tout en participant �
 
 **Inscription auprès de [fabien.brunacci@asso-pea.ch](mailto:fabien.brunacci@asso-pea.ch).**
 ----
-start: 2017-11-04 17:30
-----
-end: 2017-11-04 19:00
-----
 location:
 
 Chez Mamie
@@ -75,13 +79,13 @@ Rue de Venise 8, 1870 Monthey
 ----
 map_url: https://goo.gl/maps/EyrQBnBdr7Q2
 #### event ####
-title: Expo « Qui sont les poissons ? » et projection « Sea the Truth »
-----
-description: Qui sont les poissons ? Venez le découvrir autour d’un verre grâce à une exposition qui leur est consacrée. Suivi d’un film qui nous plongera dans le débat entre les autorités souhaitant mettre en place des projets de pêche durable et les scientifiques convaincu-e-s que chaque nouvelle prise est une prise de trop. Début de la projection à 18h30.
-----
 start: 2017-11-15 18:00
 ----
 end: 
+----
+title: Expo « Qui sont les poissons ? » et projection « Sea the Truth »
+----
+description: Qui sont les poissons ? Venez le découvrir autour d’un verre grâce à une exposition qui leur est consacrée. Suivi d’un film qui nous plongera dans le débat entre les autorités souhaitant mettre en place des projets de pêche durable et les scientifiques convaincu-e-s que chaque nouvelle prise est une prise de trop. Début de la projection à 18h30.
 ----
 location:
 
@@ -90,13 +94,13 @@ Rue des Vorziers 2, Martigny
 ----
 map_url: https://goo.gl/maps/tPbBVe8iQJA2
 #### event ####
-title: Projection « La Boucherie Éthique »
-----
-description: Projection du film et débat sur le sujet.
-----
 start: 2017-11-17 19:30
 ----
 end: 
+----
+title: Projection « La Boucherie Éthique »
+----
+description: Projection du film et débat sur le sujet.
 ----
 location:
 
@@ -105,14 +109,14 @@ Avenue Plantaud 48, Monthey
 ----
 map_url: https://goo.gl/maps/MHC9qCtNcUu
 #### event ####
-title: Atelier découverte de produits végétaux
-----
-description: Petit tour des produits véganes à disposition à *Nouvelle Terre*, venez décourvrir certains produits, et leurs intérêts nutritifs
-----
 start: 2017-11-18 16:00
 ----
 end: 2017-11-18 17:00
 ----
+title: Atelier découverte de produits végétaux
+----
+description: Petit tour des produits véganes à disposition à *Nouvelle Terre*, venez décourvrir certains produits, et leurs intérêts nutritifs
+----
 location:
 
 Nouvelle Terre
@@ -120,14 +124,14 @@ Rue du Grand-Verger 12, Martigny
 ----
 map_url: https://goo.gl/maps/QauwkNMgK4G2
 #### event ####
-title: Projection « La Santé dans l'Assiette »
-----
-description: Que peut apporter une alimentation 100% végétale ? C'est ce que les docteurs Colin Campbell (nutritionniste) et Caldwell Esselstyn (chirurgien) examinent dans ce film documentaire (2011).
-----
 start: 2017-11-18 17:00
 ----
 end: 2017-11-18 19:00
 ----
+title: Projection « La Santé dans l'Assiette »
+----
+description: Que peut apporter une alimentation 100% végétale ? C'est ce que les docteurs Colin Campbell (nutritionniste) et Caldwell Esselstyn (chirurgien) examinent dans ce film documentaire (2011).
+----
 location:
 
 Nouvelle Terre
@@ -135,13 +139,13 @@ Rue du Grand-Verger 12, Martigny
 ----
 map_url: https://goo.gl/maps/QauwkNMgK4G2
 #### event ####
-title: Conférence sur la nutrition
-----
-description: Tout ce qu’il faut savoir pour se lancer dans la nutrition végane par Nadège Fontaine, thérapeute et nutritionniste
-----
 start: 2017-11-22 19:00
 ----
 end: 
+----
+title: Conférence sur la nutrition
+----
+description: Tout ce qu’il faut savoir pour se lancer dans la nutrition végane par Nadège Fontaine, thérapeute et nutritionniste
 ----
 location:
 
@@ -150,13 +154,17 @@ Rue des Vorziers 2, Martigny
 ----
 map_url: https://goo.gl/maps/tPbBVe8iQJA2
 #### event ####
-title: Cuisine philo
-----
-description: Atelier d'initiation à l'alimentation végétalienne: « Et les oeufs ? Tu les remplaces par quoi ? Et pourquoi ? »
-----
 start: 2017-11-25 14:00
 ----
 end: 2017-11-25 18:00
+----
+title: Cuisine philo (sur inscription)
+----
+description:
+
+Atelier d'initiation à l'alimentation végétalienne: « Et les oeufs ? Tu les remplaces par quoi ? Et pourquoi ? ».
+
+**Inscription auprès de [fabien.brunacci@asso-pea.ch](mailto:fabien.brunacci@asso-pea.ch).**
 ----
 location:
 
@@ -165,6 +173,10 @@ Rue de Loèche 23, Sion
 ----
 map_url: https://goo.gl/maps/wu9wfQans2t
 #### event ####
+start: 2017-11-30 19:00
+----
+end: 
+----
 title: Repas de clôture (sur inscription)
 ----
 description:
@@ -172,10 +184,6 @@ description:
 Retrouvons-nous au restaurant de la Croix Blanche pour savourer un menu végétal concocté spécialement pour l'occasion. Prix 35.-.
 
 **Inscription auprès de [fabien.brunacci@asso-pea.ch](mailto:fabien.brunacci@asso-pea.ch).**
-----
-start: 2017-11-30 19:00
-----
-end: 
 ----
 location:
 
