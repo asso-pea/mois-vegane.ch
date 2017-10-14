@@ -133,9 +133,11 @@ def add_to_mailerlite(subscriber):
     data = {
         'email': subscriber['data']['email'],
         'name': subscriber['data']['firstname'],
-        'last_name': subscriber['data']['lastname'],
-        'coach': subscriber['data']['coach'],
-        'state': subscriber['data']['canton'],
+        'fields': {
+            'last_name': subscriber['data']['lastname'],
+            'coach': subscriber['data']['coach'],
+            'state': subscriber['data']['canton'],
+        }
     }
     headers = {
         'X-Mailerlite-ApiKey': MAILERLITE_API_KEY,
