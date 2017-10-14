@@ -154,6 +154,6 @@ def add_to_mailerlite(subscriber):
 
 if __name__ == '__main__':
     level = logging.WARNING if not DEBUG else logging.DEBUG
-    logging.basicConfig(level=level)
+    logging.basicConfig(level=level, format='%(asctime)s - %(levelname)s - %(message)s')
 
     main()
