@@ -6,6 +6,7 @@ import json
 import logging
 import os
 import smtplib
+import sys
 from email.mime.text import MIMEText
 
 import arrow
@@ -117,7 +118,7 @@ def send_mail(subject, content, recipient):
     logger.debug(content)
 
     if not DRY_RUN:
-        s = smtplib(MAIL_RELAY)
+        s = smtplib.SMTP(MAIL_RELAY)
         s.send_message(msg)
         s.quit()
 
@@ -154,6 +155,6 @@ def add_to_mailerlite(subscriber):
 
 if __name__ == '__main__':
     level = logging.WARNING if not DEBUG else logging.DEBUG
-    logging.basicConfig(level=level, format='%(asctime)s - %(levelname)s - %(message)s')
+    logging.basicConfig(level=level, format='%(asctime)s - %(levelname)s - %(message)s', stream=sys.stdout)
 
     main()
