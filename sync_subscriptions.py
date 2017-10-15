@@ -19,9 +19,9 @@ CANTON_MANAGERS = {
     'Vaud': 'marianne.dupieu@asso-pea.ch',
     'Valais': 'fabien.brunacci@asso-pea.ch',
     'Fribourg': 'sebastien.noverraz@asso-pea.ch',
-    'Genève': 'maud.servier@asso-pea.ch',
+    'Genève': 'clemence.herbillon@asso-pea.ch',
     'Neuchâtel': 'lclbrosy@gmail.com',
-    'Jura / Berne': 'laila.corradetti@gmail.com',
+    'Jura / Berne': 'manuelle.beuchat@asso-pea.ch',
 }
 
 DIGEST_TEMPLATE = """Bonjour!
