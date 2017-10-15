@@ -3,7 +3,7 @@ export default class StickyHeader {
     this.el = el;
     this.elRect = this.el.getBoundingClientRect();
     this.posY = this.elRect.top + window.pageYOffset;
-    this.el.style.height = this.elRect.height + 'px';
+    this.el.style.height = Number.parseInt(this.elRect.height) + 'px';
 
     this.stickyActive = false;
     // Init stickiness if the user reloaded the page while it was scrolled. Here the top position includes the scroll
