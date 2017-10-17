@@ -16,6 +16,12 @@
         {"image": "veganopolis.jpg", "name": "Veganopolis Café", "url": "http://veganopolis.org/"},
         {"image": "veganovorus.jpg", "name": "Veganovorus", "url": "https://www.facebook.com/veganovorus.org/"},
         {"image": "vegusto.jpg", "name": "Vegusto", "url": "http://www.vegusto.ch"},
-        {"image": "yardo-bio.jpg", "name": "yardo bio", "url": "https://www.yardobio.ch/fr"}
+        {"image": "yardo-bio.jpg", "name": "yardo bio", "url": "https://www.yardobio.ch/fr"},
+        {"image": "beoh.jpg", "name": "Be Oh!", "url": "http://beoh.ch/"},
+        {"image": "newroots.jpg", "name": "New Roots", "url": "https://www.newroots.ch/"},
+        {"image": "sonett.jpg", "name": "Sonett", "url": "https://www.sonett.eu/"},
+        {"image": "swissveg.jpg", "name": "Swissveg", "url": "http://swissveg.ch/"},
+        {"image": "thymiama.jpg", "name": "Thymiama", "url": "http://www.thymiama.com/"},
+        {"image": "trendy-doodles.jpg", "name": "Trendy Doodles", "url": "https://www.trendydoodles.com/"}
     ]
 }
