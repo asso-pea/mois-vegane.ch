@@ -16,19 +16,19 @@ from jinja2 import Template
 logger = logging.getLogger(__name__)
 
 CANTON_MANAGERS = {
-    'Vaud': 'marianne.dupieu@asso-pea.ch',
-    'Valais': 'fabien.brunacci@asso-pea.ch',
-    'Fribourg': 'sebastien.noverraz@asso-pea.ch',
-    'Genève': 'clemence.herbillon@asso-pea.ch',
-    'Neuchâtel': 'lclbrosy@gmail.com',
-    'Jura / Berne': 'manuelle.beuchat@asso-pea.ch',
+    'Vaud': ['marianne.dupieu@asso-pea.ch'],
+    'Valais': ['fabien.brunacci@asso-pea.ch'],
+    'Fribourg': ['sebastien.noverraz@asso-pea.ch'],
+    'Genève': ['clemence.herbillon@asso-pea.ch'],
+    'Neuchâtel': ['lclbrosy@gmail.com', 'rbrosy@hotmail.com'],
+    'Jura / Berne': ['manuelle.beuchat@asso-pea.ch'],
 }
 
 DIGEST_TEMPLATE = """Bonjour!
 
 Les personnes suivantes ont demandé à être coachées pour le canton de {{ canton }}.
 
-{% for subscriber in subscribers %}
+{% for subscriber in subscribers -%}
 {{ subscriber.data.firstname }} {{ subscriber.data.lastname }}: {{ subscriber.data.email }}
 {% endfor %}
 """
@@ -107,14 +107,14 @@ def send_coaches_digest(subscribers):
         )
 
 
-def send_mail(subject, content, recipient):
+def send_mail(subject, content, recipients):
     msg = MIMEText(content)
 
     msg['Subject'] = subject
     msg['From'] = 'mois-vegane.ch <info@asso-pea.ch>'
-    msg['To'] = recipient
+    msg['To'] = ', '.join(recipients)
 
-    logger.debug("Sending mail to %s", recipient)
+    logger.debug("Sending mail to %s", recipients)
     logger.debug(content)
 
     if not DRY_RUN:
