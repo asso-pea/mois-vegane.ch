@@ -42,7 +42,7 @@ map_url: https://goo.gl/maps/xQr7RYz1Fxz
 #### event ####
 start: 2017-11-04 13:00
 ----
-end: 
+end:
 ----
 title: Shopping tour
 ----
@@ -54,7 +54,7 @@ map_url: https://goo.gl/maps/3LmMqxU4yVA2
 #### event ####
 start: 2017-11-05 14:00
 ----
-end: 
+end:
 ----
 title: Atelier cuisine (sur inscription)
 ----
@@ -103,7 +103,7 @@ map_url: https://goo.gl/maps/NTZ3mGvAGKp
 #### event ####
 start: 2017-11-11 13:00
 ----
-end: 
+end:
 ----
 title: Shopping Tour
 ----
@@ -115,7 +115,7 @@ map_url: https://goo.gl/maps/3LmMqxU4yVA2
 #### event ####
 start: 2017-11-12 13:30
 ----
-end: 
+end:
 ----
 title: Atelier pâtisserie
 ----
@@ -164,7 +164,7 @@ map_url: https://goo.gl/maps/RQVXMYrJ22R2
 #### event ####
 start: 2017-11-19 13:30
 ----
-end: 
+end:
 ----
 title: Atelier : cuisine
 ----
@@ -197,7 +197,7 @@ map_url: https://goo.gl/maps/hJMuHacuGgx
 #### event ####
 start: 2017-11-25 13:30
 ----
-end: 
+end:
 ----
 title: Manifestation : journée mondiale contre le foie gras
 ----
@@ -209,11 +209,16 @@ map_url: https://goo.gl/maps/Fm2zR1zdzKT2
 #### event ####
 start: 2017-11-26 11:30
 ----
-end: 
+end:
 ----
 title: Vrunch
 ----
-description: L'équipe Véganovorus vous prépare, comme chaque dernier dimanche du mois, un brunch végane.
+description:
+
+L'équipe Véganovorus vous prépare, comme chaque dernier dimanche du mois, un brunch végane.
+
+Cette édition sera suivie de la projection inédite du film "The Last Pig" (le dernier cochon).
+L'histoire d'un éleveur de cochons qui aimait profondément les animaux qu'il devait emmener à l'abattoir. C'est avec le courage de changer qu'il refuse la toute puissance humaine de cette domination sur les animaux et c'est en regardant le dernier de ces êtres destinés à la mort, qu'il achèvera le cycle. Le trailer sur : [thelastpig.com](http://www.thelastpig.com/)
 ----
 location:
 
@@ -224,7 +229,7 @@ map_url: https://goo.gl/maps/hSrQBiffa262
 #### event ####
 start: 2017-11-28 18:00
 ----
-end: 
+end:
 ----
 title: Conférence « Pour l'abolition du véganisme »
 ----
@@ -242,7 +247,7 @@ map_url: https://goo.gl/maps/hJMuHacuGgx
 #### event ####
 start: 2017-11-30 18:30
 ----
-end: 
+end:
 ----
 title: Soirée de clôture : fondue végétale
 ----
