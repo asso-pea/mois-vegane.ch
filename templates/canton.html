@@ -19,16 +19,18 @@
             {{- event.start | dateformat('EEEE', locale='fr') -}}
           </div>
           <h4 class="event__title">{{ event.title }}</h4>
-          {%- if event.description %}
-          <div class="event__description">{{ event.description }}</div>
+        </div>
+        {%- if event.description %}
+        <div class="event__description">
+          {{ event.description }}
           <div class="event__time-location">
             {% if event.start %}{{ event.start | datetimeformat("HH'h'mm") }}{% if event.end %} – {{ event.end | datetimeformat("HH'h'mm") }}{% endif %}<br>{% endif %}
             {%- if event.map_url != "" %}<a class="external" href="{{ event.map_url }}" target="_blank">{% endif %}
               {{ event.location | join('<br>') | safe }}
             {%- if event.map_url != "" %}</a>{% endif %}
           </div>
-          {%- endif %}
         </div>
+        {%- endif %}
       </article>
       {%- endfor %}
     </section>
