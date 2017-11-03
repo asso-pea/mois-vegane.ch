@@ -1,3 +1,11 @@
 .canton .subpages__link--active {
   color: $alt-color;
 }
+
+.canton__past-events {
+  display: none;
+  font-size: .7em;
+  text-align: right;
+  text-decoration: none;
+  cursor: pointer;
+}
