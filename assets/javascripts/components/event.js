@@ -21,8 +21,8 @@ function getPastEvents () {
   const events = document.querySelectorAll('.event');
   const today = getISODay(new Date());
   return Array.prototype.filter.call(events, (event) => {
-    let eventDateTime = event.querySelector('.event__day').dateTime;
-    let eventDay = getISODay(new Date(eventDateTime));
+    let eventDateEl = event.querySelector('.event__day');
+    let eventDay = getISODay(new Date(eventDateEl.getAttribute('datetime')));
     return eventDay < today;
   });
 }
