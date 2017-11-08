@@ -22,6 +22,8 @@
         {"image": "sonett.jpg", "name": "Sonett", "url": "https://www.sonett.eu/"},
         {"image": "swissveg.jpg", "name": "Swissveg", "url": "http://swissveg.ch/"},
         {"image": "thymiama.jpg", "name": "Thymiama", "url": "http://www.thymiama.com/"},
-        {"image": "trendy-doodles.jpg", "name": "Trendy Doodles", "url": "https://www.trendydoodles.com/"}
+        {"image": "trendy-doodles.jpg", "name": "Trendy Doodles", "url": "https://www.trendydoodles.com/"},
+        {"image": "greencondom.jpg", "name": "Green Condom Club", "url": "https://www.greencondom.club/"},
+        {"image": "swissoja.jpg", "name": "Swissoja", "url": "http://www.swissoja.ch/"}
     ]
 }
