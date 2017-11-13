@@ -1,18 +1,3 @@
-const eventTitleSelector = '.event__weekday-title';
-const descriptionVisibleClass = 'event__description--visible';
-
-function toggleDescription () {
-  document.querySelectorAll(eventTitleSelector).forEach((el) => {
-    let hidden = true;
-    const descriptionEl = el.nextElementSibling;
-    el.addEventListener('click', () => {
-      const toggleMethod = hidden ? 'add' : 'remove';
-      descriptionEl.classList[toggleMethod](descriptionVisibleClass);
-      hidden = !hidden;
-    });
-  });
-}
-
 function getISODay (date) {
   return date.toISOString().slice(0, 10);
 }
@@ -52,6 +37,5 @@ function togglePastEvents () {
 }
 
 export default () => {
-  toggleDescription();
   togglePastEvents();
 };
