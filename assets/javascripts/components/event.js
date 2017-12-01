@@ -2,8 +2,11 @@ function getISODay (date) {
   return date.toISOString().slice(0, 10);
 }
 
-function getPastEvents () {
-  const events = document.querySelectorAll('.event');
+function getEvents () {
+  return document.querySelectorAll('.event');
+}
+
+function getPastEvents (events) {
   const today = getISODay(new Date());
   return Array.prototype.filter.call(events, (event) => {
     let eventDateEl = event.querySelector('.event__day');
@@ -13,8 +16,9 @@ function getPastEvents () {
 }
 
 function togglePastEvents () {
-  const pastEvents = getPastEvents();
-  if (!pastEvents.length) {
+  const events = getEvents();
+  const pastEvents = getPastEvents(events);
+  if (!pastEvents.length || events.length === pastEvents.length) {
     return;
   }
 
