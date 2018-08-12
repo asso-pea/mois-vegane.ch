@@ -24,6 +24,7 @@
         {%- endfor %}
       </ul>
     </section>
+    {% if bag('sponsors').sponsors %}
     <section class="mrgt+">
       <h2>Avec le soutien de</h2>
       <div class="flex flex--center text-xs">
@@ -35,6 +36,7 @@
           </div>
         {% endfor %}
       </div>
-    </div>
-</main>
+    </section>
+    {% endif %}
+  </main>
 {%- endblock %}
