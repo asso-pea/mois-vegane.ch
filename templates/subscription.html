@@ -4,24 +4,6 @@
 {%- block body %}
   <main class="subscription">
     {{ this.body }}
-    <p class="subscription__merci js-merci">Merci et à bientôt ♥</p>
-    <form class="mrgt" id="subscriptionForm" action="{{ this.action_url }}" method="post">
-      <input type="hidden" name="redirect_to" value="{{ this.url_to(this._path, external=true) }}?merci">
-      {{ field('firstname', 'Prénom') }}
-      {{ field('lastname', 'Nom') }}
-      {{ field('email', 'E-mail', type='email') }}
-      {%- set canton_names = site.get('/lieux').children.order_by('sort_key') | map(attribute='title') | list() %}
-      {%- set default_canton = canton_names | first() %}
-      {{ field('canton', 'Canton', value=canton_names, type='radio', checked=default_canton) }}
-      {{ field('coach', 'Coach', value=['Oui', 'Non'], type='radio', checked='Oui') }}
-
-      <div class="text-center">
-        <button class="form__field form__field--submit stroke">
-          {{ this.send }}
-        </button>
-      </div>
-    </form>
-
   </main>
 
   <script>
