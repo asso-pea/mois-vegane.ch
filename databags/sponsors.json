@@ -1,4 +1,29 @@
 {
     "sponsors": [
+        {"image": "akari-taste.jpg", "name": "AkariTaste", "url": "http://akaritaste.ch/"},
+        {"image": "beaut-vegan.jpg", "name": "Beaut & Vegan", "url": "https://beautevegan.ch/"},
+        {"image": "age-d-homme.jpg", "name": "Éditions l’Âge d’Homme", "url": "https://lagedhomme.com/"},
+        {"image": "engel-tofu.jpg", "name": "Engel Tofu", "url": "http://www.engel-tofu.ch/"},
+        {"image": "evas-apple.jpg", "name": "Eva’s Apples", "url": "https://www.evas-apples.ch/"},
+        {"image": "faircustomer.jpg", "name": "FairCustomer.ch", "url": "https://www.faircustomer.ch/"},
+        {"image": "gingi.jpg", "name": "Gingi", "url": "https://www.gingi.ch/"},
+        {"image": "biotique.jpg", "name": "La Biotique", "url": "http://www.biotique.ch/"},
+        {"image": "lush.jpg", "name": "LUSH", "url": "https://www.lush.ch/F.aspx"},
+        {"image": "pea.jpg", "name": "PEA - Pour l’Égalité Animale", "url": "https://www.asso-pea.ch/fr/"},
+        {"image": "sanctum.jpg", "name": "Sanctum Switzerland", "url": "https://sanctumswitzerland.ch/en/"},
+        {"image": "urban-vegan-geneve.jpg", "name": "Urban Vegan Genève", "url": "http://urbanvge.ch/"},
+        {"image": "vegan-for-every.jpg", "name": "Vegan For Every", "url": "http://veganforevery.ch/shop/"},
+        {"image": "veganopolis.jpg", "name": "Veganopolis Café", "url": "http://veganopolis.org/"},
+        {"image": "veganovorus.jpg", "name": "Veganovorus", "url": "https://www.facebook.com/veganovorus.org/"},
+        {"image": "vegusto.jpg", "name": "Vegusto", "url": "http://www.vegusto.ch"},
+        {"image": "yardo-bio.jpg", "name": "yardo bio", "url": "https://www.yardobio.ch/fr"},
+        {"image": "beoh.jpg", "name": "Be Oh!", "url": "http://beoh.ch/"},
+        {"image": "newroots.jpg", "name": "New Roots", "url": "https://www.newroots.ch/"},
+        {"image": "sonett.jpg", "name": "Sonett", "url": "https://www.sonett.eu/"},
+        {"image": "swissveg.jpg", "name": "Swissveg", "url": "http://swissveg.ch/"},
+        {"image": "thymiama.jpg", "name": "Thymiama", "url": "http://www.thymiama.com/"},
+        {"image": "trendy-doodles.jpg", "name": "Trendy Doodles", "url": "https://www.trendydoodles.com/"},
+        {"image": "greencondom.jpg", "name": "Green Condom Club", "url": "https://www.greencondom.club/"},
+        {"image": "swissoja.jpg", "name": "Swissoja", "url": "http://www.swissoja.ch/"}
     ]
 }

@@ -8,8 +8,32 @@
         <a target="_blank" class="external" href="{{ this.map_url }}">{{ this.map_title }}</a>
       </p>
     {% endif %}
-    <p>
-      Le programme du Mois végane 2018 est en cours d'élaboration. <a href="https://www.facebook.com/moisvegane/">Suivez-nous sur Facebook</a> pour ne rien manquer de l'édition 2018!
-    </p>
+    <a class="canton__past-events">[afficher événements déjà passés]</a>
+    <section class="canton__events">
+      {%- for event in this.events.blocks %}
+      <article class="event pdgv">
+        <time class="event__day" datetime="{{ event.start | dateformat('yyyy-MM-dd') }}">
+          {{- event.start | dateformat('d') -}}
+        </time>
+        <div class="event__weekday-title">
+          <div class="event__weekday">
+            {{- event.start | dateformat('EEEE', locale='fr') -}}
+          </div>
+          <h4 class="event__title">{{ event.title }}</h4>
+        </div>
+        {%- if event.description %}
+        <div class="event__description">
+          {{ event.description }}
+          <div class="event__time-location">
+            {% if event.start %}{{ event.start | datetimeformat("HH'h'mm") }}{% if event.end %} – {{ event.end | datetimeformat("HH'h'mm") }}{% endif %}<br>{% endif %}
+            {%- if event.map_url != "" %}<a class="external" href="{{ event.map_url }}" target="_blank">{% endif %}
+              {{ event.location | join('<br>') | safe }}
+            {%- if event.map_url != "" %}</a>{% endif %}
+          </div>
+        </div>
+        {%- endif %}
+      </article>
+      {%- endfor %}
+    </section>
   </main>
 {%- endblock %}
