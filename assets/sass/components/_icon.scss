@@ -1,0 +1,57 @@
+@mixin icon-size($size, $offset: null) {
+  width: $size;
+  height: $size;
+  @if $offset {
+    top: $offset;
+  }
+}
+
+.icon {
+  display: inline-block;
+
+  position: relative;
+  top: -1px;
+
+  vertical-align: middle;
+
+  fill: currentColor;
+}
+
+
+/**
+ * Sizes
+ */
+
+.icon--50 {
+  @include icon-size(12px);
+}
+
+.icon--75 {
+  @include icon-size(16px);
+}
+
+.icon--100 {
+  @include icon-size(24px, -2px);
+}
+
+.icon--150 {
+  @include icon-size(32px, -2px);
+}
+
+.icon--200 {
+  @include icon-size(48px, -3px);
+}
+
+.icon--300 {
+  @include icon-size(72px);
+}
+
+.icon--500 {
+  @include icon-size(120px);
+}
+
+@include foreach-breakpoint() {
+  .#{$breakpoint-name}-icon--200 {
+    @include icon-size(48px, -3px);
+  }
+}

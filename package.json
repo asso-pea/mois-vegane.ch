@@ -31,11 +31,16 @@
     "gulp-util": "^3.0.7",
     "kanbasu": "^1.6.1",
     "strip-ansi": "^3.0.1",
+    "svg-sprite-loader": "^4.1.2",
+    "svgo": "^1.1.1",
+    "svgo-loader": "^2.2.0",
+    "svgxuse": "^1.2.6",
     "webpack": "^2.2.1",
     "yargs": "^6.6.0"
   },
   "browserslist": [
     "Last 2 versions",
     "IE 11"
-  ]
+  ],
+  "dependencies": {}
 }

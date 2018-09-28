@@ -1,4 +1,5 @@
 {% extends "page.html" %}
+{%- from 'macros/icon.html' import icon -%}
 {%- block title %}{{ this.title }}{% endblock %}
 {%- block body %}
   <main class="canton canton--{{ this._slug }}">
@@ -20,7 +21,9 @@
           <div class="event__weekday">
             {{- event.start | dateformat('EEEE', locale='fr') -}}
           </div>
-          <h4 class="event__title">{{ event.title }}</h4>
+          <h4 class="event__title">
+            {{ event.title }}
+          </h4>
         </div>
         {%- if event.description %}
         <div class="event__description">
@@ -33,6 +36,13 @@
           </div>
         </div>
         {%- endif %}
+
+        {% if event.flags %}
+          <div class="mrgt text-alt">
+            {% if 'deafsubbed' in event.flags %}{{ icon('clap') }}{{ icon('deaf') }}{% endif %}
+            {% if 'wheelchair' in event.flags %}{{ icon('wheelchair') }}{% endif %}
+          </div>
+        {% endif %}
       </article>
       {%- endfor %}
     </section>

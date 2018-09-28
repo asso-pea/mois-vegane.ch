@@ -2,20 +2,25 @@
 const path    = require('path');
 const webpack = require('webpack');
 const config  = require('./gulp.config.js');
+const SpriteLoaderPlugin = require('svg-sprite-loader/plugin');
 
 const webpackConfig = {
   resolve: {
     modules: [
       path.resolve(__dirname, 'assets/javascripts'),
+      path.resolve(__dirname, 'assets'),
       'node_modules'
     ],
     extensions: ['.js']
   },
   entry: './assets/javascripts/index.js',
   output: {
-    path: path.resolve(__dirname, 'assets/static/javascripts'),
-    filename: 'bundle.js',
+    path: path.resolve(__dirname, 'assets/static'),
+    filename: '[name].js',
   },
+  plugins: [
+    new SpriteLoaderPlugin(),
+  ],
   module: {
     rules: [
       {
@@ -31,6 +36,21 @@ const webpackConfig = {
             }],
           ],
         },
+      },
+      {
+        test: /\.svg$/,
+        include: path.resolve('./assets/icons'),
+        use: [
+          {
+            loader: 'svg-sprite-loader',
+            options: {
+              extract: true,
+              spriteFilename: 'icons.svg',
+              esModule: false,
+            },
+          },
+          'svgo-loader',
+        ],
       },
     ],
   },

@@ -1,4 +1,5 @@
 {%- set root = site.get('/') -%}
+{%- from 'macros/icon.html' import icon -%}
 <!DOCTYPE html>
 <html>
 <head>
@@ -65,7 +66,7 @@
     <div class="brand-band text-center pdgv">
       <div class="wrapper">
         <a href="https://www.facebook.com/moisvegane/" target="_blank">
-          <img class="inline-block" src="{{ 'images/facebook.svg' | asseturl }}" width="50" height="50">
+          {{ icon('facebook', 200) }}
         </a>
         <p class="footer__copyright">Le Mois végane romand est une initiative de l'association <a href="https://www.asso-pea.ch"
           target="_blank">PEA - Pour l'Égalité Animale</a></p>

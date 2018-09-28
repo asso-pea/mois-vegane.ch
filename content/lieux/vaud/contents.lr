@@ -7,11 +7,13 @@ title: Vaud
 events:
 
 #### event ####
+title: Soirée d'ouverture
+----
+flags: deafsubbed
+----
 start: 2018-11-01 18:30
 ----
 end: 2018-11-01 21:30
-----
-title: Soirée d'ouverture
 ----
 description:
 
@@ -26,11 +28,13 @@ Rue Beau-Séjour 24, Lausanne
 ----
 map_url: https://goo.gl/maps/7JdXptua3t52
 #### event ####
+title: Shopping tour
+----
+flags: deafsubbed
+----
 start: 2018-11-03 12:45
 ----
 end: 
-----
-title: Shopping tour
 ----
 description: Où faire ses courses à Lausanne quand on refuse l’exploitation animale? Suivez-nous dans les rues du centre-ville pour le découvrir, et finir par un goûter au Veganopolis Café! Départ à 13h! N’hésitez pas à appeler Alizée au [079 413 61 65](tel:+41794136165).
 ----
@@ -38,11 +42,13 @@ location: Rendez-vous dans le hall de la gare de Lausanne, en face de Subway
 ----
 map_url: https://www.google.com/maps/place/Lausanne+Gare/@46.517041,6.627032,17z/data=!3m1!4b1!4m5!3m4!1s0x478c2e32aaabab8d:0x32e2005cbc99fba8!8m2!3d46.517041!4d6.6292207
 #### event ####
+title: Atelier cuisine (sur inscription)
+----
+flags: deafsubbed, wheelchair
+----
 start: 2018-11-04 11:00
 ----
 end: 2018-11-04 15:30
-----
-title: Atelier cuisine (sur inscription)
 ----
 description:
 
@@ -57,11 +63,13 @@ Chemin des Pêcheurs 7, Lausanne
 ----
 map_url: https://www.google.com/maps/place/Chemin+des+P%C3%AAcheurs+7,+1007+Lausanne,+Switzerland/@46.5077266,6.6202773,17z/data=!3m1!4b1!4m5!3m4!1s0x478c2fda0bf5a027:0x31e1ab6eba4f902e!8m2!3d46.5077266!4d6.622466
 #### event ####
+title: Atelier argumentation véganisme
+----
+flags: wheelchair, deafsubbed
+----
 start: 2018-11-06 18:30
 ----
 end: 2018-11-06 21:30
-----
-title: Atelier argumentation véganisme
 ----
 description: Cri de la carotte, lions et hommes de Cro-Magnon, Fabien Truffer saura vous apporter réflexion et méthode pour répondre à vos interrogations et à vos proches sceptiques.
 ----
@@ -72,11 +80,13 @@ Avenue Dickens 6, Lausanne
 ----
 map_url: https://www.google.com/maps/place/Espace+Dickens/@46.5153289,6.6315616,17z/data=!3m1!4b1!4m5!3m4!1s0x478c2fcc9a0d480d:0x74b3661f7f724407!8m2!3d46.5153289!4d6.6337503
 #### event ####
+title: Projection « Speciesism » & discussion
+----
+flags: wheelchair
+----
 start: 2018-11-08 18:30
 ----
 end: 2018-11-08 21:30
-----
-title: Projection « Speciesism » & discussion
 ----
 description: Qu’est-ce que le « spécisme » ? C’est la question que s’est posée un jeune étudiant qui tentera d’y répondre dans ce film avec de nombreux intervenant-e-s pour nous éclairer et une pointe d’humour. Suivi d’une discussion concernant le mouvement antispéciste.
 ----
@@ -87,11 +97,11 @@ Rue Etraz 4, 1003 Lausanne
 ----
 map_url: https://www.google.com/maps/place/Liip+SA/@46.519291,6.6360539,17z/data=!3m1!4b1!4m5!3m4!1s0x478c2e339695a2e1:0x9cd730b81e05924b!8m2!3d46.519291!4d6.6382426
 #### event ####
+title: Flash tattoo
+----
 start: 2018-11-10 11:00
 ----
 end: 2018-11-10 17:00
-----
-title: Flash tattoo
 ----
 description:
 
@@ -106,11 +116,13 @@ rue du Maupas 7, Lausanne
 ----
 map_url: https://www.google.com/maps/place/DropinShop/@46.5245746,6.6238156,17z/data=!3m1!4b1!4m5!3m4!1s0x478c2e32f1f2790d:0x8ad3ad4e242598f6!8m2!3d46.5245746!4d6.6260043
 #### event ####
+title: Manifestation anti-fourrure
+----
+flags: 
+----
 start: 2018-11-10 13:00
 ----
 end: 2018-11-10 17:00
-----
-title: Manifestation anti-fourrure
 ----
 description: Pour dénoncer la cruauté de la fourrure, joignons-nous aux activistes Zurichois-es. Rdv à 10h30 dans le hall principal de la gare de Lausanne, départ du train 10h44 voie 1. Contactez Raoul au [079 903 94 69](tel:+41799039469).
 ----
@@ -118,11 +130,13 @@ location: Helvetiaplatz, Zürich
 ----
 map_url: https://www.google.com/maps/place/Helvetiaplatz,+8004+Z%C3%BCrich,+Switzerland/@47.3762989,8.5250117,17z/data=!3m1!4b1!4m5!3m4!1s0x47900a1a42837d57:0x9722febaac422df0!8m2!3d47.3762989!4d8.5272004
 #### event ####
+title: Atelier pâtisseries (sur inscription)
+----
+flags: deafsubbed, wheelchair
+----
 start: 2018-11-11 13:30
 ----
 end: 2018-11-11 17:00
-----
-title: Atelier pâtisseries (sur inscription)
 ----
 description:
 
@@ -137,11 +151,13 @@ Rue de la Pontaise 33, Lausanne
 ----
 map_url: https://www.google.com/maps/place/Rue+de+la+Pontaise+33,+1018+Lausanne,+Switzerland/@46.530617,6.6271659,17z/data=!3m1!4b1!4m5!3m4!1s0x478c2e24607afa81:0xec36bdeeb09c4503!8m2!3d46.530617!4d6.6293546
 #### event ####
+title: Conférence
+----
+flags: wheelchair
+----
 start: 2018-11-13 18:30
 ----
 end: 2018-11-13 21:30
-----
-title: Conférence
 ----
 description:
 
@@ -156,11 +172,11 @@ Avenue Dickens 6, Lausanne
 ----
 map_url: https://www.google.com/maps/place/Espace+Dickens/@46.5153289,6.6315616,17z/data=!3m1!4b1!4m5!3m4!1s0x478c2fcc9a0d480d:0x74b3661f7f724407!8m2!3d46.5153289!4d6.6337503
 #### event ####
+title: Sortie conviviale, pizza party (sur inscription)
+----
 start: 2018-11-15 18:30
 ----
 end: 
-----
-title: Sortie conviviale, pizza party (sur inscription)
 ----
 description:
 
@@ -175,11 +191,11 @@ Rue du Valentin 23, Lausanne
 ----
 map_url: https://www.google.com/maps/place/Slice+Pizza/@46.5244407,6.6289918,17z/data=!3m1!4b1!4m5!3m4!1s0x478c2e302b4aa12d:0xf9f2c3a32b4bab28!8m2!3d46.5244407!4d6.6311805
 #### event ####
+title: Après-midi au refuge La bouche qui rit (sur inscription)
+----
 start: 2018-11-17 13:00
 ----
 end: 2018-11-17 17:00
-----
-title: Après-midi au refuge La bouche qui rit (sur inscription)
 ----
 description:
 
@@ -194,11 +210,13 @@ Avenue de Fully 63, Martigny
 ----
 map_url: https://www.google.com/maps/place/Refuge+La+Bouche+qui+rit/@46.1138187,7.0766122,17z/data=!3m1!4b1!4m5!3m4!1s0x478ec82fe22d697f:0x360b2f3a96325620!8m2!3d46.1138187!4d7.0788009
 #### event ####
+title: Atelier cuisine : repas de fêtes (sur inscription)
+----
+flags: wheelchair
+----
 start: 2018-11-18 11:00
 ----
 end: 2018-11-18 16:00
-----
-title: Atelier cuisine : repas de fêtes (sur inscription)
 ----
 description:
 
@@ -213,11 +231,13 @@ Rue de la Pontaise 33, Lausanne
 ----
 map_url: https://www.google.com/maps/place/Rue+de+la+Pontaise+33,+1018+Lausanne,+Switzerland/@46.530617,6.6271659,17z/data=!3m1!4b1!4m5!3m4!1s0x478c2e24607afa81:0xec36bdeeb09c4503!8m2!3d46.530617!4d6.6293546
 #### event ####
+title: Conférence : viande de labo
+----
+flags: wheelchair
+----
 start: 2018-11-18 18:30
 ----
 end: 2018-11-18 21:30
-----
-title: Conférence : viande de labo
 ----
 description:
 
@@ -232,11 +252,13 @@ Rue de la Pontaise 33, Lausanne
 ----
 map_url: https://www.google.com/maps/place/Rue+de+la+Pontaise+33,+1018+Lausanne,+Switzerland/@46.530617,6.6271659,17z/data=!3m1!4b1!4m5!3m4!1s0x478c2e24607afa81:0xec36bdeeb09c4503!8m2!3d46.530617!4d6.6293546
 #### event ####
+title: Table ronde : aimer ses bêtes ?
+----
+flags: wheelchair
+----
 start: 2018-11-20 18:30
 ----
 end: 2018-11-20 21:30
-----
-title: Table ronde : aimer ses bêtes ?
 ----
 description: Témoignages d'éleveur-euse-s. L'amour est une chose bien étrange : celui qu'on a pour les animaux peut-il s'affranchir du spécisme ? Toni et Yvonne, un couple d'éleveur-euse-s témoignent de leur expérience. Ancienne production laitière, leur exploitation s'est tournée vers la viande avant de devenir un sanctuaire. Une histoire émouvante de celles et ceux qui vivent au plus proche des animaux, une prise de conscience radicale et un courage immense ont donné naissance au projet « ZuKUHnft ». Mais comment y parvenir ? Est-ce durable ? Leurs témoignages nous éclaireront. Suivi d'une intervention de Sarah, de l'association et sanctuaire « Hofnarr ».
 ----
@@ -247,11 +269,13 @@ Salle Gibraltar, av. Mercier 3, Lausanne
 ----
 map_url: https://www.google.com/maps/place/P%C3%B4le+Sud+centre+socio-+culturel+de+l'Union+Syndical/@46.5204738,6.6269097,17z/data=!3m1!4b1!4m5!3m4!1s0x478c2e2d9106f91d:0xd87c2b3434789a71!8m2!3d46.5204738!4d6.6290984
 #### event ####
+title: Atelier bricolage
+----
+flags: wheelchair
+----
 start: 2018-11-22 18:30
 ----
 end: 2018-11-22 21:30
-----
-title: Atelier bricolage
 ----
 description: Passez un moment artistique avec l'équipe de PEA pour une séance bricolage ! Venez discuter et manger tout en préparant le matériel de la manifestation contre le foie gras. Matériel fourni, venez avec vos idées !
 ----
@@ -262,11 +286,11 @@ Rue Etraz 4, Lausanne
 ----
 map_url: https://www.google.com/maps/place/Liip+SA/@46.519291,6.6360539,17z/data=!3m1!4b1!4m5!3m4!1s0x478c2e339695a2e1:0x9cd730b81e05924b!8m2!3d46.519291!4d6.6382426
 #### event ####
+title: Manifestation contre le foie gras
+----
 start: 2018-11-24 14:00
 ----
 end: 2018-11-24 16:00
-----
-title: Manifestation contre le foie gras
 ----
 description: La Suisse est championne de l'hypocrisie en interdisant la production de foie gras : cela ne l'empêche pas d'importer des tonnes de ce produit ignoble ! Manifestons contre cette cruauté dans les rues de Lausanne !
 ----
@@ -277,11 +301,11 @@ Rue des Terreaux 25, Lausanne
 ----
 map_url: https://www.google.com/maps/place/Migros/@46.5222851,6.625117,17z/data=!3m2!4b1!5s0x478c2e2e815087f9:0x7edf0a3aa5e6717e!4m5!3m4!1s0x478c2e2e8504d92f:0xd196d71953ed54ad!8m2!3d46.5222851!4d6.6273057
 #### event ####
+title: Vrunch & table ronde
+----
 start: 2018-11-25 11:00
 ----
 end: 2018-11-25 17:30
-----
-title: Vrunch & table ronde
 ----
 description:
 
@@ -298,11 +322,13 @@ Place Arlaud 2, Lausanne
 ----
 map_url: https://www.google.com/maps/place/Place+Marc-Louis-Arlaud+2,+1003+Lausanne,+Switzerland/@46.522533,6.6300105,17z/data=!3m1!4b1!4m5!3m4!1s0x478c2e318dfa9a87:0xfa2d42f028ce9a0f!8m2!3d46.522533!4d6.6321992
 #### event ####
+title: Projection « Carnage »
+----
+flags: wheelchair
+----
 start: 2018-11-27 18:30
 ----
 end: 2018-11-27 21:30
-----
-title: Projection « Carnage »
 ----
 description: À quoi ressemblerait un monde affranchi de l'exploitation animale ? Dans son film, le réalisateur Simon Amstell a dépeint avec humour et autodérision l'évolution de la société. Un film d'anticipation unique, à venir regarder en VOSTFR.
 ----
@@ -313,11 +339,13 @@ Avenue Dickens 6, Lausanne
 ----
 map_url: https://www.google.com/maps/place/Espace+Dickens/@46.5153289,6.6315616,17z/data=!3m1!4b1!4m5!3m4!1s0x478c2fcc9a0d480d:0x74b3661f7f724407!8m2!3d46.5153289!4d6.6337503
 #### event ####
+title: Conférence
+----
+flags: wheelchair
+----
 start: 2018-11-28 18:30
 ----
 end: 2018-11-28 21:30
-----
-title: Conférence
 ----
 description:
 
@@ -332,11 +360,13 @@ Avenue Dickens 6, Lausanne
 ----
 map_url: https://www.google.com/maps/place/Espace+Dickens/@46.5153289,6.6315616,17z/data=!3m1!4b1!4m5!3m4!1s0x478c2fcc9a0d480d:0x74b3661f7f724407!8m2!3d46.5153289!4d6.6337503
 #### event ####
+title: Soirée de clôture (sur inscription)
+----
+flags: deafsubbed
+----
 start: 2018-11-30 18:30
 ----
 end: 2018-11-30 22:00
-----
-title: Soirée de clôture (sur inscription)
 ----
 description:
 
@@ -358,3 +388,9 @@ og_title: Participez au Mois végane romand 2018 dans le canton de Vaud!
 map_title: Carte des options véganes de Lausanne
 ---
 map_url: https://drive.google.com/open?id=1nrH4i7xdJ3FvI7_dl4Kq8dp7hqc
+---
+introduction:
+
+<span class="text-alt"><svg class="icon icon--100 icon--deaf"><use xlink:href="/static/icons.svg#clap"></use></svg><svg class="icon icon--100 icon--deaf"><use xlink:href="/static/icons.svg#deaf"></use></svg></span> activité avec la présence de la référente en langue des signes française Laura Teodori SUR DEMANDE (mail à [alizee.veron@asso-pea.ch](mailto:alizee.veron@asso-pea.ch))
+
+<span class="text-alt"><svg class="icon icon--100 icon--wheelchair"><use xlink:href="/static/icons.svg#wheelchair"></use></svg></span> activité avec accès chaises roulantes

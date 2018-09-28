@@ -1,0 +1,3 @@
+{%- macro icon(id, size=100) -%}
+<svg class="icon icon--{{ id }} icon--{{ size }}"><use xlink:href="{{ 'static/icons.svg' | asseturl }}#{{ id }}"></use></svg>
+{%- endmacro -%}
