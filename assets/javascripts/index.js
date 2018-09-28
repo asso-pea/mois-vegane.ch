@@ -2,6 +2,8 @@ import StickyHeader from 'components/stickyHeader';
 import setupEvents from 'components/event';
 
 import 'icons';
+// SVG use polyfill for IE11
+import 'svgxuse';
 
 document.addEventListener('DOMContentLoaded', () => {
   setTimeout(function () {
