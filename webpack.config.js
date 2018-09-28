@@ -57,7 +57,7 @@ const webpackConfig = {
 };
 
 if (config.optimize) {
-  webpackConfig.plugins = [
+  webpackConfig.plugins = webpackConfig.plugins.concat([
     new webpack.DefinePlugin({
       'process.env': {
         NODE_ENV: JSON.stringify('production'),
@@ -66,7 +66,7 @@ if (config.optimize) {
     new webpack.optimize.UglifyJsPlugin({
       comments: false,
     }),
-  ];
+  ]);
 } else {
   webpackConfig.devtool = 'cheap-module-source-map';
 }
