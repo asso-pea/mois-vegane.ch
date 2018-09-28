@@ -8,6 +8,7 @@
         <a target="_blank" class="external" href="{{ this.map_url }}">{{ this.map_title }}</a>
       </p>
     {% endif %}
+    {{ this.introduction }}
     <a class="canton__past-events">[afficher événements déjà passés]</a>
     <section class="canton__events">
       {%- for event in this.events.blocks %}
