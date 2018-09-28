@@ -21,7 +21,7 @@ CANTON_MANAGERS = {
     'Fribourg': ['sebastien.noverraz@asso-pea.ch'],
     'Genève': ['clemence.herbillon@asso-pea.ch'],
     'Neuchâtel': ['lclbrosy@gmail.com', 'rbrosy@hotmail.com'],
-    'Jura / Berne': ['manuelle.beuchat@asso-pea.ch'],
+    'Jura': ['manuelle.beuchat@asso-pea.ch'],
 }
 
 DIGEST_TEMPLATE = """Bonjour!
