@@ -134,7 +134,6 @@ def add_to_mailerlite(subscriber):
         'name': subscriber['data']['firstname'],
         'fields': {
             'last_name': subscriber['data']['lastname'],
-            'coach': subscriber['data']['coach'],
             'state': subscriber['data']['canton'],
         }
     }
