@@ -54,12 +54,11 @@ def main():
 
     unprocessed_subscribers = filter_subscribers(subscribers)
     add_subscribers_to_mailerlite(unprocessed_subscribers)
-    send_coaches_digest(unprocessed_subscribers)
 
 
 def filter_subscribers(subscribers):
     def filter_func(subscriber):
-        required_props = {'email', 'firstname', 'lastname', 'canton', 'coach'}
+        required_props = {'email', 'firstname', 'lastname', 'canton'}
         valid_cantons = CANTON_MANAGERS.keys()
 
         if already_processed(subscriber):
