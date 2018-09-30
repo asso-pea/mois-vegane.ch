@@ -7,11 +7,11 @@ title: Valais
 events:
 
 #### event ####
+title: Soirée d'ouverture
+----
 start: 2018-11-01 18:00
 ----
 end: 2018-11-01 19:00
-----
-title: Soirée d'ouverture
 ----
 description:
 
@@ -26,11 +26,11 @@ Rue de Loèche 23, Sion
 ----
 map_url: https://www.google.com/maps/place/Rue+de+Lo%C3%A8che+23,+1950+Sion,+Switzerland/@46.2381248,7.36175,18.25z/data=!4m5!3m4!1s0x478edc2d9cadacb1:0x2113e6487e527fb5!8m2!3d46.2381721!4d7.3626889
 #### event ####
+title: Atelier laits et crèmes végétales (sur inscription)
+----
 start: 2018-11-02 19:00
 ----
 end: 2018-11-02 21:30
-----
-title: Atelier laits et crèmes végétales (sur inscription)
 ----
 description:
 
@@ -45,11 +45,11 @@ Rue de Venise 8, Monthey
 ----
 map_url: https://www.google.com/maps/place/Chez+Mamie+Monthey/@46.251129,6.9463352,17z/data=!3m1!4b1!4m5!3m4!1s0x478ebcec12b0bf2b:0xcd125edb61dcc276!8m2!3d46.251129!4d6.9485239
 #### event ####
+title: Atelier produits végé & conseils nutrition
+----
 start: 2018-11-03 16:00
 ----
 end: 2018-11-03 18:30
-----
-title: Atelier produits végé & conseils nutrition
 ----
 description:
 
@@ -64,11 +64,11 @@ Rue de la Drague 18, Sion
 ----
 map_url: https://www.google.com/maps/place/Chez+Mamie/@46.2212528,7.3537467,17z/data=!3m1!4b1!4m5!3m4!1s0x478edc17f062df91:0xcdc54ed29846fb35!8m2!3d46.2212528!4d7.3559354
 #### event ####
+title: Atelier cuisine végétale (sur inscription)
+----
 start: 2018-11-05 18:00
 ----
 end: 2018-11-05 21:00
-----
-title: Atelier cuisine végétale (sur inscription)
 ----
 description:
 
@@ -85,11 +85,11 @@ Rue du Grand-Verger 12, Martigny
 ----
 map_url: https://www.google.com/maps/place/Nouvelle+Terre/@46.1023727,7.0738912,17z/data=!3m1!4b1!4m5!3m4!1s0x478ec9d2786ff13b:0x356137f7e8d413de!8m2!3d46.1023727!4d7.0760799
 #### event ####
+title: Atelier protéines végétales (sur inscription)
+----
 start: 2018-11-09 19:00
 ----
 end: 2018-11-09 21:30
-----
-title: Atelier protéines végétales (sur inscription)
 ----
 description:
 
@@ -104,11 +104,11 @@ Rue de Venise 8, Monthey
 ----
 map_url: https://www.google.com/maps/place/Chez+Mamie+Monthey/@46.251129,6.9463352,17z/data=!3m1!4b1!4m5!3m4!1s0x478ebcec12b0bf2b:0xcd125edb61dcc276!8m2!3d46.251129!4d6.9485239
 #### event ####
+title: Découverte des produits véganes
+----
 start: 2018-11-10 16:00
 ----
 end: 2018-11-10 17:00
-----
-title: Découverte des produits véganes
 ----
 description: Petit tour des aliments véganes à Nouvelle Terre. Venez découvrir des produits et leur intérêt nutritif. Une spécialiste en nutrition sera sur place pour répondre à vos questions. Gratuit, chapeau à la sortie.
 ----
@@ -119,11 +119,11 @@ Rue du Grand-Verger 12, Martigny
 ----
 map_url: https://www.google.com/maps/place/Nouvelle+Terre/@46.1023727,7.0738912,17z/data=!3m1!4b1!4m5!3m4!1s0x478ec9d2786ff13b:0x356137f7e8d413de!8m2!3d46.1023727!4d7.0760799
 #### event ####
+title: Projection « Called to Rescue »
+----
 start: 2018-11-10 17:00
 ----
 end: 2018-11-10 19:00
-----
-title: Projection « Called to Rescue »
 ----
 description:
 
@@ -138,11 +138,11 @@ Rue du Grand-Verger 12, Martigny
 ----
 map_url: https://www.google.com/maps/place/Nouvelle+Terre/@46.1023727,7.0738912,17z/data=!3m1!4b1!4m5!3m4!1s0x478ec9d2786ff13b:0x356137f7e8d413de!8m2!3d46.1023727!4d7.0760799
 #### event ####
+title: Végétalisez vos recettes (sur inscription)
+----
 start: 2018-11-11 14:00
 ----
 end: 2018-11-11 16:00
-----
-title: Végétalisez vos recettes (sur inscription)
 ----
 description:
 
@@ -157,11 +157,11 @@ Route des Condémines 160, Condémines (Nendaz)
 ----
 map_url: 
 #### event ####
+title: Découverte de jus de légumes et dégustation de chocolat cru (sur inscription)
+----
 start: 2018-11-15 19:00
 ----
 end: 2018-11-15 20:00
-----
-title: Découverte de jus de légumes et dégustation de chocolat cru (sur inscription)
 ----
 description:
 
@@ -176,11 +176,11 @@ Avenue de la Gare 57, Monthey
 ----
 map_url: https://www.google.com/maps/place/Pousse+Nature+S%C3%A0rl/@46.2555298,6.9492488,17z/data=!3m1!4b1!4m5!3m4!1s0x478ebcef0bd54b9f:0x843584b36736651e!8m2!3d46.2555298!4d6.9514375
 #### event ####
+title: Atelier desserts (sur inscription)
+----
 start: 2018-11-16 19:00
 ----
 end: 2018-11-16 21:30
-----
-title: Atelier desserts (sur inscription)
 ----
 description:
 
@@ -195,15 +195,15 @@ Rue de Venise 8, Monthey
 ----
 map_url: https://www.google.com/maps/place/Chez+Mamie+Monthey/@46.251129,6.9463352,17z/data=!3m1!4b1!4m5!3m4!1s0x478ebcec12b0bf2b:0xcd125edb61dcc276!8m2!3d46.251129!4d6.9485239
 #### event ####
+title: Après-midi au refuge La bouche qui rit (sur inscription)
+----
 start: 2018-11-17 13:00
 ----
 end: 2018-11-17 17:00
 ----
-title: Après-midi au refuge La bouche qui rit (sur inscription)
-----
 description:
 
-Venez découvrir les protégé-e-s du refuge La bouche qui rit.  Au programme, visite du refuge, séances de caresses et de câlins aux chèvres, aux poneys, aux cochons, aux chevaux. Restauration à prix libre sur place et présentation par Rakel de la ferme pédagogique « L’école buissonnière ». Co-voiturages et voyages en train seront organisés.
+Venez découvrir les protégé-e-s du refuge La bouche qui rit.  Au programme, visite du refuge, séances de caresses et de câlins aux chèvres, aux poneys, aux cochons, aux chevaux. Restauration à prix libre sur place et présentation par Rakel de la ferme pédagogique « L’école buissonnière ».
 
 **Inscription au [079 903 94 69](tel:+41799039469) ou [raoul.perrenoud@asso-pea.ch](mailto:raoul.perrenoud@asso-pea.ch).**
 ----
@@ -214,11 +214,11 @@ Avenue de Fully 63, Martigny
 ----
 map_url: https://www.google.com/maps/place/Refuge+La+Bouche+qui+rit/@46.1138187,7.0766122,17z/data=!3m1!4b1!4m5!3m4!1s0x478ec82fe22d697f:0x360b2f3a96325620!8m2!3d46.1138187!4d7.0788009
 #### event ####
+title: Atelier de cuisine végétale (sur inscription)
+----
 start: 2018-11-19 18:00
 ----
 end: 2018-11-19 21:00
-----
-title: Atelier de cuisine végétale (sur inscription)
 ----
 description:
 
@@ -235,11 +235,11 @@ Rue du Grand-Verger 12, Martigny
 ----
 map_url: https://www.google.com/maps/place/Nouvelle+Terre/@46.1023727,7.0738912,17z/data=!3m1!4b1!4m5!3m4!1s0x478ec9d2786ff13b:0x356137f7e8d413de!8m2!3d46.1023727!4d7.0760799
 #### event ####
+title: Atelier fromages végétaux (sur inscription)
+----
 start: 2018-11-22 18:30
 ----
 end: 2018-11-22 21:00
-----
-title: Atelier fromages végétaux (sur inscription)
 ----
 description:
 
@@ -254,11 +254,11 @@ Rue de la Drague 18, Sion
 ----
 map_url: https://www.google.com/maps/place/Chez+Mamie/@46.2212528,7.3537467,17z/data=!3m1!4b1!4m5!3m4!1s0x478edc17f062df91:0xcdc54ed29846fb35!8m2!3d46.2212528!4d7.3559354
 #### event ####
+title: Atelier pâtés végétaux (sur inscription)
+----
 start: 2018-11-23 19:00
 ----
 end: 2018-11-23 21:30
-----
-title: Atelier pâtés végétaux (sur inscription)
 ----
 description:
 
@@ -273,11 +273,11 @@ Rue de Venise 8, Monthey
 ----
 map_url: https://www.google.com/maps/place/Chez+Mamie+Monthey/@46.251129,6.9463352,17z/data=!3m1!4b1!4m5!3m4!1s0x478ebcec12b0bf2b:0xcd125edb61dcc276!8m2!3d46.251129!4d6.9485239
 #### event ####
+title: Atelier pâtés végétaux (sur inscription)
+----
 start: 2018-11-26 18:30
 ----
 end: 2018-11-26 21:00
-----
-title: Atelier pâtés végétaux (sur inscription)
 ----
 description:
 
@@ -292,11 +292,11 @@ Rue de la Drague 18, Sion
 ----
 map_url: https://www.google.com/maps/place/Chez+Mamie/@46.2212528,7.3537467,17z/data=!3m1!4b1!4m5!3m4!1s0x478edc17f062df91:0xcdc54ed29846fb35!8m2!3d46.2212528!4d7.3559354
 #### event ####
+title: Atelier fromages végétaux (sur inscription)
+----
 start: 2018-11-30 19:00
 ----
 end: 2018-11-30 21:30
-----
-title: Atelier fromages végétaux (sur inscription)
 ----
 description:
 
