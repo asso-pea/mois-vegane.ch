@@ -7,11 +7,11 @@ title: Neuchâtel
 events:
 
 #### event ####
+title: Souper d'ouverture
+----
 start: 2018-11-01 18:30
 ----
 end: 2018-11-01 21:00
-----
-title: Souper d'ouverture
 ----
 description: Venez passer un agréable moment autour d'un souper canadien et découvrir le programme du Mois végane à venir. En prime, vous pourrez goûter aux délicieuses spécialités de Crème Renversante qui nous fait l'honneur de collaborer avec nous pour cet événement.
 ----
@@ -22,11 +22,11 @@ Rue du Premier Mars 14, La Chaux-de-Fonds
 ----
 map_url: https://www.google.com/maps/place/La+Coquille/@47.105515,6.8279562,17z/data=!3m1!4b1!4m5!3m4!1s0x478dfb410deb56bb:0x5da550093d295e52!8m2!3d47.105515!4d6.8301449
 #### event ####
+title: Projection de « Ferdinand » & expo
+----
 start: 2018-11-04 13:30
 ----
 end: 2018-11-04 17:30
-----
-title: Projection de « Ferdinand » & expo
 ----
 description: Après le film, vous pourrez vous balader dans une exposition interactive reprenant des thèmes de « Ferdinand » comme la corrida, la relation de l'homme avec l'animal et les sanctuaires pour animaux. Suivi d'un goûter. L'activité est dédiée aux enfants dès 6 ans et à leurs parents.
 ----
@@ -34,17 +34,17 @@ location: Av. de la gare 3, Neuchâtel, 2e étage
 ----
 map_url: https://www.google.com/maps/place/Avenue+de+la+Gare+3,+2000+Neuch%C3%A2tel,+Switzerland/@46.9931655,6.9282356,17z/data=!3m1!4b1!4m5!3m4!1s0x478e0a10f0aa0ea9:0xace7b2fd0d851a9f!8m2!3d46.9931655!4d6.9304243
 #### event ####
+title: Cours kebab végane (sur inscription)
+----
 start: 2018-11-11 11:30
 ----
 end: 2018-11-11 13:30
-----
-title: Cours kebab végane (sur inscription)
 ----
 description:
 
 Venez apprendre à faire des kebabs véganes dans un atelier cuisine organisé par Loetitia Cuisine. Seitan façon kebab, pains pita, accompagnement cru et sauces maison ! Toutes les recettes vous seront transmises par PDF après l'atelier.
 
-**Prix CHF 30.-. Inscription sur [yoganeuchatel.com/event/atelier-de-cuisine-vegane-kebab-vegane](http://yoganeuchatel.com/event/atelier-de-cuisine-vegane-kebab-vegane).**
+**Prix CHF 30.-. Inscription sur [yoganeuchatel.com/event/atelier-de-cuisine-vegane/](https://yoganeuchatel.com/event/atelier-de-cuisine-vegane/).**
 ----
 location:
 
@@ -53,11 +53,11 @@ Rue des Terreaux 7, Neuchâtel
 ----
 map_url: https://www.google.com/maps/place/Chirosphere+-+Centre+Chiropratique+Neuch%C3%A2tel+-+Dr+Laurence+Froidevaux/@46.9924696,6.9280884,17z/data=!3m1!4b1!4m5!3m4!1s0x478e0a110242e341:0x30dd19733b895c46!8m2!3d46.9924696!4d6.9302771
 #### event ####
+title: Conférence nutrition
+----
 start: 2018-11-15 18:30
 ----
 end: 2018-11-15 21:00
-----
-title: Conférence nutrition
 ----
 description: Tout ce qu'il faut savoir pour se lancer dans l'alimentation végétalienne par Dre Laurence Froidevaux, chiropraticienne et spécialiste en nutrition végétale. En collaboration avec VEGA'Neuch (association universitaire).
 ----
@@ -68,11 +68,11 @@ Espace Louis-Agassiz, salle R.N.02
 ----
 map_url: https://www.google.com/maps/place/University+of+Neuch%C3%A2tel/@46.9938549,6.9365144,17z/data=!3m1!4b1!4m5!3m4!1s0x478e0a10c2425357:0xab9ae906aab2077c!8m2!3d46.9938549!4d6.9387031
 #### event ####
+title: Après-midi au refuge La bouche qui rit (sur inscription)
+----
 start: 2018-11-17 13:00
 ----
 end: 2018-11-17 17:00
-----
-title: Après-midi au refuge La bouche qui rit (sur inscription)
 ----
 description:
 
@@ -87,11 +87,11 @@ Avenue de Fully 63, Martigny
 ----
 map_url: https://www.google.com/maps/place/Refuge+La+Bouche+qui+rit/@46.1138187,7.0766122,17z/data=!3m1!4b1!4m5!3m4!1s0x478ec82fe22d697f:0x360b2f3a96325620!8m2!3d46.1138187!4d7.0788009
 #### event ####
+title: Concert Zeppo
+----
 start: 2018-11-17 20:00
 ----
 end: 
-----
-title: Concert Zeppo
 ----
 description:
 
@@ -108,11 +108,11 @@ Quai Philippe-Godet 20, Neuchâtel
 ----
 map_url: https://www.google.com/maps/place/La+Case+%C3%A0+Chocs/@46.9891898,6.919696,17z/data=!3m1!4b1!4m5!3m4!1s0x478e0a0c40d87cff:0x2879e0e4c817cb96!8m2!3d46.9891898!4d6.9218847
 #### event ####
+title: Conférence : féminisme & véganisme
+----
 start: 2018-11-19 18:30
 ----
 end: 2018-11-19 21:00
-----
-title: Conférence : féminisme & véganisme
 ----
 description:
 
@@ -131,11 +131,11 @@ Espace Louis-Agassiz, salle R.N.02
 ----
 map_url: https://www.google.com/maps/place/University+of+Neuch%C3%A2tel/@46.9938549,6.9365144,17z/data=!3m1!4b1!4m5!3m4!1s0x478e0a10c2425357:0xab9ae906aab2077c!8m2!3d46.9938549!4d6.9387031
 #### event ####
+title: Projection de « Ferdinand » & expo
+----
 start: 2018-11-25 13:30
 ----
 end: 2018-11-25 17:30
-----
-title: Projection de « Ferdinand » & expo
 ----
 description: Après le film, vous pourrez vous balader dans une exposition interactive reprenant des thèmes de « Ferdinand » comme la corrida, la relation de l'homme avec l'animal et les sanctuaires pour animaux. Suivi d'un goûter. L'activité est dédiée aux enfants dès 6 ans et à leurs parents.
 ----
@@ -146,11 +146,11 @@ Rue du Premier Mars 14, La Chaux-de-Fonds
 ----
 map_url: https://www.google.com/maps/place/La+Coquille/@47.105515,6.8279562,17z/data=!3m1!4b1!4m5!3m4!1s0x478dfb410deb56bb:0x5da550093d295e52!8m2!3d47.105515!4d6.8301449
 #### event ####
+title: Conférence
+----
 start: 2018-11-28 18:30
 ----
 end: 2018-11-28 21:00
-----
-title: Conférence
 ----
 description:
 
@@ -165,11 +165,11 @@ Espace Louis-Agassiz, salle R.N.02
 ----
 map_url: https://www.google.com/maps/place/University+of+Neuch%C3%A2tel/@46.9938549,6.9365144,17z/data=!3m1!4b1!4m5!3m4!1s0x478e0a10c2425357:0xab9ae906aab2077c!8m2!3d46.9938549!4d6.9387031
 #### event ####
+title: Soirée de clôture (sur inscription)
+----
 start: 2018-11-30 19:00
 ----
 end: 2018-11-30 22:00
-----
-title: Soirée de clôture (sur inscription)
 ----
 description:
 
