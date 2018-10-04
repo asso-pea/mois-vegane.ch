@@ -7,11 +7,11 @@ title: Genève
 events:
 
 #### event ####
+title: Soirée d'ouverture
+----
 start: 2018-11-01 19:00
 ----
 end: 2018-11-01 23:00
-----
-title: Soirée d'ouverture
 ----
 description: Cette soirée d'ouverture sera l'occasion de découvrir les trésors que recèlent Genève et, plus largement, la Suisse romande : le Café Mutin, KONOÏ Crémerie Végétale, Beyond Eat, ou encore Tendance Végane seront là pour vous faire découvrir le véganisme sous toutes ses coutures et partager leurs expériences.
 ----
@@ -22,26 +22,26 @@ Salle Rachel Carson, rue des Savoises 15, Genève
 ----
 map_url: https://www.google.com/maps/place/The+International+House+of+Associations/@46.2009927,6.1363088,17z/data=!3m1!4b1!4m5!3m4!1s0x478c64d5a1b059a9:0xd9f0c3764858c45e!8m2!3d46.2009927!4d6.1384975
 #### event ####
+title: Conférence : véganisme et esprit critique
+----
 start: 2018-11-02 19:00
 ----
 end: 2018-11-02 21:00
-----
-title: Conférence : véganisme et esprit critique
 ----
 description: Il est parfois difficile de démêler le vrai du faux, notamment sur le net. C'est d'autant plus le cas lorsque l'on souhaite se renseigner sur l'antispécisme et le véganisme. Nous allons essayer de vous renseigner sur les pièges à éviter, pour gagner en esprit critique et pour avoir de meilleurs éléments à partager lors de votre prochaine discussion sur le sort des animaux non-humains. Par Joseph Jaccaz et Dora Kohen. Buffet végétalien et boissons au bar.
 ----
 location:
 
-Café Gavroche
-Boulevard James-Fazy 4, Genève
+Uni Mail, salle MR040
+Boulevard du Pont-d'Arve 40, 1205 Genève
 ----
-map_url: https://www.google.com/maps/place/Caf%C3%A9+Gavroche/@46.2009927,6.1363088,17z/data=!4m5!3m4!1s0x478c64d7bc352265:0x149b61fb21c8d65c!8m2!3d46.2061929!4d6.1398608
+map_url: https://www.google.com/maps/place/Boulevard+du+Pont-d'Arve+40,+1205+Gen%C3%A8ve,+Switzerland/@46.1949525,6.1377544,17z/data=!3m1!4b1!4m5!3m4!1s0x478c7ad597beb8eb:0x9b82b37d1ba0a496!8m2!3d46.1949525!4d6.1399431
 #### event ####
+title: Projection « Called to Rescue »
+----
 start: 2018-11-10 19:00
 ----
 end: 2018-11-10 22:00
-----
-title: Projection « Called to Rescue »
 ----
 description: Tourné aux Etats-Unis dans 15 sanctuaires différents, les portraits de rescapé-e-s à poils ou à plumes dressés permettent d'envisager concrètement une juste coexistence entre animaux. Suivie d'une discussion animée par Claire Camblain, réalisant une thèse en géographie sur les sanctuaires pour animaux et d'un apéro-dînatoire à prix libre (bénéfices reversés au refuge La bouche qui rit).
 ----
@@ -52,11 +52,11 @@ Salle Equitable, rue des Savoises 15, Genève
 ----
 map_url: https://www.google.com/maps/place/The+International+House+of+Associations/@46.2009927,6.1363088,17z/data=!3m1!4b1!4m5!3m4!1s0x478c64d5a1b059a9:0xd9f0c3764858c45e!8m2!3d46.2009927!4d6.1384975
 #### event ####
+title: Shopping tour
+----
 start: 2018-11-13 14:00
 ----
 end: 2018-11-13 15:30
-----
-title: Shopping tour
 ----
 description: Où faire ses courses à Genève lorsqu'on refuse d'exploiter les animaux ? Ce shopping tour en compagnie de Joseph vous permettra d'acquérir des bonnes astuces à mobiliser au quotidien.
 ----
@@ -64,11 +64,11 @@ location: rdv à l’arrêt de tram Plainpalais, rue de Carouge, Genève
 ----
 map_url: https://www.google.com/maps/place/Plainpalais/@46.1952693,6.1403268,17z/data=!4m13!1m7!3m6!1s0x478c7ad5cbede135:0x7ef133107d859338!2s1205+Plainpalais,+Switzerland!3b1!8m2!3d46.193889!4d6.141389!3m4!1s0x478c652b2fbaf799:0x55b87506eb26e536!8m2!3d46.1978934!4d6.1430921
 #### event ####
+title: Conférence
+----
 start: 2018-11-16 18:30
 ----
 end: 2018-11-16 20:00
-----
-title: Conférence
 ----
 description:
 
@@ -83,11 +83,11 @@ Salle Zazi Sadou, rue des Savoises 15, Genève
 ----
 map_url: https://www.google.com/maps/place/The+International+House+of+Associations/@46.2009927,6.1363088,17z/data=!3m1!4b1!4m5!3m4!1s0x478c64d5a1b059a9:0xd9f0c3764858c45e!8m2!3d46.2009927!4d6.1384975
 #### event ####
+title: Après-midi au refuge La bouche qui rit (sur inscription)
+----
 start: 2018-11-17 13:00
 ----
 end: 2018-11-17 17:00
-----
-title: Après-midi au refuge La bouche qui rit (sur inscription)
 ----
 description:
 
@@ -102,11 +102,11 @@ Avenue de Fully 63, Martigny
 ----
 map_url: https://www.google.com/maps/place/Refuge+La+Bouche+qui+rit/@46.1138187,7.0766122,17z/data=!3m1!4b1!4m5!3m4!1s0x478ec82fe22d697f:0x360b2f3a96325620!8m2!3d46.1138187!4d7.0788009
 #### event ####
+title: Table ouverte au café Mutin (sur inscription)
+----
 start: 2018-11-20 19:30
 ----
 end: 
-----
-title: Table ouverte au café Mutin (sur inscription)
 ----
 description:
 
@@ -121,11 +121,11 @@ Boulevard de la Cluse 20, Genève
 ----
 map_url: https://www.google.com/maps/place/Caf%C3%A9+mutin/@46.1889702,6.1427476,17z/data=!3m1!4b1!4m5!3m4!1s0x478c7ad095baaaab:0x368aed262ba1b0b6!8m2!3d46.1889702!4d6.1449363
 #### event ####
+title: Conférence sur la nutrition
+----
 start: 2018-11-23 18:30
 ----
 end: 2018-11-23 19:30
-----
-title: Conférence sur la nutrition
 ----
 description: Tout ce qu'il faut savoir pour se lancer dans l'alimentation végétalienne par Dre Laurence Froidevaux, chiropraticienne et spécialiste en nutrition végétale.
 ----
@@ -136,11 +136,11 @@ Rue de Fribourg 5, Genève
 ----
 map_url: https://www.google.com/maps/place/Librairie+arabe+L+Olivier,+A.+Bittar/@46.210718,6.1428304,17z/data=!3m1!4b1!4m5!3m4!1s0x478c65271f0437cd:0x968c1fa22f2e57a1!8m2!3d46.210718!4d6.1450191
 #### event ####
+title: Manifestation contre le foie gras
+----
 start: 2018-11-24 14:00
 ----
 end: 2018-11-24 16:00
-----
-title: Manifestation contre le foie gras
 ----
 description: La Suisse est championne de l'hypocrisie en interdisant la production de foie gras : cela ne l'empêche pas d'importer des tonnes de ce produit ignoble ! Manifestons contre cette cruauté dans les rues de Lausanne !
 ----
@@ -151,11 +151,11 @@ Rue des Terreaux 25, Lausanne
 ----
 map_url: https://www.google.com/maps/place/Migros/@46.5222851,6.625117,17z/data=!3m2!4b1!5s0x478c2e2e815087f9:0x7edf0a3aa5e6717e!4m5!3m4!1s0x478c2e2e8504d92f:0xd196d71953ed54ad!8m2!3d46.5222851!4d6.6273057
 #### event ####
+title: Conférence
+----
 start: 2018-11-24 18:30
 ----
 end: 2018-11-24 20:30
-----
-title: Conférence
 ----
 description:
 
@@ -170,11 +170,11 @@ Salle Zazi Sadou, rue des Savoises 15, Genève
 ----
 map_url: https://www.google.com/maps/place/The+International+House+of+Associations/@46.2009927,6.1363088,17z/data=!3m1!4b1!4m5!3m4!1s0x478c64d5a1b059a9:0xd9f0c3764858c45e!8m2!3d46.2009927!4d6.1384975
 #### event ####
+title: Soirée de clôture (sur inscription)
+----
 start: 2018-11-30 19:00
 ----
 end: 
-----
-title: Soirée de clôture (sur inscription)
 ----
 description:
 
