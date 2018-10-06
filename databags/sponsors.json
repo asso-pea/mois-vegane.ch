@@ -1,4 +1,10 @@
 {
     "sponsors": [
+      {"image": "biotique.jpg", "name": "La Biotique", "url": "http://biotique.ch/"},
+      {"image": "fabulous.jpg", "name": "fabulous!", "url": "https://www.fabulous.ch/"},
+      {"image": "hurraw.jpg", "name": "Hurraw!", "url": "https://hurrawbalm.com/"},
+      {"image": "lamazuna.jpg", "name": "Lamazuna", "url": "https://www.lamazuna.com/fr/"},
+      {"image": "mrvegan.jpg", "name": "Mr. Vegan", "url": "https://mrvegan.ch/"},
+      {"image": "swissveg.jpg", "name": "Swissveg", "url": "https://swissveg.ch/"}
     ]
 }
