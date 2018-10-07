@@ -50,6 +50,18 @@
   @include icon-size(120px);
 }
 
+.icon--600 {
+  @include icon-size(144px);
+}
+
+.icon--700 {
+  @include icon-size(168px);
+}
+
+.icon--800 {
+  @include icon-size(192px);
+}
+
 @include foreach-breakpoint() {
   .#{$breakpoint-name}-icon--200 {
     @include icon-size(48px, -3px);
