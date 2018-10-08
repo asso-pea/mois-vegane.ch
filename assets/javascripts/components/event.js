@@ -18,12 +18,15 @@ function getPastEvents (events) {
 function togglePastEvents () {
   const events = getEvents();
   const pastEvents = getPastEvents(events);
+  const eventsToggler = document.querySelector('[data-toggle="past-events"]');
+
   if (!pastEvents.length || events.length === pastEvents.length) {
+    if (eventsToggler) {
+      eventsToggler.style.display = 'none';
+    }
+
     return;
   }
-
-  const eventsToggler = document.querySelector('.canton__past-events');
-  eventsToggler.style.display = 'block';
 
   let eventsHidden = false;
   const toggle = () => {

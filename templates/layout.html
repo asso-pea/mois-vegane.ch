@@ -44,7 +44,7 @@
           </div>
           <div class="inline-block">
             <ul class="list-inline list-inline--nav">
-              {%- for child in root.children.order_by('sort_key') %}
+              {%- for child in root.children.filter(F.show_in_menu == true).order_by('sort_key') %}
               <li>
                 {%- set page = child.children.order_by('sort_key').first() if child.children else child %}
                 <a class="header__link {% if this.is_child_of(child) %}active{% endif %}" href="{{ page._path | url }}">{{ child.title }}</a>

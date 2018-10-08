@@ -1,0 +1,48 @@
+{% extends "page.html" %}
+{%- from 'macros/icon.html' import icon -%}
+{%- block title %}{{ this.title }}{% endblock %}
+{%- block body %}
+  <main class="canton canton--{{ this._slug }}">
+    {% block pre_introduction %}{% endblock %}
+    {{ this.introduction }}
+    {% block post_introduction %}{% endblock %}
+    <div class="text-center text-small">
+      <a data-toggle="past-events" href="#">[afficher événements déjà passés]</a>
+    </div>
+    <section class="canton__events">
+      {%- for event in this.events.blocks %}
+      <article class="event pdgv">
+        <time class="event__day" datetime="{{ event.start | dateformat('yyyy-MM-dd') }}">
+          {{- event.start | dateformat('d') -}}
+        </time>
+        <div class="event__weekday-title">
+          <div class="event__weekday">
+            {{- event.start | dateformat('EEEE', locale='fr') -}}
+          </div>
+          <h4 class="event__title">
+            {{ event.title }}
+          </h4>
+        </div>
+        {%- if event.description %}
+        <div class="event__description">
+          {{ event.description }}
+          <div class="event__time-location">
+            {% if event.start %}{{ event.start | datetimeformat("HH'h'mm") }}{% if event.end %} – {{ event.end | datetimeformat("HH'h'mm") }}{% endif %}<br>{% endif %}
+            {%- if event.map_url and event.map_url != "" %}<a class="external" href="{{ event.map_url }}" target="_blank">{% endif %}
+              {{ event.location | join('<br>') | safe }}
+            {%- if event.map_url and event.map_url != "" %}</a>{% endif %}
+          </div>
+        </div>
+        {%- endif %}
+
+        {% if event.flags %}
+          <div class="mrgt text-alt">
+            {% if 'deafsubbed' in event.flags %}{{ icon('clap') }}{{ icon('deaf') }}{% endif %}
+            {% if 'wheelchair' in event.flags %}{{ icon('wheelchair') }}{% endif %}
+          </div>
+        {% endif %}
+      </article>
+      {%- endfor %}
+    </section>
+  </main>
+{%- endblock %}
