@@ -1,7 +1,14 @@
 .banner {
   max-height: 360px;
-  margin-bottom: 70px;
+  margin-bottom: $spacing-unit-large;
+
   background: $brand-color;
+}
+
+@include media('md') {
+  .banner {
+    margin-bottom: 70px;
+  }
 }
 
 .banner__img {

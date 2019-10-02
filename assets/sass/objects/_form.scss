@@ -36,11 +36,13 @@
   padding-left: 1.5em;
   font-weight: bold;
   text-transform: uppercase;
+  color: $alt-color;
+
 }
 
 .form__input--radio {
   &:checked + .form__value {
-    color: $alt-color;
+    color: lighten($alt-color, 10%);
   }
 
   &:checked + .form__value::before {
@@ -57,6 +59,7 @@
   background: none;
   font-size: 2.2em;
   -webkit-appearance: none;
+  cursor: pointer;
 }
 
 .form__input--submit {

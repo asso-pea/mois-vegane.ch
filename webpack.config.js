@@ -1,24 +1,28 @@
 /* eslint-env node */
 const path    = require('path');
-const webpack = require('webpack');
-const config  = require('./gulp.config.js');
+const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 const SpriteLoaderPlugin = require('svg-sprite-loader/plugin');
 
-const webpackConfig = {
+module.exports = {
+  mode: process.env.NODE_ENV,
   resolve: {
     modules: [
       path.resolve(__dirname, 'assets/javascripts'),
       path.resolve(__dirname, 'assets'),
       'node_modules'
     ],
-    extensions: ['.js']
+    extensions: ['.js'],
   },
   entry: './assets/javascripts/index.js',
   output: {
     path: path.resolve(__dirname, 'assets/static'),
     filename: '[name].js',
+    publicPath: '/static/'
   },
   plugins: [
+    new MiniCssExtractPlugin({
+      filename: '[name].css',
+    }),
     new SpriteLoaderPlugin(),
   ],
   module: {
@@ -27,15 +31,41 @@ const webpackConfig = {
         test: /\.js$/,
         exclude: /node_modules/,
         loader: 'babel-loader',
-        options: {
-          presets: [
-            ['env', {
-              targets: {
-                browsers: ["Last 2 versions", "IE 11"],
-              },
-            }],
-          ],
-        },
+        exclude: /node_modules\/(?!dom7|swiper|accounting-js)/,
+      },
+      {
+        test: /\.scss$/,
+        use: [
+          {
+            loader: MiniCssExtractPlugin.loader,
+            options: {
+              hmr: process.env.NODE_ENV === 'development',
+            },
+          },
+          'css-loader',
+          {
+            loader: 'postcss-loader',
+            options: {
+              plugins: [
+                require('autoprefixer')(),
+                require('cssnano')(),
+              ],
+            },
+          },
+          'sass-loader',
+        ],
+      },
+      {
+        test: /\.(svg|png|jpe?g|gif|webp|woff|woff2|eot|ttf|otf)$/,
+        exclude: path.resolve(__dirname, 'assets/icons'),
+        use: [
+          {
+            loader: 'file-loader',
+            options: {
+              name: '[name].[ext]',
+            },
+          },
+        ],
       },
       {
         test: /\.svg$/,
@@ -54,21 +84,32 @@ const webpackConfig = {
       },
     ],
   },
-};
-
-if (config.optimize) {
-  webpackConfig.plugins = webpackConfig.plugins.concat([
-    new webpack.DefinePlugin({
-      'process.env': {
-        NODE_ENV: JSON.stringify('production'),
+  devServer: {
+    proxy: {
+      '**': {
+        target: 'http://localhost:5000',
       },
-    }),
-    new webpack.optimize.UglifyJsPlugin({
-      comments: false,
-    }),
-  ]);
-} else {
-  webpackConfig.devtool = 'cheap-module-source-map';
-}
-
-module.exports = webpackConfig;
+    },
+    public: 'mois-vegane.lo:3000',
+    host: '0.0.0.0',
+    port: 3000,
+    compress: true,
+    // Polling is required inside Vagrant boxes
+    watchOptions: {
+      poll: true,
+    },
+    overlay: true,
+  },
+  optimization: {
+    splitChunks: {
+      cacheGroups: {
+        styles: {
+          name: 'styles',
+          test: /\.css$/,
+          chunks: 'all',
+          enforce: true,
+        },
+      },
+    },
+  },
+};

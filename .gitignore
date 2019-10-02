@@ -1,9 +1,4 @@
 /.vagrant/
 /package-lock.json
 /node_modules
-/assets/static/stylesheets
-/assets/static/javascripts
-/assets/static/images
-/assets/static/main.js
-/assets/static/main.js.map
-/assets/static/icons.svg
+/assets/static/
