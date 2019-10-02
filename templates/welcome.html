@@ -5,7 +5,7 @@
 
 {%- block pre_body %}
   <div class="banner">
-    <img class="banner__img" src="{{ '/static/images/header.svg' | asseturl }}">
+    <img class="banner__img" src="{{ '/images/header.svg' | asseturl }}">
   </div>
 {%- endblock %}
 
@@ -13,8 +13,6 @@
   <main class="text-center">
     <section>
       {{ this.intro }}
-      <h2>{{ this.why_vegan_title }}</h2>
-      {{ this.why_vegan_text }}
     </section>
     <section>
       <h2>{{ this.canton_selector }}</h2>

@@ -7,314 +7,148 @@ title: Valais
 events:
 
 #### event ####
-title: Soirée d'ouverture
+title: Soirée d'ouverture: apéritif et discussion
 ----
-start: 2018-11-01 18:00
+flags: wheelchair
 ----
-end: 2018-11-01 19:00
+start: 2019-11-01 18:00
 ----
-description:
-
-Rencontre et accueil des participant-e-s au Mois végane, mot de bienvenue, apéritif végétalien et bonne humeur ! Une spécialiste en nutrition sera sur place pour répondre à vos questions.
-
-Gratuit, chapeau à la sortie.
-----
-location:
-
-RLC Totem
-Rue de Loèche 23, Sion
-----
-map_url: https://www.google.com/maps/place/Rue+de+Lo%C3%A8che+23,+1950+Sion,+Switzerland/@46.2381248,7.36175,18.25z/data=!4m5!3m4!1s0x478edc2d9cadacb1:0x2113e6487e527fb5!8m2!3d46.2381721!4d7.3626889
-#### event ####
-title: Atelier laits et crèmes végétales (sur inscription)
-----
-start: 2018-11-02 19:00
-----
-end: 2018-11-02 21:30
+end: 2019-11-01 20:00
 ----
 description:
 
-Comment alléger recettes salées et sucrées avec du lait et de la crème végétales ? Faire son lait maison, simplement et rapidement.
+Rencontre autour d'un mojito ou d'une bière, apéritif végétalien et discussion sur le thème “Comment végétaliser son alimentation”.  Une spécialiste en nutrition sera sur place pour répondre à vos questions.
 
-**Prix CHF 65.-. Inscription sur [delicesvegetales.ch](http://delicesvegetales.ch).**
+Prix libre, chapeau à la sortie.
 ----
-location:
-
-Chez Mamie
-Rue de Venise 8, Monthey
-----
-map_url: https://www.google.com/maps/place/Chez+Mamie+Monthey/@46.251129,6.9463352,17z/data=!3m1!4b1!4m5!3m4!1s0x478ebcec12b0bf2b:0xcd125edb61dcc276!8m2!3d46.251129!4d6.9485239
-#### event ####
-title: Atelier produits végé & conseils nutrition
-----
-start: 2018-11-03 16:00
-----
-end: 2018-11-03 18:30
-----
-description:
-
-Petit tour des aliments véganes Chez Mamie à Sion. Venez découvrir des produits et leur intérêt nutritif. Une spécialiste en nutrition sera sur place pour répondre à vos questions.
-
-Gratuit, chapeau à la sortie.
-----
-location:
-
-Chez Mamie
-Rue de la Drague 18, Sion
-----
-map_url: https://www.google.com/maps/place/Chez+Mamie/@46.2212528,7.3537467,17z/data=!3m1!4b1!4m5!3m4!1s0x478edc17f062df91:0xcdc54ed29846fb35!8m2!3d46.2212528!4d7.3559354
-#### event ####
-title: Atelier cuisine végétale (sur inscription)
-----
-start: 2018-11-05 18:00
-----
-end: 2018-11-05 21:00
-----
-description:
-
-**INTRODUCTION À LA CUISINE 100% VÉGÉTALE**
-
-Comment déployer une cuisine 100% végétale au quotidien, au-delà du gluten et des sucres raffinés ?  Cette introduction permet de se familiariser avec l'équilibre alimentaire en cuisine végétale. Venez découvrir les trucs et combines pour cuisiner vite et bien, sans complications, pour une alimentation consciente, joyeuse et conviviale, sans tracas, ni tralalas.
-
-**Prix CHF 90.-. Inscription sur [cuisinevegetale.ch](http://cuisinevegetale.ch).**
-----
-location:
-
-Nouvelle Terre
-Rue du Grand-Verger 12, Martigny
-----
-map_url: https://www.google.com/maps/place/Nouvelle+Terre/@46.1023727,7.0738912,17z/data=!3m1!4b1!4m5!3m4!1s0x478ec9d2786ff13b:0x356137f7e8d413de!8m2!3d46.1023727!4d7.0760799
-#### event ####
-title: Atelier protéines végétales (sur inscription)
-----
-start: 2018-11-09 19:00
-----
-end: 2018-11-09 21:30
-----
-description:
-
-Comment remplacer les protéines animales par des protéines végétales sans se prendre la tête ? Découvrir tofu, tempeh, quinoa et autres sources de protéines.
-
-**Prix CHF 65.-. Inscription sur [delicesvegetales.ch](http://delicesvegetales.ch).**
-----
-location:
-
-Chez Mamie
-Rue de Venise 8, Monthey
-----
-map_url: https://www.google.com/maps/place/Chez+Mamie+Monthey/@46.251129,6.9463352,17z/data=!3m1!4b1!4m5!3m4!1s0x478ebcec12b0bf2b:0xcd125edb61dcc276!8m2!3d46.251129!4d6.9485239
-#### event ####
-title: Découverte des produits véganes
-----
-start: 2018-11-10 16:00
-----
-end: 2018-11-10 17:00
-----
-description: Petit tour des aliments véganes à Nouvelle Terre. Venez découvrir des produits et leur intérêt nutritif. Une spécialiste en nutrition sera sur place pour répondre à vos questions. Gratuit, chapeau à la sortie.
-----
-location:
-
-Nouvelle Terre
-Rue du Grand-Verger 12, Martigny
-----
-map_url: https://www.google.com/maps/place/Nouvelle+Terre/@46.1023727,7.0738912,17z/data=!3m1!4b1!4m5!3m4!1s0x478ec9d2786ff13b:0x356137f7e8d413de!8m2!3d46.1023727!4d7.0760799
-#### event ####
-title: Projection « Called to Rescue »
-----
-start: 2018-11-10 17:00
-----
-end: 2018-11-10 19:00
-----
-description:
-
-Tourné aux Etats-Unis dans 15 sanctuaires différents, les portraits de rescapé-e-s à poils ou à plumes dressés permettent d'envisager concrètement une juste coexistence entre animaux.
-
-La projection du documentaire sera suivie d'une discussion. Tous les bénéfices seront reversés au refuge valaisan La bouche qui rit, qui ouvrira aussi ses portes le 17 novembre dans le cadre du Mois végane. Le documentaire est tout public. Gratuit, chapeau à la sortie.
-----
-location:
-
-Nouvelle Terre
-Rue du Grand-Verger 12, Martigny
-----
-map_url: https://www.google.com/maps/place/Nouvelle+Terre/@46.1023727,7.0738912,17z/data=!3m1!4b1!4m5!3m4!1s0x478ec9d2786ff13b:0x356137f7e8d413de!8m2!3d46.1023727!4d7.0760799
-#### event ####
-title: Végétalisez vos recettes (sur inscription)
-----
-start: 2018-11-11 14:00
-----
-end: 2018-11-11 16:00
-----
-description:
-
-Végétalisez vos recettes préférées ! Remplacez lait, crème, beurre et œufs avec en plus des conseils pour une alimentation végétale équilibrée.
-
-**Inscription au [078 205 14 26](tel:+41782051426).**
-----
-location:
-
-lez’Arts
-Route des Condémines 160, Condémines (Nendaz)
+location: RLC Totem, rue de Loèche 23, Sion
 ----
 map_url: 
 #### event ####
-title: Découverte de jus de légumes et dégustation de chocolat cru (sur inscription)
+title: Soirée fondue végétale (sur inscription)
 ----
-start: 2018-11-15 19:00
+flags: wheelchair
 ----
-end: 2018-11-15 20:00
+start: 2019-11-08 19:00
+----
+end: 2019-11-08 21:00
 ----
 description:
 
-Et si on parlait un peu santé ! On vous propose de découvrir les vertus des jus faits maison avec Laurence de Pousse Nature. Et si vous ne connaissez pas le chocolat cru, c'est l'occasion de venir en goûter !
+Venez passer un moment convivial et chaleureux autour d’un verre et d’une fondue 100 % végétale!
 
-**Prix participation consciente. Inscription au [079 376 17 66](tel:+41793761766).**
-----
-location:
+Prix CHF 20.- par personne.
 
-Pousse Nature
-Avenue de la Gare 57, Monthey
+Inscription au [078 205 14 26](tel:+41782051426).
 ----
-map_url: https://www.google.com/maps/place/Pousse+Nature+S%C3%A0rl/@46.2555298,6.9492488,17z/data=!3m1!4b1!4m5!3m4!1s0x478ebcef0bd54b9f:0x843584b36736651e!8m2!3d46.2555298!4d6.9514375
+location: Pousse Nature, avenue de la Gare 57, Monthey
+----
+map_url: 
 #### event ####
-title: Atelier desserts (sur inscription)
+title: Visite du refuge La bouche qui rit (sur inscription)
 ----
-start: 2018-11-16 19:00
+start: 2019-11-09 14:00
 ----
-end: 2018-11-16 21:30
+end: 2019-11-09 17:00
 ----
 description:
 
-Comment ajouter de la douceur à ses repas sans remords ? Fabriquer boules d’énergie, mousses, crèmes, glaces et brownies.
+Venez découvrir les protégé-e-s du refuge La bouche qui rit. Au programme: visite, séances de caresses et de câlins aux chèvres, poneys, cochons, chevaux, etc.
 
-**Prix CHF 65.-. Inscription sur [delicesvegetales.ch](http://delicesvegetales.ch/).**
-----
-location:
+Restauration à prix libre sur place.
 
-Chez Mamie
-Rue de Venise 8, Monthey
+Inscription au [079 903 94 69](tel:+41799039469).
 ----
-map_url: https://www.google.com/maps/place/Chez+Mamie+Monthey/@46.251129,6.9463352,17z/data=!3m1!4b1!4m5!3m4!1s0x478ebcec12b0bf2b:0xcd125edb61dcc276!8m2!3d46.251129!4d6.9485239
+location: La bouche qui rit, avenue de Fully 63, Martigny
+----
+map_url: 
 #### event ####
-title: Après-midi au refuge La bouche qui rit (sur inscription)
+title: Découverte et dégustation
 ----
-start: 2018-11-17 13:00
+start: 2019-11-16 16:30
 ----
-end: 2018-11-17 17:00
+end: 2019-11-16 17:30
 ----
 description:
 
-Venez découvrir les protégé-e-s du refuge La bouche qui rit.  Au programme, visite du refuge, séances de caresses et de câlins aux chèvres, aux poneys, aux cochons, aux chevaux. Restauration à prix libre sur place et présentation par Rakel de la ferme pédagogique « L’école buissonnière ».
+Petit tour des produits de consommation véganes à Nouvelle Terre et dégustation de fromages végétaux en provenance de la Crémerie Végane à Genève. Une spécialiste en nutrition sera sur place pour répondre à vos questions.
 
-**Inscription au [079 903 94 69](tel:+41799039469) ou [raoul.perrenoud@asso-pea.ch](mailto:raoul.perrenoud@asso-pea.ch).**
+Prix libre, chapeau à la sortie.
 ----
-location:
-
-Refuge La bouche qui rit
-Avenue de Fully 63, Martigny
+location: Nouvelle Terre, rue du Grand-Verger 12, Martigny
 ----
-map_url: https://www.google.com/maps/place/Refuge+La+Bouche+qui+rit/@46.1138187,7.0766122,17z/data=!3m1!4b1!4m5!3m4!1s0x478ec82fe22d697f:0x360b2f3a96325620!8m2!3d46.1138187!4d7.0788009
+map_url: 
 #### event ####
-title: Atelier de cuisine végétale (sur inscription)
+title: Projection "Homo Herbivorus"
 ----
-start: 2018-11-19 18:00
+start: 2019-11-16 17:30
 ----
-end: 2018-11-19 21:00
+end: 2019-11-16 20:00
 ----
 description:
 
-**TARTINADES VÉGÉTALES ET APÉROS 100% VÉGÉTAUX, 100% CRÉATIFS**
+Au travers de discussions avec les acteurs-trices et les penseurs-euses de l’éthique animale, “Homo Herbivorus” explore notre relation à la consommation de produits issus de l’exploitation animale. Projection suivie d’une dégustation de fromages végétaux de la Crémerie Végane.
 
-Une des clés pour une cuisine quotidienne plus verte et plus saine est d’avoir sous la main de quoi préparer un repas équilibré en deux temps, trois mouvements. Cet atelier vous propose de découvrir et élaborer quatre types de tartinades pouvant servir de bases protéinées pour vos repas : houmous de lentilles corail aux tomates, crème de graines de tournesol germées échalotes & citron, pesto de persil aux graines de sésame, crème de noix de cajou aux fines herbes.
-
-**Prix CHF 90.-. Inscription sur [cuisinevegetale.ch](http://cuisinevegetale.ch/).**
+Prix libre, chapeau à la sortie.
 ----
-location:
-
-Nouvelle Terre
-Rue du Grand-Verger 12, Martigny
+location: Nouvelle Terre, rue du Grand-Verger 12, Martigny
 ----
-map_url: https://www.google.com/maps/place/Nouvelle+Terre/@46.1023727,7.0738912,17z/data=!3m1!4b1!4m5!3m4!1s0x478ec9d2786ff13b:0x356137f7e8d413de!8m2!3d46.1023727!4d7.0760799
+map_url: 
 #### event ####
-title: Atelier fromages végétaux (sur inscription)
+title: Contes pour enfants
 ----
-start: 2018-11-22 18:30
+start: 2019-11-17 15:00
 ----
-end: 2018-11-22 21:00
+end: 
 ----
-description:
-
-Comment créer de délicieuses préparations fromagères sans lait animal ? Confectionnez plusieurs vromages à base de noix de cajou et autres graines oléagineuses.
-
-**Prix CHF 65.-. Inscription sur [delicesvegetales.ch](http://delicesvegetales.ch/).**
+description: Venez passer un agréable moment avec vos enfants ou petits-enfants autour de Jacqueline qui  nous fera le plaisir de nous conter de merveilleuses histoires dans lesquelles les animaux sont à l’honneur.
 ----
-location:
-
-Chez Mamie
-Rue de la Drague 18, Sion 
+location: Délices Végétales, rue des Cèdres 22, Sion
 ----
-map_url: https://www.google.com/maps/place/Chez+Mamie/@46.2212528,7.3537467,17z/data=!3m1!4b1!4m5!3m4!1s0x478edc17f062df91:0xcdc54ed29846fb35!8m2!3d46.2212528!4d7.3559354
+map_url: 
 #### event ####
-title: Atelier pâtés végétaux (sur inscription)
+title: Brunch 100% végétal (sur inscription)
 ----
-start: 2018-11-23 19:00
+start: 2019-11-17 11:00
 ----
-end: 2018-11-23 21:30
+end: 2019-11-17 15:00
 ----
 description:
 
-Comment végétaliser le fameux pâté de campagne ? Créez de délicieux pâtés avec des graines oléagineuses.
+Délices Végétales vous propose un brunch avec un grand choix de boissons et plats salés et sucrés, bio et végétaliens.
 
-**Prix CHF 65.-. Inscription sur [delicesvegetales.ch](http://delicesvegetales.ch/).**
-----
-location:
+Prix CHF 35.- par adulte, CHF 1.50 par année pour les enfants de 5 à 16 ans.
 
-Chez Mamie
-Rue de Venise 8, Monthey 
+Inscription pour 11h ou 13h à choix jusqu’au 12 nov. sur [delicesvegetales.ch](https://delicesvegetales.ch) ou au [078 908 33 34](tel:+41789083334).
 ----
-map_url: https://www.google.com/maps/place/Chez+Mamie+Monthey/@46.251129,6.9463352,17z/data=!3m1!4b1!4m5!3m4!1s0x478ebcec12b0bf2b:0xcd125edb61dcc276!8m2!3d46.251129!4d6.9485239
+location: Délices Végétales, rue des Cèdres 22, Sion
+----
+map_url: 
 #### event ####
-title: Atelier pâtés végétaux (sur inscription)
+title: Soirée de clôture (sur inscription)
 ----
-start: 2018-11-26 18:30
+start: 2019-11-30 19:00
 ----
-end: 2018-11-26 21:00
-----
-description:
-
-Comment végétaliser le fameux pâté de campagne ? Créez de délicieux pâtés avec des graines oléagineuses.
-
-**Prix CHF 65.-. Inscription sur [delicesvegetales.ch](http://delicesvegetales.ch/).**
-----
-location:
-
-Chez Mamie
-Rue de la Drague 18, Sion
-----
-map_url: https://www.google.com/maps/place/Chez+Mamie/@46.2212528,7.3537467,17z/data=!3m1!4b1!4m5!3m4!1s0x478edc17f062df91:0xcdc54ed29846fb35!8m2!3d46.2212528!4d7.3559354
-#### event ####
-title: Atelier fromages végétaux (sur inscription)
-----
-start: 2018-11-30 19:00
-----
-end: 2018-11-30 21:30
+end: 2019-11-30 21:00
 ----
 description:
 
-Comment créer de délicieuses préparations fromagères sans lait animal ? Confectionnez plusieurs vromages à base de noix de cajou et autres graines oléagineuses.
+Au menu, burger végane avec steak végétal aux lentilles et quinoa, sauce guacamole, oignons caramélisés et salade, accompagné de frites de patates douces et salade de saison. En dessert, crumble banane noix de coco et amandes torréfiées. Le tout bio et fait maison avec des produits locaux.
 
-**Prix CHF 65.-. Inscription sur [delicesvegetales.ch](http://delicesvegetales.ch/).**
-----
-location:
+Prix CHF 30.- par personne ou CHF 26.- sans le dessert.
 
-Chez Mamie
-Rue de Venise 8, Monthey
+Inscription à [info@biotruck.ch](mailto:info@biotruck.ch) ou au [078 943 00 17](tel:+41789430017).
 ----
-map_url: https://www.google.com/maps/place/Chez+Mamie+Monthey/@46.251129,6.9463352,17z/data=!3m1!4b1!4m5!3m4!1s0x478ebcec12b0bf2b:0xcd125edb61dcc276!8m2!3d46.251129!4d6.9485239
+location: Restaurant Biotruck, route du Stand 11, Bex
+----
+map_url: 
 ---
 og_image: vs
 ---
-og_title: Participez au Mois végane romand 2018 dans le canton du Valais!
+og_title: Participez au Mois végane romand 2019 dans le canton du Valais!
 ---
 map_title: Carte des options véganes du Valais
 ---
 map_url: https://drive.google.com/open?id=1Wr0n6gMc3Iwp6kNHBQ2sWGQsyLY
+---
+introduction: <span class="text-alt"><svg class="icon icon--100 icon--wheelchair"><use xlink:href="/static/icons.svg#wheelchair"></use></svg></span> activité avec accès chaises roulantes

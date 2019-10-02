@@ -7,135 +7,72 @@ title: Jura
 events:
 
 #### event ####
-start: 2018-11-02 17:30
+title: Découverte, dégustation et échange
 ----
-end: 2018-11-02 19:00
+flags: wheelchair
 ----
-title: Soirée d'ouverture – apéritif
+start: 2019-11-09 09:30
 ----
-description: Apéritif convivial à prix libre !
+end: 2019-11-09 16:00
 ----
-location:
-
-Végé'table
-Le Borbet 60, Courgenay
+description: Retrouvez-nous à notre stand d’information avec des gourmandises bio, végétaliennes, sucrées ou salées, faites maison!
 ----
-map_url: https://www.google.com/maps/place/V%C3%A9g%C3%A9'table/@47.4020728,7.1132967,17z/data=!3m1!4b1!4m5!3m4!1s0x4791f0b4256943a9:0xd8031c7c51b21cff!8m2!3d47.4020728!4d7.1154854
+location: Magasin bio&co, rue des Pinsons 17, Delémont
+----
+map_url: 
 #### event ####
-start: 2018-11-02 19:00
+title: Découverte, dégustation et échange
+----
+flags: wheelchair
+----
+start: 2019-11-13 09:30
 ----
 end: 
 ----
-title: Soirée d'ouverture - repas (sur inscription)
-----
 description:
 
-Repas bio, local et végétalien préparé par Végé'table (entrée, plat, dessert). 
+Venez déguster plusieurs aliments végétaliens et découvrir des produits véganes (cosmétiques, livres, etc.), que propose le chaleureux et sympathique magasin bio&co.
 
-**Prix du repas CHF 48.- (boissons non comprises). Inscription pour le repas jusqu'au 17 octobre à [virginie.stouder@asso-pea.ch](mailto:virginie.stouder@asso-pea.ch).**
-
-20 personnes max
+09h30 à 12h / 14h à 18h30.
 ----
-location:
-
-Végé'table
-Le Borbet 60, Courgenay
+location: Magasin bio&co, rue des Pinsons 17, Delémont
 ----
-map_url: https://www.google.com/maps/place/V%C3%A9g%C3%A9'table/@47.4020728,7.1132967,17z/data=!3m1!4b1!4m5!3m4!1s0x4791f0b4256943a9:0xd8031c7c51b21cff!8m2!3d47.4020728!4d7.1154854
+map_url: 
 #### event ####
-start: 2018-11-09 19:30
+title: Découverte, animation et échange
+----
+flags: wheelchair
+----
+start: 2019-11-27 09:30
 ----
 end: 
 ----
-title: Repas sans-martin (sur inscription)
-----
 description:
 
-Repas « Sans-Martin » chez Végé'table. Super restau végé au Jura (merci de préciser végétalien lors de votre réservation).
+Retrouvez-nous à notre stand d’information avec animation pour tous les âges. Ce sera l’occasion d’échanger avec nous et, pourquoi pas, de rejoindre  l’association PEA - Pour l’Égalité Animale!
 
-**Prix du repas CHF 48.- (boissons non-comprises). Inscription pour le repas jusqu'au 26 octobre à Végé'table au [079 259 00 19](tel:+41792590019).**
+09h30 à 12h / 14h à 18h30.
 ----
-location:
-
-Végé'table
-Le Borbet 60, Courgenay
+location: Magasin bio&co, rue des Pinsons 17, Delémont
 ----
-map_url: https://www.google.com/maps/place/V%C3%A9g%C3%A9'table/@47.4020728,7.1132967,17z/data=!3m1!4b1!4m5!3m4!1s0x4791f0b4256943a9:0xd8031c7c51b21cff!8m2!3d47.4020728!4d7.1154854
+map_url: 
 #### event ####
-start: 2018-11-10 19:30
+title: Projection «Peaceable Kingdom» et discussion
 ----
-end: 
+flags: wheelchair
 ----
-title: Repas sans-martin (sur inscription)
+start: 2019-11-30 19:30
 ----
-description:
-
-Repas « Sans-Martin » chez Végé'table. Super restau végé au Jura (merci de préciser végétalien lors de votre réservation).
-
-**Prix du repas CHF 48.- (boissons non-comprises). Inscription pour le repas jusqu'au 26 octobre à Végé'table au [079 259 00 19](tel:+41792590019).**
+end: 2019-11-30 22:00
 ----
-location:
-
-Végé'table
-Le Borbet 60, Courgenay
+description: Ce film est le récit d’éleveurs et d’éleveuses qui questionnent les fondations d’un mode de vie qu’ils et elles ont toujours connu. La diffusion sera suivie d’un moment de discussion sur notre relation avec les animaux et un verre de l’amitié sera servi pour clore la soirée et ce Mois végane!
 ----
-map_url: https://www.google.com/maps/place/V%C3%A9g%C3%A9'table/@47.4020728,7.1132967,17z/data=!3m1!4b1!4m5!3m4!1s0x4791f0b4256943a9:0xd8031c7c51b21cff!8m2!3d47.4020728!4d7.1154854
-#### event ####
-start: 2018-11-17 19:45
+location: Collège, avenue de la gare 7, Delémont
 ----
-end: 2018-11-17 21:45
-----
-title: Conférence & débat sur l'antispécisme
-----
-description: Conférence par Manuelle et Tim sur l'antispecisme, suivi d'un débat. Stand infos PEA et verre de l'amitié !
-----
-location:
-
-Aula du Collège de Delémont
-Avenue de la gare 7, Delémont
-----
-map_url: https://www.google.com/maps/place/Coll%C3%A8ge+de+Del%C3%A9mont/@47.365743,7.3479373,17z/data=!3m1!4b1!4m5!3m4!1s0x4791e7da00266c09:0x663798ac4b484015!8m2!3d47.365743!4d7.350126
-#### event ####
-start: 2018-11-24 10:00
-----
-end: 2018-11-24 14:00
-----
-title: Atelier cuisine végétale enfant (sur inscription)
-----
-description:
-
-Atelier de cuisine végétale pour les enfants par l'association Espace Arc-en-ciel.
-
-**Prix CHF 20.-. Inscription jusqu'au 13 novembre à [anitaarcenciel@gmail.com](mailto:anitaarcenciel@gmail.com).**
-----
-location:
-
-Espace Arc-en-ciel
-Les Forges 1A, Undervelier
-----
-map_url: https://www.google.com/maps/place/Les+Forges+1A,+2863+Undervelier,+Switzerland/@47.3120288,7.215116,17z/data=!3m1!4b1!4m5!3m4!1s0x4791e49026771c2b:0x537175886586c794!8m2!3d47.3120288!4d7.2173047
-#### event ####
-start: 2018-11-30 16:00
-----
-end: 
-----
-title: Atelier cuisine & repas de clôture (sur inscription)
-----
-description:
-
-Atelier de cuisine végétale simple, support sur l'alimentation végétale et repas avec boissons en commun !
-
-**Prix CHF 40.- (tout compris). Inscription jusqu'au 19 novembre à [katia.rondez@asso-pea.ch](mailto:katia.rondez@asso-pea.ch).**
-
-10 personnes max
-----
-location:
-
-Centre l'Envol
-Rue Dos-chez-Mérat 6, Bassecourt
-----
-map_url: https://www.google.com/maps/place/Rue+Dos-chez-M%C3%A9rat+6,+2854+Bassecourt,+Switzerland/@47.3358599,7.2426826,17z/data=!3m1!4b1!4m5!3m4!1s0x4791e452f95b1c2f:0xd0806011d31c586!8m2!3d47.3358599!4d7.2448713
+map_url: 
 ---
 og_image: ju
 ---
-og_title: Participez au Mois végane romand 2018 dans le canton du Jura!
+og_title: Participez au Mois végane romand 2019 dans le canton du Jura!
+---
+introduction: <span class="text-alt"><svg class="icon icon--100 icon--wheelchair"><use xlink:href="/static/icons.svg#wheelchair"></use></svg></span> activité avec accès chaises roulantes

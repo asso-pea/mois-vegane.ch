@@ -2,10 +2,11 @@ _model: welcome
 ---
 title: En novembre, relevez le défi du Mois végane
 ---
-intro: Durant tout le mois de novembre, l'association PEA vous invite à essayer d'adopter un mode de vie sans produits d'origine animale, que ce soit dans l'alimentation, dans l'habillement, les cosmétiques ou les loisirs. Nous vous avons concocté un tas d'événements sympas durant tout le mois: soirées, conférences, projections, ateliers, cours de cuisine, shopping tour, etc.
+intro:
+
+Durant tout le mois de novembre 2019, nous vous invitons à adopter un mode de vie sans produits d’origine animale, que ce soit dans l’alimentation, dans l’habillement, les cosmétiques ou les loisirs.
+Une quarantaine d’événements organisés dans toute la Suisse romande vous permettront de vous engager pour une société égalitaire pour tous les animaux. Rejoignez l’un des groupes régionaux (Fribourg, Genève, Jura, Neuchâtel, Valais et Vaud) et venez célébrer le Mois végane avec nous!
+
+Le Mois végane romand, inspiré par le _World Vegan Month_ de la Vegan Society, est organisé par l’association PEA - Pour l’Égalité Animale. Créée en 2014 et présente aujourd’hui dans l’ensemble de la Suisse romande, son objectif est la fin du spécisme (discrimination basée sur l’appartenance d’espèce) et l’avènement d’une société égalitaire pour tous les êtres sensibles. Le spécisme est à l’origine de l’exploitation injustifiable dont sont victimes les animaux, c’est pourquoi il est urgent d’y mettre fin et de respecter la vie de tous les êtres sensibles, qu’ils-elles soient humain-e-s ou pas.
 ---
-why_vegan_title: Pourquoi ?
----
-why_vegan_text: C'est juste que « go vegan », c'est plus facile à dire que « go fais de ton mieux pour réduire ton impact négatif sur les êtres sensibles au quotidien en analysant chacune de tes décisions au regard de cette forme d'oppression de la même manière que tu le fais pour les autres formes d'oppression ». Et en plus ça tient dans un hashtag. Pour rappel, entre 1000 et 3000 milliards d'animaux vertébrés sont tués chaque année pour notre consommation.
----
-canton_selector: Choisis ton canton
+canton_selector: Programme par région

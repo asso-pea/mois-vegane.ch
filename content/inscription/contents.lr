@@ -1,5 +1,7 @@
 _model: subscription
 ---
+_hidden: true
+---
 title: Inscription
 ---
 sort_key: 4
