@@ -1,17 +1,4 @@
 {
     "sponsors": [
-      {"image": "biotique.jpg", "name": "La Biotique", "url": "http://biotique.ch/"},
-      {"image": "fabulous.jpg", "name": "fabulous!", "url": "https://www.fabulous.ch/"},
-      {"image": "hurraw.jpg", "name": "Hurraw!", "url": "https://hurrawbalm.com/"},
-      {"image": "lamazuna.jpg", "name": "Lamazuna", "url": "https://www.lamazuna.com/fr/"},
-      {"image": "mrvegan.jpg", "name": "Mr. Vegan", "url": "https://mrvegan.ch/"},
-      {"image": "swissveg.jpg", "name": "Swissveg", "url": "https://swissveg.ch/"},
-      {"image": "newroots.jpg", "name": "New Roots", "url": "https://www.newroots.ch/"},
-      {"image": "lush.jpg", "name": "Lush cosmetics", "url": "https://www.lush.ch/"},
-      {"image": "sonett.jpg", "name": "Sonett", "url": "https://www.sonett.eu/"},
-      {"image": "wilmersburger.jpg", "name": "Wilmersburger", "url": "http://www.wilmersburger.de/"},
-      {"image": "vego.jpg", "name": "Vego", "url": "http://vego-chocolate.com/"},
-      {"image": "veganopolis.jpg", "name": "Veganopolis café", "url": "http://veganopolis.org/"},
-      {"image": "engeltofu.jpg", "name": "Engel tofu", "url": "https://www.engel-tofu.ch/"}
     ]
 }
