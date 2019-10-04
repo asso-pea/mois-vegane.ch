@@ -30,13 +30,17 @@
     </section>
     {% if bag('sponsors').sponsors %}
     <section class="mrgt+">
-      <h2>Avec le soutien de</h2>
+      <h2>Partenaires</h2>
       <div class="flex flex--center text-xs">
         {% for sponsor in bag('sponsors').sponsors %}
           <div class="flex__item mrgh-- mrgv--">
+            {% if sponsor.url %}
             <a href="{{ sponsor.url }}" target="_blank">
+            {% endif %}
               <img src="{{ ('images/sponsor/' + sponsor.image) | asseturl }}" alt="{{ sponsor.name }}">
+            {% if sponsor.url %}
             </a>
+            {% endif %}
           </div>
         {% endfor %}
       </div>

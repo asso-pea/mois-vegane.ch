@@ -1,4 +1,18 @@
 {
     "sponsors": [
+      {"image": "cremerievegane.jpg", "name": "La crèmerie végane", "url": "https://cremerievegane.com/"},
+      {"image": "laquatriemevague.jpg", "name": "La quatrième vague", "url": ""},
+      {"image": "bioetco.jpg", "name": "bio&co", "url": ""},
+      {"image": "delicesvegetales.jpg", "name": "Délices végétales", "url": ""},
+      {"image": "biotruck.jpg", "name": "Bio Truck", "url": ""},
+      {"image": "coexister.jpg", "name": "Co&xister", "url": "https://www.asso-coexister.ch/"},
+      {"image": "labouchequirit.jpg", "name": "La bouche qui rit", "url": ""},
+      {"image": "envie.jpg", "name": "Envie", "url": ""},
+      {"image": "anonymous.jpg", "name": "Anonymous for the Voiceless", "url": ""},
+      {"image": "dropinshop.jpg", "name": "Dropinshop", "url": "http://www.dropinshop.ch/"},
+      {"image": "poussenature.jpg", "name": "Pousse nature", "url": ""},
+      {"image": "antidote.jpg", "name": "Antidote", "url": ""},
+      {"image": "stopgavage.jpg", "name": "Stop Gavage Suisse", "url": "https://www.stopgavagesuisse.ch/"},
+      {"image": "slice.jpg", "name": "Slice pizza", "url": "https://www.slicepizzach.com/"}
     ]
 }
