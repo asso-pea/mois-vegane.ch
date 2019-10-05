@@ -1,17 +1,20 @@
 {
     "sponsors": [
       {"image": "cremerievegane.jpg", "name": "La crèmerie végane", "url": "https://cremerievegane.com/"},
-      {"image": "bioetco.jpg", "name": "bio&co", "url": ""},
-      {"image": "delicesvegetales.jpg", "name": "Délices végétales", "url": ""},
-      {"image": "biotruck.jpg", "name": "Bio Truck", "url": ""},
+      {"image": "bioetco.jpg", "name": "bio&co", "url": "https://www.bioetco.ch/"},
+      {"image": "delicesvegetales.jpg", "name": "Délices végétales", "url": "http://www.delicesvegetales.ch/"},
+      {"image": "biotruck.jpg", "name": "Bio Truck", "url": "https://biotruck.ch/"},
       {"image": "coexister.jpg", "name": "Co&xister", "url": "https://www.asso-coexister.ch/"},
-      {"image": "labouchequirit.jpg", "name": "La bouche qui rit", "url": ""},
-      {"image": "envie.jpg", "name": "Envie", "url": ""},
-      {"image": "anonymous.jpg", "name": "Anonymous for the Voiceless", "url": ""},
+      {"image": "labouchequirit.jpg", "name": "La bouche qui rit", "url": "https://www.facebook.com/refugelabouchequirit1920/"},
+      {"image": "envie.jpg", "name": "Envie", "url": "https://www.envievegan.ch/"},
+      {"image": "anonymous.jpg", "name": "Anonymous for the Voiceless", "url": "https://www.anonymousforthevoiceless.org/"},
       {"image": "dropinshop.jpg", "name": "Dropinshop", "url": "http://www.dropinshop.ch/"},
-      {"image": "poussenature.jpg", "name": "Pousse nature", "url": ""},
-      {"image": "antidote.jpg", "name": "Antidote", "url": ""},
+      {"image": "poussenature.jpg", "name": "Pousse nature", "url": "https://poussenature.ch/"},
+      {"image": "antidote.jpg", "name": "Antidote", "url": "https://antidote-europe.eu/"},
       {"image": "stopgavage.jpg", "name": "Stop Gavage Suisse", "url": "https://www.stopgavagesuisse.ch/"},
-      {"image": "slice.jpg", "name": "Slice pizza", "url": "https://www.slicepizzach.com/"}
+      {"image": "slice.jpg", "name": "Slice pizza", "url": "https://www.slicepizzach.com/"},
+      {"image": "eateco.jpg", "name": "eateco", "url": "https://eateco-natural-food.business.site/"},
+      {"image": "plantastique.jpg", "name": "Plantastique", "url": "https://www.plantastique.com/"},
+      {"image": "veganeuch.jpg", "name": "Vega'Neuch", "url": "https://www.facebook.com/VEGANeuch-368921063591089/"}
     ]
 }
