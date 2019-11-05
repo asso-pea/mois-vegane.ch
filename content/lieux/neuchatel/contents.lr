@@ -131,12 +131,8 @@ og_image: ne
 ---
 og_title: Participez au Mois végane romand 2019 dans le canton de Neuchâtel!
 ---
-map_title: Carte des options véganes de la Chaux-de-Fonds
+map_title: Carte des options véganes de Neuchâtel et de la Chaux-de-Fonds
 ---
-map_url: https://drive.google.com/open?id=1zEbcYlylfZiMwFQUPQ0UC3iP3B0
+map_url: https://www.happycow.net/searchmap?location=Neuchatel,%20Switzerland&radius=15&metric=mi&limit=81&order=default&lat=46.99&lng=6.92927
 ---
-introduction:
-
-<div class="text-center"><a class="text-alt external" target="_blank" href="https://drive.google.com/a/asso-pea.ch/open?id=18y4F1tU-4J9VhJLJOwcYBqe1l44mipvP&usp=sharing">Carte des options véganes de Neuchâtel</a></div>
-
-<span class="text-alt"><svg class="icon icon--100 icon--wheelchair"><use xlink:href="/static/icons.svg#wheelchair"></use></svg></span> activité avec accès chaises roulantes
+introduction: <span class="text-alt"><svg class="icon icon--100 icon--wheelchair"><use xlink:href="/static/icons.svg#wheelchair"></use></svg></span> activité avec accès chaises roulantes
